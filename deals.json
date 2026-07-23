@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23T19:53:02.781007+00:00",
+ "updated_at": "2026-07-23T20:49:03.019648+00:00",
  "deals": [
   {
    "no": 722045,
@@ -9,6 +9,33 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722045",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723101330_eno7k5PyCK.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodsCode=2628478123"
+  },
+  {
+   "no": 722298,
+   "shop": "톡딜",
+   "title": "국내산 꿀고구마 말랭이 10봉",
+   "price": "13,760원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722298",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724053030_tvQ4Dkd6lF.jpg",
+   "product_url": "https://store.kakao.com/gogumamania/products/702151119"
+  },
+  {
+   "no": 722297,
+   "shop": "톡딜",
+   "title": "백도 딱딱이 복숭아 2kg",
+   "price": "8,900원 / 무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722297",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724051323_bUlThxXELB.jpg",
+   "product_url": "https://store.kakao.com/hayafarm/products/766986405"
+  },
+  {
+   "no": 722296,
+   "shop": "카카오",
+   "title": "골든에그 햇감자 2kg",
+   "price": "9,900원 / 무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722296",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724050423_pT4Cm4tQDJ.webp",
+   "product_url": "https://store.kakao.com/sjwjd/products/767224683"
   },
   {
    "no": 722295,
@@ -333,33 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722248",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723210339_GjHucPLwbH.jpg",
    "product_url": "https://www.11st.co.kr/products/9465816054"
-  },
-  {
-   "no": 722247,
-   "shop": "롯데홈쇼핑",
-   "title": "3중직 냉감 침대패드 슈퍼싱글",
-   "price": "16,000원/3만무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722247",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723210345_lDuU6V1Fvr.jpg",
-   "product_url": "https://m.lotteimall.com/planshop/viewPlanShopDetail.lotte?spdp_no=5470948"
-  },
-  {
-   "no": 722246,
-   "shop": "G마켓",
-   "title": "나이키 정품 크로스바디백",
-   "price": "14,960원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722246",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723205641_rqD93y2U0i.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3099706825"
-  },
-  {
-   "no": 722245,
-   "shop": "카카오",
-   "title": "양념불쭈꾸미 350g 3봉",
-   "price": "23,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722245",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723210108_yk6Kfiqc.jpg",
-   "product_url": null
   }
  ]
 }
