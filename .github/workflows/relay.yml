@@ -1,0 +1,38 @@
+name: relay
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: relay
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch ppomppu deals
+        run: python3 fetch_deals.py || echo "deals fetch failed"
+
+      - name: Fetch costco (cocodalin)
+        run: python3 fetch_costco.py || echo "costco fetch failed"
+
+      - name: Commit if changed
+        run: |
+          git config user.name relay-bot
+          git config user.email relay@users.noreply.github.com
+          git add deals.json costco.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "relay: $(date -u +%Y-%m-%dT%H:%M)"
+            git push
+          else
+            echo "no changes"
+          fi
