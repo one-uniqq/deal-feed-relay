@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-07-23T06:37:06.597162+00:00",
+ "updated_at": "2026-07-23T06:39:09.721112+00:00",
  "deals": [
   {
-   "no": 721909,
-   "shop": "롯데온",
-   "title": "(농할) 성주 꿀 참외 가정용 혼합과 실중량10kg",
-   "price": "6,990원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=721909",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0722/20260722172934_eQBUwJAqhD.jpeg",
-   "product_url": "https://s.lotteon.com/jtTcQxs4W4?ch_dtl_no=1044428"
+   "no": 721924,
+   "shop": "지마켓",
+   "title": "해피콜 플렉스팬 IH 와이드 인덕션 후라이팬 20cm",
+   "price": "14,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=721924",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0722/20260722181205_vMuisZCdMh.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2647573160"
+  },
+  {
+   "no": 722137,
+   "shop": "11번가",
+   "title": "카푸네 두피 헤어토닉",
+   "price": "15,030원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722137",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723153737_D8wbNYnhtj.jpg",
+   "product_url": "https://www.11st.co.kr/products/9054873602"
+  },
+  {
+   "no": 722136,
+   "shop": "카카오톡딜",
+   "title": "신대장떡볶이 230g 1+1 총 460g [3,540 / 무배]",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722136",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723153656_OQdaCgYU.jpg",
+   "product_url": "https://store.kakao.com/sinboss/products/746513843"
   },
   {
    "no": 722135,
@@ -341,24 +359,6 @@
    "price": "799,000원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722093",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723121223_qdUhLsqF.jpg",
-   "product_url": null
-  },
-  {
-   "no": 722091,
-   "shop": "G마켓",
-   "title": "아디다스 남성 에어로레디 드로즈 5종 세트",
-   "price": "31,660원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722091",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723120354_O8UnUQBohs.jpg",
-   "product_url": null
-  },
-  {
-   "no": 722090,
-   "shop": "옥션",
-   "title": "신세계푸드 올반 팬피자 4판 골라담기 (5% 적립)",
-   "price": "16,530원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722090",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723115426_LIycf3Maio.jpg",
    "product_url": null
   }
  ]
