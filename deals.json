@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23T16:58:17.093992+00:00",
+ "updated_at": "2026-07-23T18:10:22.776641+00:00",
  "deals": [
   {
    "no": 722052,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722052",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723101059_ye9INBeotH.jpeg",
    "product_url": "https://m.nsmall.com/goods/34912576"
+  },
+  {
+   "no": 722295,
+   "shop": "스팀",
+   "title": "Yet Another Zombie Defense HD",
+   "price": "무료/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722295",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724020158_z2Cdo1cd.jpg",
+   "product_url": "https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/"
   },
   {
    "no": 722294,
@@ -359,15 +368,6 @@
    "price": "23,900원/무배",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722245",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723210108_yk6Kfiqc.jpg",
-   "product_url": null
-  },
-  {
-   "no": 722244,
-   "shop": "네이버",
-   "title": "양념닭갈비 900g + 산적구이 1kg",
-   "price": "13,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722244",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0723/20260723205850_QzWyGfNh5t.jpg",
    "product_url": null
   }
  ]
