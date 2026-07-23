@@ -32,6 +32,7 @@ jobs:
           git add deals.json costco.json 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "relay: $(date -u +%Y-%m-%dT%H:%M)"
+            git pull --rebase origin main || true
             git push
           else
             echo "no changes"
