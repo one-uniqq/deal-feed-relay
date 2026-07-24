@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-07-24T22:50:23.474678+00:00",
+ "updated_at": "2026-07-24T23:53:32.642390+00:00",
  "deals": [
   {
-   "no": 722400,
-   "shop": "지마켓",
-   "title": "샤오미 미지아 구강세정기 2세대 MEO705",
-   "price": "28,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722400",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724153816_anZ3XzwdqQ.png",
-   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.searchlist.0.0.26174c3cFYlHOa&goodsCode=4505975547"
+   "no": 722458,
+   "shop": "롯데온",
+   "title": "(농할) 경북 물복황도복숭아4kg 대과 15-17과",
+   "price": "13,970원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722458",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724181056_Prl8sdJGFK.png",
+   "product_url": "https://www.lotteon.com/p/product/LO2730524063?sitmNo=LO2730524063_2730524074&dp_infw_cd=CAT57821&areaCode=TODAY_6ea&ch_dtl_no=1044428"
+  },
+  {
+   "no": 722539,
+   "shop": "토스",
+   "title": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
+   "price": "11,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722539",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725081315_xGtNW0OrqQ.jpg",
+   "product_url": "https://toss.shopping/t/230043017"
   },
   {
    "no": 722538,
@@ -182,15 +191,6 @@
    "product_url": "https://www.giordanojunior.co.kr/shop/detail.php?pno=8A72211C552FB8D1F4790E5085F2F901&cno1=2309&brand=page_junior"
   },
   {
-   "no": 722508,
-   "shop": "G마켓",
-   "title": "펩시제로슈거 라임 310ml 24캔",
-   "price": "10,500원/무배/멤버십x",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722508",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724233656_EGQDtEmZeP.png",
-   "product_url": "https://link.gmarket.co.kr/yjM0Fjaf7"
-  },
-  {
    "no": 722505,
    "shop": "11번가",
    "title": "한돈 삼겹살 구이용 1kg",
@@ -342,15 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722483",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724202128_aVO2kddIGY.jpg",
    "product_url": "https://www.ssg.com/item/itemView.ssg?itemId=1000854676482"
-  },
-  {
-   "no": 722482,
-   "shop": "네이버",
-   "title": "프레시웰 2L X 24개",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722482",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724201506_Sgd38q43hi.jpg",
-   "product_url": "https://smartstore.naver.com/mulhana/products/11162879968"
   }
  ]
 }
