@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-07-24T21:53:20.233283+00:00",
+ "updated_at": "2026-07-24T22:50:23.474678+00:00",
  "deals": [
   {
-   "no": 722373,
+   "no": 722400,
+   "shop": "지마켓",
+   "title": "샤오미 미지아 구강세정기 2세대 MEO705",
+   "price": "28,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722400",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724153816_anZ3XzwdqQ.png",
+   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.searchlist.0.0.26174c3cFYlHOa&goodsCode=4505975547"
+  },
+  {
+   "no": 722538,
    "shop": "롯데온",
-   "title": "페브리즈 차량용 방향제 2+1 3개",
-   "price": "9,880원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722373",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724131252_hyCmgbA83w.png",
-   "product_url": "https://www.lotteon.com/p/product/LO2362751582"
+   "title": "빙그레 붕어싸만코/빵또아/시모나 20개+아이스크림 바 20개",
+   "price": "25,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722538",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725071248_famvqBsHWQ.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2724198312"
   },
   {
    "no": 722537,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722482",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724201506_Sgd38q43hi.jpg",
    "product_url": "https://smartstore.naver.com/mulhana/products/11162879968"
-  },
-  {
-   "no": 722481,
-   "shop": "11번가",
-   "title": "푸룬주스 1.89L x 2병",
-   "price": "25,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722481",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0724/20260724201406_VcjEWgt3Vz.jpg",
-   "product_url": "https://www.11st.co.kr/products/4181397704"
   }
  ]
 }
