@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-07-25T16:42:42.381862+00:00",
+ "updated_at": "2026-07-25T17:47:18.507024+00:00",
  "deals": [
   {
-   "no": 722622,
-   "shop": "롯데온",
-   "title": "아메리칸투어리스터 ROCKFORD 29인치 캐리어",
-   "price": "104,880원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722622",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725181936_OZU4lRKo.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO1001304265?sitmNo=LO1001304265_1001304266&ch_no=100065&ch_dtl_no=1000030&entryPoint=pcs&dp_infw_cd=CHT&nv_ad=pla&airbridge_referrer=airbridge%3Dtrue%26client_id%3Db3f514aa-5da4-4325-98bc-b1ea98298737%26event_uuid%3Dd56e"
+   "no": 722676,
+   "shop": "옥션",
+   "title": "프로젝트엠 남여 여름 쿨팬츠/데님쇼츠/쿨텐션티/소로나티 17종택1",
+   "price": "10,310원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722676",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726014409_h3fa755CNp.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=F421467154"
+  },
+  {
+   "no": 722678,
+   "shop": "지마켓",
+   "title": "갤럭시/아이폰 맥세이프 케이스 1+1",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722678",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726022812_17aA3D8PyF.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4066696247"
+  },
+  {
+   "no": 722677,
+   "shop": "동국제약건강몰",
+   "title": "멀티비타민 이뮨에너지샷 총50개",
+   "price": "60,837원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722677",
+   "thumb_url": "",
+   "product_url": "https://dknutrition.co.kr/product/detail.html?product_no=2173"
   },
   {
    "no": 722672,
@@ -342,33 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722626",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725185648_Ob1NCu5GYj.jpg",
    "product_url": "https://link.gmarket.co.kr/Wr1g5wOO3"
-  },
-  {
-   "no": 722624,
-   "shop": "네이버",
-   "title": "포스트 단백질바 50g, 10개입 3개",
-   "price": "23,050원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722624",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725183620_UWPRQSpV6w.jpg",
-   "product_url": "https://m.brand.naver.com/dongsuh/products/9768755853?NaPm=ci%3D7pU_QLHlqyR7632JJLb6a-ww%7Ctr%3Dgfa%7Cct%3Dms05tj0e%7Chk%3D83f2c569124f12b6fd040d63380b9fc8bb290c73%7Cnacn%3DbdqZBAxCybjN"
-  },
-  {
-   "no": 722623,
-   "shop": "G마켓",
-   "title": "리복 하이페리엄 2WAY 남여공용 슬라이드 샌들",
-   "price": "41,660원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722623",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725182003_5bYzY4rm1H.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodsCode=4398509309"
-  },
-  {
-   "no": 722622,
-   "shop": "롯데온",
-   "title": "아메리칸투어리스터 ROCKFORD 29인치 캐리어",
-   "price": "104,880원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722622",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0725/20260725181936_OZU4lRKo.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO1001304265?sitmNo=LO1001304265_1001304266&ch_no=100065&ch_dtl_no=1000030&entryPoint=pcs&dp_infw_cd=CHT&nv_ad=pla&airbridge_referrer=airbridge%3Dtrue%26client_id%3Db3f514aa-5da4-4325-98bc-b1ea98298737%26event_uuid%3Dd56e"
   }
  ]
 }
