@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-07-26T20:02:31.112776+00:00",
+ "updated_at": "2026-07-26T21:23:21.097404+00:00",
  "deals": [
   {
-   "no": 722752,
+   "no": 722723,
    "shop": "롯데온",
-   "title": "레노마 남성 정장 상하의 세트",
-   "price": "67,730원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722752",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726184234_jOqY4sdwsy.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1218049107"
+   "title": "오롯이식탁 순살 고등어 650g",
+   "price": "16,970원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722723",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726145434_ta73ZKWwpU.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2722430142"
   },
   {
    "no": 722821,
@@ -128,15 +128,6 @@
    "product_url": "https://m.brand.naver.com/donga-otsuka/products/3334460069"
   },
   {
-   "no": 722808,
-   "shop": "G마켓",
-   "title": "아산맑은쌀 10kg",
-   "price": "27,310원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722808",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727001555_lYTPCyNVac.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4763338011"
-  },
-  {
    "no": 722807,
    "shop": "토스쇼핑",
    "title": "산해직송 파김치 1kg",
@@ -218,15 +209,6 @@
    "product_url": "https://www.concepts1one.co.kr/shop/detail.php?pno=A13338B336AC58ABE821C72B19B08159&cno164"
   },
   {
-   "no": 722796,
-   "shop": "CJ온스타일",
-   "title": "리르 EGF 펩링크 아이크림 15ml 본품",
-   "price": "3,000원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722796",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726225340_b8zhdk8exT.jpg",
-   "product_url": "https://cjon.style/8uCphPHqCB"
-  },
-  {
    "no": 722795,
    "shop": "토스",
    "title": "일양약품 눈건강 루테인 골드, 500mg, 30캡슐, 6박스",
@@ -279,15 +261,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722788",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726215326_jwljOd7wq4.jpg",
    "product_url": "https://smartstore.naver.com/heedongi/products/13325469013"
-  },
-  {
-   "no": 722787,
-   "shop": "토스",
-   "title": "베라 무해력 4ZERO 클래식, 3겹 30롤 25m, 2팩 구성",
-   "price": "10,790/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722787",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726215023_MURZoDUD.jpg",
-   "product_url": "https://toss.im/_m/N3cq4nx3"
   },
   {
    "no": 722786,
@@ -369,6 +342,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722776",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726205946_ENAk5h7xyz.jpg",
    "product_url": "https://smartstore.naver.com/acefood/products/5495373617"
+  },
+  {
+   "no": 722775,
+   "shop": "카카오",
+   "title": "깨끗한나라 순수 소프트 27m 30롤 2팩",
+   "price": "23,400원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722775",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726205748_Vdr02UFC2I.jpeg",
+   "product_url": "https://store.kakao.com/kleannara/products/96171840"
   }
  ]
 }
