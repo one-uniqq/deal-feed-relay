@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-26T21:23:21.097404+00:00",
+ "updated_at": "2026-07-26T22:26:24.151865+00:00",
  "deals": [
   {
    "no": 722723,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722723",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726145434_ta73ZKWwpU.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2722430142"
+  },
+  {
+   "no": 722822,
+   "shop": "G마켓",
+   "title": "라인바싸 500ml PET 2박스 (총40입)",
+   "price": "11,880/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722822",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727062717_eONABEtwSs.png",
+   "product_url": "https://link.gmarket.co.kr/atugS1Jlw"
   },
   {
    "no": 722821,
@@ -81,15 +90,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722814",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727001529_Jy3LOznp8r.jpg",
    "product_url": "https://brand.naver.com/tsla/products/13675041567"
-  },
-  {
-   "no": 722813,
-   "shop": "G마켓",
-   "title": "제스프리 골드키위 점보과 3.4kg",
-   "price": "20,450원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722813",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727002610_KDpsah4phF.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4497709048"
   },
   {
    "no": 722812,
@@ -342,15 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722776",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726205946_ENAk5h7xyz.jpg",
    "product_url": "https://smartstore.naver.com/acefood/products/5495373617"
-  },
-  {
-   "no": 722775,
-   "shop": "카카오",
-   "title": "깨끗한나라 순수 소프트 27m 30롤 2팩",
-   "price": "23,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=722775",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0726/20260726205748_Vdr02UFC2I.jpeg",
-   "product_url": "https://store.kakao.com/kleannara/products/96171840"
   }
  ]
 }
