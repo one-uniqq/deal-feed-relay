@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-07-27T22:48:25.968637+00:00",
+ "updated_at": "2026-07-27T23:52:34.978864+00:00",
  "deals": [
   {
-   "no": 723039,
+   "no": 723019,
    "shop": "G마켓",
-   "title": "VISION VIEW 15.6인치 휴대용 포터블 모니터",
-   "price": "72,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723039",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727235723_5an8QSZ3uw.png",
-   "product_url": null
+   "title": "오리 고추장 불고기 1kg(3~4인분) 국내산",
+   "price": "19,710원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723019",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727213856_cDMmPsMUjk.jpg",
+   "product_url": "https://link.gmarket.co.kr/4lyEauEcKB"
+  },
+  {
+   "no": 723083,
+   "shop": "토스",
+   "title": "한예지 가든 플라워 롤 화장지, 3겹, 30m, 30롤, 2팩",
+   "price": "11,900/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723083",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728083652_LaywOHyg.jpg",
+   "product_url": "https://toss.shopping/t/230043017"
+  },
+  {
+   "no": 723082,
+   "shop": "카카오",
+   "title": "톡학생증용 갤폴드8 와이드 사전구매 256-&gt;512gb",
+   "price": "2,186,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723082",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728083345_Ebh0eYHkca.jpg",
+   "product_url": "https://store.kakao.com/samsung/products/764001016"
   },
   {
    "no": 723080,
@@ -341,15 +359,6 @@
    "price": "72,900원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723039",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727235723_5an8QSZ3uw.png",
-   "product_url": null
-  },
-  {
-   "no": 723036,
-   "shop": "네이버",
-   "title": "훈연 초벌 돼지막창 200g 5팩 + 막창소스",
-   "price": "21,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723036",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0727/20260727225322_LmdxFZWn58.jpg",
    "product_url": null
   }
  ]
