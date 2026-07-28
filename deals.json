@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-07-28T21:54:06.732548+00:00",
+ "updated_at": "2026-07-28T22:48:58.002935+00:00",
  "deals": [
   {
-   "no": 723237,
-   "shop": "지마켓",
-   "title": "난각번호 1번 유정란 60구",
-   "price": "25,910원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723237",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728184625_m9C0lizUDA.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4076216869"
+   "no": 723248,
+   "shop": "롯데온",
+   "title": "나이키 P-6000 운동화",
+   "price": "75,630원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723248",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728192140_SE3Mn2tr82.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1218589443"
+  },
+  {
+   "no": 723308,
+   "shop": "네이버",
+   "title": "가시제거연구소 국산 순살 삼치밥상 800g 2개",
+   "price": "27,900/n배송무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723308",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729072824_fspcOfmTfw.png",
+   "product_url": "https://brand.naver.com/koreapelagic/products/10035577089?site_preference=device&NaPm=ct%3Dms58375i%7Cci%3Dshopn%7Ctr%3Dnshfum%7Chk%3D528aaa2b654b9a16b8f96b5442379002d9a6bf15%7Ctrx%3Dundefined"
+  },
+  {
+   "no": 723307,
+   "shop": "롯데온",
+   "title": "펩시콜라 제로슈거 라임 or 제로카페인 210ml 60캔",
+   "price": "22,140원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723307",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729070031_IpB6orOWP9.jpeg",
+   "product_url": "https://s.lotteon.com/G8fu92MShP"
   },
   {
    "no": 723306,
@@ -333,24 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723262",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728205032_JToMtvwX.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2685653612"
-  },
-  {
-   "no": 723261,
-   "shop": "롯데온",
-   "title": "25년 햅쌀 경기미 연진쌀 10KG 상등급",
-   "price": "28,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723261",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728204408_hX1OToqO.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2729011954"
-  },
-  {
-   "no": 723260,
-   "shop": "톡딜",
-   "title": "허닭 닭가슴살 함박스테이크 4종 혼합 18팩",
-   "price": "26,510원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723260",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0728/20260728201059_JqwBLUBg.jpg",
-   "product_url": "https://store.kakao.com/heodak/products/71866120"
   }
  ]
 }
