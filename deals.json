@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-07-29T16:14:22.996367+00:00",
+ "updated_at": "2026-07-29T17:44:32.266179+00:00",
  "deals": [
   {
-   "no": 723522,
-   "shop": "G마켓",
-   "title": "UTUNE 소프트핏 EVA 쪼리 플립플랍",
-   "price": "11,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723522",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729230932_5f8gAXCD01.png",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4739687511"
+   "no": 723351,
+   "shop": "옥션",
+   "title": "오클리, 푸마 캡모자 다양",
+   "price": "9,600원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723351",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729104310_PWFfJjZ0se.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F611081610"
+  },
+  {
+   "no": 723546,
+   "shop": "네이버",
+   "title": "폰 스트랩 (9900/3000)",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723546",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730021931_Gqx058ugnk.jpg",
+   "product_url": "https://m.smartstore.naver.com/the_aerit/products/8169527568"
   },
   {
    "no": 723545,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723501",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729201806_s2om94YKOV.jpg",
    "product_url": "https://smartstore.naver.com/jjone-international/products/8180134011"
-  },
-  {
-   "no": 723499,
-   "shop": "롯데온",
-   "title": "샐러드용 채소 모듬 1kg",
-   "price": "6,660원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723499",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729201506_8urLvU2mtE.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2506220246"
   }
  ]
 }
