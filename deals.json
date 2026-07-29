@@ -1,23 +1,14 @@
 {
- "updated_at": "2026-07-29T18:51:40.744827+00:00",
+ "updated_at": "2026-07-29T20:06:22.921386+00:00",
  "deals": [
   {
-   "no": 723351,
-   "shop": "옥션",
-   "title": "오클리, 푸마 캡모자 다양",
-   "price": "9,600원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723351",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729104310_PWFfJjZ0se.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F611081610"
-  },
-  {
-   "no": 723545,
-   "shop": "톡딜",
-   "title": "거반도 납작 복숭아 500g",
-   "price": "14,790원 / 무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723545",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730004626_Iv05fw7QER.jpg",
-   "product_url": "https://store.kakao.com/hayafarm/products/768904292"
+   "no": 723522,
+   "shop": "G마켓",
+   "title": "UTUNE 소프트핏 EVA 쪼리 플립플랍",
+   "price": "11,500원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723522",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729230932_5f8gAXCD01.png",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4739687511"
   },
   {
    "no": 723544,
@@ -360,6 +351,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723499",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729201506_8urLvU2mtE.jpeg",
    "product_url": "https://www.lotteon.com/p/product/LO2506220246"
+  },
+  {
+   "no": 723498,
+   "shop": "네이버",
+   "title": "프레시웰 2L 24개",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723498",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200712_BkDAeM5BZC.jpg",
+   "product_url": "https://smartstore.naver.com/mulhana/products/11162879968"
+  },
+  {
+   "no": 723496,
+   "shop": "크로켓",
+   "title": "삼성 갤럭시 버즈4 프로 (직구)",
+   "price": "241,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723496",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200656_zArEJvi5Si.jpg",
+   "product_url": "https://web.croket.co.kr/seller/product/6a0d6638f6a1f99f83f3c10f"
   }
  ]
 }
