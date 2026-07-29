@@ -1,15 +1,6 @@
 {
- "updated_at": "2026-07-29T22:25:48.002299+00:00",
+ "updated_at": "2026-07-29T23:28:27.734363+00:00",
  "deals": [
-  {
-   "no": 723351,
-   "shop": "옥션",
-   "title": "오클리, 푸마 캡모자 다양",
-   "price": "9,600원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723351",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729104310_PWFfJjZ0se.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F611081610"
-  },
   {
    "no": 723541,
    "shop": "G마켓",
@@ -18,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723541",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730002852_Bbrzrx8lUY.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4800310751"
+  },
+  {
+   "no": 723548,
+   "shop": "G마켓",
+   "title": "국산 꿀수박 6kg 이상",
+   "price": "11,870원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723548",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730081726_LXbmtAwg7U.jpg",
+   "product_url": "https://link.gmarket.co.kr/P8DFauEcKB"
   },
   {
    "no": 723540,
@@ -351,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723498",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200712_BkDAeM5BZC.jpg",
    "product_url": "https://smartstore.naver.com/mulhana/products/11162879968"
-  },
-  {
-   "no": 723496,
-   "shop": "크로켓",
-   "title": "삼성 갤럭시 버즈4 프로 (직구)",
-   "price": "241,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723496",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200656_zArEJvi5Si.jpg",
-   "product_url": "https://web.croket.co.kr/seller/product/6a0d6638f6a1f99f83f3c10f"
   }
  ]
 }
