@@ -1,14 +1,77 @@
 {
- "updated_at": "2026-07-29T12:27:49.694029+00:00",
+ "updated_at": "2026-07-29T14:39:32.655471+00:00",
  "deals": [
   {
-   "no": 723304,
-   "shop": "오늘의집",
-   "title": "스테비아 대추방울토마토 500g x 4팩",
-   "price": "11,970원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723304",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729012003_fC4gWq1vTD.png",
-   "product_url": "https://store.ohou.se/goods/3984466"
+   "no": 723351,
+   "shop": "옥션",
+   "title": "오클리, 푸마 캡모자 다양",
+   "price": "9,600원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723351",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729104310_PWFfJjZ0se.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F611081610"
+  },
+  {
+   "no": 723522,
+   "shop": "G마켓",
+   "title": "UTUNE 소프트핏 EVA 쪼리 플립플랍",
+   "price": "11,500원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723522",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729230932_5f8gAXCD01.png",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4739687511"
+  },
+  {
+   "no": 723521,
+   "shop": "11번가",
+   "title": "쿡솜씨 깻잎매콤순대볶음 밀키트 2인",
+   "price": "5,890원/조건부무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723521",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729230359_KKQbv7Waru.jpg",
+   "product_url": "https://www.11st.co.kr/products/3031190434"
+  },
+  {
+   "no": 723520,
+   "shop": "11번가",
+   "title": "국내산 냉장 1+ 한돈 삼겹살",
+   "price": "18,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723520",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729223507_gmBjw7QfPc.jpg",
+   "product_url": "https://www.11st.co.kr/products/8803102449"
+  },
+  {
+   "no": 723519,
+   "shop": "네이버",
+   "title": "종로식 닭한마리 국내산 닭볶음탕 1.1kg",
+   "price": "7,500원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723519",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729222910_nkcxy37cCD.jpg",
+   "product_url": "https://brand.naver.com/lohasmart/products/13523655558"
+  },
+  {
+   "no": 723518,
+   "shop": "11번가",
+   "title": "아이깨끗해x포차코 대용량 핸드워시 순 4.5L, 1개",
+   "price": "22,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723518",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729220401_4ubO85LY.jpg",
+   "product_url": "https://www.11st.co.kr/products/pa/9419702603"
+  },
+  {
+   "no": 723517,
+   "shop": "네이버",
+   "title": "협성호 동해안 당일바리 활 생물 살고동 고추골뱅이",
+   "price": "4,720원/4,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723517",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729213402_SHV70aIg6s.jpg",
+   "product_url": "https://m.smartstore.naver.com/pohangdawon/products/13338649634"
+  },
+  {
+   "no": 723516,
+   "shop": "롯데온",
+   "title": "한우 1++ 9등급 꽃등심 200g",
+   "price": "17,250원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723516",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729213157_Lk4UaoKnpe.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2728798163"
   },
   {
    "no": 723515,
@@ -72,24 +135,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723509",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729204925_4P682NPw.jpg",
    "product_url": "https://store.kakao.com/soonfeel/products/755506214"
-  },
-  {
-   "no": 723508,
-   "shop": "롯데온",
-   "title": "25SS 서피비치 비치타올 OUAEO2612-199",
-   "price": "5,460원/3,000원",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723508",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729204553_gNFIwqlwCU.png",
-   "product_url": "https://s.lotteon.com/BA-cNmso6ao"
-  },
-  {
-   "no": 723507,
-   "shop": "CJ온스타일",
-   "title": "국내산 손질 순살고등어 70-100g x 15팩",
-   "price": "17,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723507",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729204540_eS1nFB1aLV.jpg",
-   "product_url": "https://cjon.style/M3xYFwNyeu"
   },
   {
    "no": 723506,
@@ -188,15 +233,6 @@
    "price": "10,755원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723493",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200325_nEZwOsz4tZ.jpg",
-   "product_url": null
-  },
-  {
-   "no": 723492,
-   "shop": "네이버",
-   "title": "차량용 방향제 플라워가든 100ml",
-   "price": "3,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723492",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729200229_F2sx8v8DYl.jpg",
    "product_url": null
   },
   {
@@ -333,42 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723476",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729190954_cvPWcO3ZPJ.png",
    "product_url": "https://item.gmarket.co.kr/Item?goodsCode=4809509081"
-  },
-  {
-   "no": 723475,
-   "shop": "LF몰",
-   "title": "스타우브 원형 꼬꼬떼 18cm 화이트트러플",
-   "price": "184,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723475",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729182401_kIcTDE5Dm7.jpg",
-   "product_url": "https://m.lfmall.co.kr/app/exhibition/live/broadcast/745004"
-  },
-  {
-   "no": 723474,
-   "shop": "카카오",
-   "title": "신대장떡볶이 230g 2+2 (총 920g)",
-   "price": "6,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723474",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729190906_GIrTgEMv.jpg",
-   "product_url": "https://store.kakao.com/sinboss/products/328214370?shareLinkUuid=1HPIXCDFYxwn6sKx&ref=SHARE_AF"
-  },
-  {
-   "no": 723472,
-   "shop": "네이버",
-   "title": "갤럭시S24 시리즈 투명케이스",
-   "price": "990원/3,000원",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723472",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729185945_Jmn0AHaqUS.jpg",
-   "product_url": "https://brand.naver.com/baseus/products/11240452090"
-  },
-  {
-   "no": 723471,
-   "shop": "카카오톡",
-   "title": "음식물 처리기 활성탄 필터 호환",
-   "price": "7,200원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723471",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0729/20260729185240_2CGQIyReRI.jpg",
-   "product_url": "https://store.kakao.com/filter4u/products/478221840"
   }
  ]
 }
