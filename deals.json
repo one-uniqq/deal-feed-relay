@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-07-30T22:32:20.826436+00:00",
+ "updated_at": "2026-07-30T23:51:43.772313+00:00",
  "deals": [
   {
-   "no": 723619,
+   "no": 723731,
    "shop": "옥션",
-   "title": "멸균우유 1000ml 10입",
-   "price": "16,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723619",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730150340_MTKR0M6Cho.jpg",
-   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?ItemNo=F602664764"
+   "title": "아이더 남성 아이스 냉감 폴로티셔츠",
+   "price": "30,090원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723731",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731005604_C4WTKxa9FX.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F608642731"
+  },
+  {
+   "no": 723740,
+   "shop": "토스",
+   "title": "스파클 무라벨 생수 2L x 24펫",
+   "price": "7,200원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723740",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731084227_wmOA5EQNMf.jpeg",
+   "product_url": "https://toss.shopping/t/56199215"
+  },
+  {
+   "no": 723739,
+   "shop": "토스",
+   "title": "외갓집 진심 육개장, 600g, 3개",
+   "price": "8,490/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723739",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731075055_Amwm23eg.jpg",
+   "product_url": "https://toss.shopping/i/146143371"
   },
   {
    "no": 723738,
@@ -54,15 +72,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723732",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731012214_xm5Kw1O1Wt.jpg",
    "product_url": "https://naver.me/FDcZz6NQ"
-  },
-  {
-   "no": 723731,
-   "shop": "옥션",
-   "title": "아이더 남성 아이스 냉감 폴로티셔츠",
-   "price": "30,090원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723731",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731005604_C4WTKxa9FX.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F608642731"
   },
   {
    "no": 723730,
@@ -351,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723698",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730213039_XAcNKhCSRZ.jpg",
    "product_url": "https://smartstore.naver.com/teamcomm/products/10423020420"
-  },
-  {
-   "no": 723697,
-   "shop": "롯데온",
-   "title": "26SS 딥오션 워터 슈즈3 OMSA62611-199",
-   "price": "38,640원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723697",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210934_wiMDUMdqch.jpeg",
-   "product_url": "https://s.lotteon.com/fpwp5Sgay9"
-  },
-  {
-   "no": 723696,
-   "shop": "11번가",
-   "title": "천연사이다 제로 250ml x 30캔",
-   "price": "11,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723696",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210542_HGoL00SWnx.jpg",
-   "product_url": "http://m.11st.co.kr/products/ma/8284173774"
   }
  ]
 }
