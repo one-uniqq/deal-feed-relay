@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-07-30T16:59:20.103699+00:00",
+ "updated_at": "2026-07-30T18:15:04.448932+00:00",
  "deals": [
   {
-   "no": 723590,
-   "shop": "토스",
-   "title": "크리넥스 마이비데 클린케어 화장실용 물티슈, 40매, 8팩",
-   "price": "10,500/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723590",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730113827_kgtfXfUC.jpg",
-   "product_url": "https://toss.shopping/t/132193179"
+   "no": 723616,
+   "shop": "G마켓",
+   "title": "할매손 충무김밥 석박지 깍두기 일반맛 1kg",
+   "price": "7,560원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723616",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730145911_avyDKTa50S.png",
+   "product_url": "https://link.gmarket.co.kr/z2vOvs0w5"
+  },
+  {
+   "no": 723733,
+   "shop": "네이버",
+   "title": "난각번호1번 유정란 무항생제 자연방목 계란 20구",
+   "price": "7,440/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723733",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731023240_pCEoGwfUkV.jpg",
+   "product_url": "https://naver.me/5vcLjhDD"
   },
   {
    "no": 723732,
@@ -360,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723693",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210214_jkNm1tTR.jpg",
    "product_url": "http://www.11st.co.kr/products/9300222761/share"
-  },
-  {
-   "no": 723692,
-   "shop": "롯데온",
-   "title": "완도 활전복 1kg 9-10미",
-   "price": "15,970원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723692",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730202229_N78gKzwwcS.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2437831228"
   }
  ]
 }
