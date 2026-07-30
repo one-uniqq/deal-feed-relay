@@ -1,6 +1,33 @@
 {
- "updated_at": "2026-07-30T21:06:03.730449+00:00",
+ "updated_at": "2026-07-30T22:32:20.826436+00:00",
  "deals": [
+  {
+   "no": 723619,
+   "shop": "옥션",
+   "title": "멸균우유 1000ml 10입",
+   "price": "16,400원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723619",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730150340_MTKR0M6Cho.jpg",
+   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?ItemNo=F602664764"
+  },
+  {
+   "no": 723738,
+   "shop": "G마켓",
+   "title": "멕시카나 1989오리진후라이드+콜라1.25L 14,800원 (포장)",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723738",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731072313_nO47UGdove.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.rpp_60931.specialpriceitem0.dtab0_ditem0.109c516aw7szbi&goodscode=4801811715&utparam-url=%257B%2522x_object_id%2522%253A%25224801811715%2522%252C%2522x_object_type%2522%253A%2522item%2522%252C%2522query%2522%253A"
+  },
+  {
+   "no": 723737,
+   "shop": "롯데마트제타",
+   "title": "풀무원 얄피꽉찬 고기만두기획 (400G*2입)(9980/3000)",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723737",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731061045_hMKlOhD09n.jpg",
+   "product_url": "https://lottemartzetta.com/products/Ǯ-ǲ-⸸αȹ--400G-2/OS8801114145647"
+  },
   {
    "no": 723734,
    "shop": "오늘의집",
@@ -342,24 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723696",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210542_HGoL00SWnx.jpg",
    "product_url": "http://m.11st.co.kr/products/ma/8284173774"
-  },
-  {
-   "no": 723695,
-   "shop": "11번가",
-   "title": "서울우유 무가당 블랙9곡 두유 190ml 48팩",
-   "price": "19,260원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723695",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210748_46zU5yQz.jpg",
-   "product_url": "https://www.11st.co.kr/products/8647974941"
-  },
-  {
-   "no": 723694,
-   "shop": "네이버",
-   "title": "월미 국산 김치 10kg",
-   "price": "24,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723694",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0730/20260730210327_buDfbPNufG.jpg",
-   "product_url": "https://smartstore.naver.com/mklocal737/products/11859504848"
   }
  ]
 }
