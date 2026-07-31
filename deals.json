@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31T22:29:36.265456+00:00",
+ "updated_at": "2026-07-31T23:30:13.675029+00:00",
  "deals": [
   {
    "no": 723907,
@@ -9,6 +9,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723907",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801005558_Fjg65cmDjL.jpg",
    "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F539845009"
+  },
+  {
+   "no": 723918,
+   "shop": "지마켓",
+   "title": "SK엔무브 지크 X10 0W-20 4L",
+   "price": "카할26,640원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723918",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801075105_52Hxxbxu3l.jpg",
+   "product_url": "https://link.gmarket.co.kr/7T4cfKZzv"
+  },
+  {
+   "no": 723917,
+   "shop": "종근당건강몰",
+   "title": "락토핏 골드 360포 기획세트 외 아임비타 오메가 등",
+   "price": "52,288원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723917",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801074137_RYEdwLXhy4.jpg",
+   "product_url": "https://ckdhcmall.co.kr/prdView.do?prdCode=G2405310828_0210"
   },
   {
    "no": 723916,
@@ -333,24 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723873",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731215507_uOOOr3rO.jpg",
    "product_url": "https://www.concepts1one.co.kr/shop/detail.php?pno=8B42D3EEB4DA1F29EE08DEDD7855A0ED&ctype=1&ctype=1145"
-  },
-  {
-   "no": 723872,
-   "shop": "지마켓",
-   "title": "사마귀냉동치료기 포워츠기계+패치10매",
-   "price": "19,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723872",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731215326_Xcb0gWobYX.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2916680978"
-  },
-  {
-   "no": 723871,
-   "shop": "네이버",
-   "title": "머거본 안주 간식종합선물세트 16종",
-   "price": "12,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723871",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731212514_ERIbyKT9Zk.png",
-   "product_url": "https://brand.naver.com/murgerbon/products/11734016270"
   }
  ]
 }
