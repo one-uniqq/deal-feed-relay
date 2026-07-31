@@ -1,14 +1,59 @@
 {
- "updated_at": "2026-07-31T16:29:33.991821+00:00",
+ "updated_at": "2026-07-31T18:03:31.997454+00:00",
  "deals": [
   {
-   "no": 723801,
-   "shop": "지마켓",
-   "title": "삼성 갤럭시 Z폴드8 256GB 자급제폰",
-   "price": "2,278,100원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723801",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731140112_mf5CopFVx7.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4804222373"
+   "no": 723907,
+   "shop": "옥션",
+   "title": "PAT 쿨핏 냉감 면스판 치노 칠랙스 팬츠",
+   "price": "19,450원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723907",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801005558_Fjg65cmDjL.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F539845009"
+  },
+  {
+   "no": 723915,
+   "shop": "롯데온",
+   "title": "펩시콜라 제로슈거라임or제로카페인 210ml 60캔 (22,870원",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723915",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801022754_fREd3rbZDH.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2575271096?mall_no=1&ch_no=101629&ch_dtl_no=1055029&ch_mem_no=297586465K6iTb6a6cdac5f3"
+  },
+  {
+   "no": 723914,
+   "shop": "네이버",
+   "title": "더미식 즉석국 골라담기",
+   "price": "다양/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723914",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801015742_LXQnXGNBFQ.jpg",
+   "product_url": "https://naver.me/GOzq2bxu"
+  },
+  {
+   "no": 723913,
+   "shop": "농심몰",
+   "title": "신라면 120g 40개 1박스",
+   "price": "23,639원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723913",
+   "thumb_url": "",
+   "product_url": "https://m.nongshimmall.com/product/detail.html?product_no=2460&cate_no=43&utm_source=share&utm_medium=social&utm_campaign=product_share&utm_content=link"
+  },
+  {
+   "no": 723912,
+   "shop": "카카오",
+   "title": "동원참치 라이트 16캔 + 마일드 4캔",
+   "price": "22,600원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723912",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801015212_A7xCwosqV3.jpeg",
+   "product_url": "https://clink.kakao.com/sp/GrcPChOwOLxWCiy3?ref=SHARE_AF"
+  },
+  {
+   "no": 723910,
+   "shop": "톡딜",
+   "title": "딱딱이 백도 복숭아 대과 4kg",
+   "price": "19,900원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723910",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801012927_oMXm1mggqF.jpg",
+   "product_url": "https://store.kakao.com/bdr/products/762762246"
   },
   {
    "no": 723909,
@@ -27,15 +72,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723908",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801005632_7YdSJFC9gO.jpeg",
    "product_url": "https://mitem.auction.co.kr/vip?itemNo=B225951520"
-  },
-  {
-   "no": 723907,
-   "shop": "옥션",
-   "title": "PAT 쿨핏 냉감 면스판 치노 칠랙스 팬츠",
-   "price": "19,450원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723907",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801005558_Fjg65cmDjL.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F539845009"
   },
   {
    "no": 723906,
@@ -324,51 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723871",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731212514_ERIbyKT9Zk.png",
    "product_url": "https://brand.naver.com/murgerbon/products/11734016270"
-  },
-  {
-   "no": 723870,
-   "shop": "카카오",
-   "title": "영암 노지 햇 무화과 1kg 10-16과",
-   "price": "12,810원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723870",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731205410_7PlE9YPQ62.jpg",
-   "product_url": "https://store.kakao.com/hmgroup/products/597442258"
-  },
-  {
-   "no": 723869,
-   "shop": "옥션",
-   "title": "폴햄 쿨스킨 에어리즘 냉감티셔츠 나시",
-   "price": "6,775원/3장이상무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723869",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731211552_hF2v4e4bC6.png",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F623972315"
-  },
-  {
-   "no": 723868,
-   "shop": "롯데온",
-   "title": "광천김 무조미 구운 곱창 전장김 18g 10봉",
-   "price": "11,310원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723868",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731204910_I0DKEFzY1y.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2026375757"
-  },
-  {
-   "no": 723866,
-   "shop": "지마켓",
-   "title": "디스커버리 여행용 데일리 미니 슬링백",
-   "price": "34,920원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723866",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731203245_Re4utNxdRx.jpeg",
-   "product_url": "https://link.gmarket.co.kr/gB7uZgMcUj"
-  },
-  {
-   "no": 723864,
-   "shop": "롯데홈쇼핑",
-   "title": "베어파우 CONA 여성 여름 경량 스트랩샌들 4종택1 0211RB-W",
-   "price": "42,300원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=723864",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0731/20260731202545_LpByHXOi.jpg",
-   "product_url": "https://www.lotteimall.com/goods/viewGoodsDetail.lotte?goods_no=3372643837"
   }
  ]
 }
