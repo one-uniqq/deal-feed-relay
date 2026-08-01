@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-01T22:27:06.266562+00:00",
+ "updated_at": "2026-08-01T23:24:37.478330+00:00",
  "deals": [
   {
-   "no": 724037,
+   "no": 724040,
    "shop": "지마켓",
-   "title": "하기스 매직썸머 팬티 2박스",
-   "price": "107,780원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724037",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801215553_zeCHpV00WM.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodsCode=4449057902"
+   "title": "VISTA 15.6인치 포터블 휴대용 보조모니터",
+   "price": "68,550원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724040",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801225658_nTQBscyio6.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4701840459"
+  },
+  {
+   "no": 724064,
+   "shop": "11번가",
+   "title": "3초 떡볶이 7팩",
+   "price": "9,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724064",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802082027_lQVrQrmv4r.jpeg",
+   "product_url": "https://www.11st.co.kr/products/5969929279"
   },
   {
    "no": 724062,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724021",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801191921_fQQgzEa5ar.jpg",
    "product_url": "https://www.11st.co.kr/products/7407909161"
-  },
-  {
-   "no": 724020,
-   "shop": "SSG",
-   "title": "르꼬끄 비아리츠 Z 운동화 (여성사이즈)",
-   "price": "31,251원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724020",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801191304_QSyPOqu1C5.jpg",
-   "product_url": "https://www.ssg.com/item/itemView.ssg?itemId=1000859488594"
   }
  ]
 }
