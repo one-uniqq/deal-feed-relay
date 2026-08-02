@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-02T21:14:21.167264+00:00",
+ "updated_at": "2026-08-02T22:15:43.960910+00:00",
  "deals": [
   {
-   "no": 724144,
-   "shop": "롯데온",
-   "title": "엔자이메디카 베르베린 파이토솜 60캡슐 3병",
-   "price": "58,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724144",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802170344_0irDiyHuHF.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2735656631"
+   "no": 724145,
+   "shop": "지마켓",
+   "title": "스키피 땅콩버터 노슈거 크리미 454g+ 청크 454g",
+   "price": "9,810원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724145",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802170522_OiB71j3lkZ.jpeg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4364828387"
+  },
+  {
+   "no": 724257,
+   "shop": "지마켓",
+   "title": "농가살리기 고기듬뿍 감자탕 5kg(8~10인분)",
+   "price": "스페16,350원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724257",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803070316_ebGidHQSuM.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/3150427080?spm=gmktm.home.best_bestitem3.dtab0_item3.7e77486akbud7i&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22ad"
   },
   {
    "no": 724256,
@@ -209,15 +218,6 @@
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=1164625471"
   },
   {
-   "no": 724233,
-   "shop": "옥션",
-   "title": "CGV 2D 영화관람권",
-   "price": "7,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724233",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803003913_JMcwmKezZq.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F621376951"
-  },
-  {
    "no": 724232,
    "shop": "11번가",
    "title": "머렐/트렉스타 외 역시즌 의류",
@@ -342,15 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724216",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802234524_CohT4KUT.jpg",
    "product_url": null
-  },
-  {
-   "no": 724215,
-   "shop": "G마켓",
-   "title": "1+1 파스텔 장우산 16K",
-   "price": "10,970원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724215",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802233524_79jAd4ROqY.png",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3685475270"
   }
  ]
 }
