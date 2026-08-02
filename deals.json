@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-02T17:51:07.857329+00:00",
+ "updated_at": "2026-08-02T18:50:54.804403+00:00",
  "deals": [
   {
-   "no": 724166,
-   "shop": "11번가",
-   "title": "네파키즈 데일리 트레이닝세트 3종1택",
-   "price": "28,570원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724166",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802153503_BFOuJPZ254.jpg",
-   "product_url": "http://www.11st.co.kr/products/9077259394/share"
+   "no": 724187,
+   "shop": "지마켓",
+   "title": "완숙토마토 로얄과5kg",
+   "price": "12,600/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724187",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802203623_BPxG1WKhgE.jpeg",
+   "product_url": "https://link.gmarket.co.kr/PSYMudiThj"
+  },
+  {
+   "no": 724254,
+   "shop": "에이모바일",
+   "title": "알뜰 100gb 5mbps 5개월요금제",
+   "price": "2,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724254",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803032936_ugr2qGW5by.jpg",
+   "product_url": "https://amobile.co.kr/uc/plan/79260"
   },
   {
    "no": 724253,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724213",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802232906_OjeGjE8R8N.jpg",
    "product_url": "https://www.lotteon.com/m/product/LO2735793247?adCode=N&sitmNo=LO2735793247_2735793248&ch_no=100279&cid=67124352D50A4BADB6B0D210327E369F&dp_infw_cd=CAT29675&mall_no=1&ch_dtl_no=1044428&launcher_app_cd"
-  },
-  {
-   "no": 724212,
-   "shop": "롯데온",
-   "title": "안국건강 아이메가 초임계 rTG 오메가3 30캡슐 3박스",
-   "price": "25,270원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724212",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0802/20260802230701_sn5bH4oFrz.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2735525528"
   }
  ]
 }
