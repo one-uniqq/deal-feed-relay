@@ -1,14 +1,41 @@
 {
- "updated_at": "2026-08-03T21:35:33.480021+00:00",
+ "updated_at": "2026-08-03T22:49:32.121313+00:00",
  "deals": [
   {
-   "no": 724505,
-   "shop": "롯데온",
-   "title": "나이키 리액트X 리주버네이트",
-   "price": "39,280원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724505",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803204411_oaaORi6yDq.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO2735506624"
+   "no": 724314,
+   "shop": "옥션",
+   "title": "크래미 몬스터크랩,김가네,명장김치찜,스테비아 방울토망고,햇양파,아이스크림,비엔나,도브 바디워시,대건명가,진라면,열라면,식초,오부자,초코파이,홈런볼...",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724314",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803105149_NHEhenuc3u.png",
+   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?ItemNo=C337442332"
+  },
+  {
+   "no": 724566,
+   "shop": "G마켓",
+   "title": "산타바바라폴로 남성 드로즈팬티 10매 + 벨트",
+   "price": "11,550원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724566",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804073825_NaR2FYhg5a.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4038337165"
+  },
+  {
+   "no": 724565,
+   "shop": "오늘의집",
+   "title": "농장직송 맥반석 구운란 60구",
+   "price": "카페15,824원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724565",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804073143_LIvDheDlHZ.jpg",
+   "product_url": "https://store.ohou.se/goods/3959175"
+  },
+  {
+   "no": 724564,
+   "shop": "카카오",
+   "title": "하겐다즈바9개",
+   "price": "24,561원,무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724564",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804065527_yrluQII2fJ.jpg",
+   "product_url": "https://clink.kakao.com/sp/oV3a9kiMZs1mj1B9?ref=SHARE_AF"
   },
   {
    "no": 724563,
@@ -102,7 +129,7 @@
   },
   {
    "no": 724552,
-   "shop": "오집",
+   "shop": "오늘의집",
    "title": "스테이바 토망고 500g x 4팩",
    "price": "9,234원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724552",
@@ -342,33 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724523",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803220859_wqeT9fEAkJ.jpg",
    "product_url": "https://store.ohou.se/goods/2349405"
-  },
-  {
-   "no": 724521,
-   "shop": "네이버",
-   "title": "AULA 독거미 F108pro 블랙 세이야축 기계식키보드",
-   "price": "49,900/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724521",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803215506_fh0F0HlFfi.png",
-   "product_url": "https://smartstore.naver.com/bororo6688/products/13660161866"
-  },
-  {
-   "no": 724520,
-   "shop": "지마켓",
-   "title": "자연별곡 국내산 훈제오리 400g 3팩 총 1.2kg",
-   "price": "21,070원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724520",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803215127_Fvj7xVgPyu.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4806457618"
-  },
-  {
-   "no": 724519,
-   "shop": "CJ온스타일",
-   "title": "소비임박. 쿠보타 딸기/메론/복숭아 찹쌀떡 113g x 12봉지",
-   "price": "9,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724519",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803214643_A9ePbqO2cI.jpg",
-   "product_url": "https://cjon.style/hDVFZXbWS6"
   }
  ]
 }
