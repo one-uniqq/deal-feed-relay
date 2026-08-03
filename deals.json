@@ -1,14 +1,50 @@
 {
- "updated_at": "2026-08-03T22:49:32.121313+00:00",
+ "updated_at": "2026-08-03T23:57:54.894762+00:00",
  "deals": [
   {
-   "no": 724314,
-   "shop": "옥션",
-   "title": "크래미 몬스터크랩,김가네,명장김치찜,스테비아 방울토망고,햇양파,아이스크림,비엔나,도브 바디워시,대건명가,진라면,열라면,식초,오부자,초코파이,홈런볼...",
+   "no": 724422,
+   "shop": "롯데온",
+   "title": "리스테린 쿨민트/쿨마일드/그린티 750ml 4개",
+   "price": "15,740원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724422",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803170030_VTikUnSrMM.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2526435436"
+  },
+  {
+   "no": 724570,
+   "shop": "오늘의집",
+   "title": "특등급 새청무쌀 10kg",
+   "price": "29,140원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724570",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804085600_CzUqu5NHbY.png",
+   "product_url": "https://store.ohou.se/goods/3942620"
+  },
+  {
+   "no": 724569,
+   "shop": "나100샵",
+   "title": "서울우유 아침에주스 유기농즙 600g 레몬즙4개 + 레몬자몽즙 4개",
+   "price": "49,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724569",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804084900_0vzQGbDQhf.jpg",
+   "product_url": "https://www.na100shop.com:433/goodsView.do?gidx=40273"
+  },
+  {
+   "no": 724568,
+   "shop": "지마켓",
+   "title": "어린이 과학동아 1년 정기구독권 250,000 (+적립금)",
    "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724314",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803105149_NHEhenuc3u.png",
-   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?ItemNo=C337442332"
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724568",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804084226_yWgZ3guHAT.jpg",
+   "product_url": "http://item.gmarket.co.kr/Item?goodscode=233134389"
+  },
+  {
+   "no": 724567,
+   "shop": "토스",
+   "title": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+   "price": "14,000/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724567",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804083955_Ri3qVIr2mc.png",
+   "product_url": "https://toss.shopping/t/12786325291"
   },
   {
    "no": 724566,
@@ -144,15 +180,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724551",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804000654_iYrVc7VPP4.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4427661378"
-  },
-  {
-   "no": 724550,
-   "shop": "네이버",
-   "title": "유혜광 수제 통등심 돈까스 10장",
-   "price": "13,900원/멤버십무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724550",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0804/20260804001944_tBt3nr29dh.png",
-   "product_url": "https://brand.naver.com/yhgfood/products/9740966467"
   },
   {
    "no": 724549,
@@ -333,42 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724530",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803224816_J8Lezt8kSx.jpg",
    "product_url": "https://store.kakao.com/dakgogimall/products/180624091"
-  },
-  {
-   "no": 724526,
-   "shop": "무신사",
-   "title": "테이크핏 맥스 단백질 음료 24G 초코맛 250mL x 24개",
-   "price": "26,040원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724526",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803203812_uTRc6wnhAh.jpg",
-   "product_url": "https://www.musinsa.com/products/5858524"
-  },
-  {
-   "no": 724525,
-   "shop": "네이버",
-   "title": "비타도스C 3000 30포1박스",
-   "price": "2,960원/네멤무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724525",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803221936_MRkbXscFEb.jpg",
-   "product_url": "https://brand.naver.com/doctorga/shoppingstory/detail?id=5002865591"
-  },
-  {
-   "no": 724524,
-   "shop": "스팀",
-   "title": "Dear Magical Girls",
-   "price": "무료/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724524",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803221154_HxgD6SQfnh.jpg",
-   "product_url": "https://store.steampowered.com/app/4914610/Dear_Magical_Girls/"
-  },
-  {
-   "no": 724523,
-   "shop": "오늘의집",
-   "title": "국내산 유러피안 샐러드 1kg",
-   "price": "9,418원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724523",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0803/20260803220859_wqeT9fEAkJ.jpg",
-   "product_url": "https://store.ohou.se/goods/2349405"
   }
  ]
 }
