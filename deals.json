@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05T22:46:35.828305+00:00",
+ "updated_at": "2026-08-05T23:45:22.143183+00:00",
  "deals": [
   {
    "no": 724999,
@@ -9,6 +9,42 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724999",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805163614_3HzqurXHC7.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=2469607404"
+  },
+  {
+   "no": 725136,
+   "shop": "sk스토아",
+   "title": "락토핏 코어맥스 16개월분+무선핸디청소기",
+   "price": "99,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725136",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806083431_9QruNMnr21.jpg",
+   "product_url": "https://m.skstoa.com/display/goods/66510856"
+  },
+  {
+   "no": 725135,
+   "shop": "토스",
+   "title": "산과들에 마이포켓넛츠, 20g, 100봉",
+   "price": "24,790/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725135",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806082942_vXh0cAtasW.png",
+   "product_url": "https://toss.shopping/t/2825350852"
+  },
+  {
+   "no": 725134,
+   "shop": "옥션",
+   "title": "소고기 모듬 구이용 200g X 5팩 (소갈비살+안창살+토시살+살치살+우삼겹 각200g)",
+   "price": "29,680원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725134",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806081424_CvqZXeroB5.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F583903251&frm3=V2"
+  },
+  {
+   "no": 725133,
+   "shop": "G마켓",
+   "title": "다인경주빵 호두과자 1kg",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725133",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806075621_q2viqpSfrM.jpg",
+   "product_url": "https://link.gmarket.co.kr/7wFqe1vAkj"
   },
   {
    "no": 725132,
@@ -315,33 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725092",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805225353_WDlyx4xZSB.jpg",
    "product_url": null
-  },
-  {
-   "no": 725091,
-   "shop": "쿠팡",
-   "title": "로얄라이프 천연펄프 화장지 3겹 30m 60롤",
-   "price": "17,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725091",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805223809_cc2Ppkb7gn.png",
-   "product_url": null
-  },
-  {
-   "no": 725090,
-   "shop": "네이버",
-   "title": "샤오커오라 무설탕 9종 믹스캔디 2.5kg",
-   "price": "26,890원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725090",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805223438_9Dp1xfMJak.jpg",
-   "product_url": null
-  },
-  {
-   "no": 725089,
-   "shop": "팔도감",
-   "title": "슈퍼오닝 평택 꿈마지 쌀 10kg(특등급)",
-   "price": "29600/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725089",
-   "thumb_url": "",
-   "product_url": "https://8dogam.com/product/2ba4073d55ae0c4e277e01415ef0d014?listId=share&open_app=true"
   }
  ]
 }
