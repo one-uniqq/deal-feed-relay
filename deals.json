@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05T20:24:13.755335+00:00",
+ "updated_at": "2026-08-05T21:39:36.866142+00:00",
  "deals": [
   {
    "no": 724942,
@@ -11,10 +11,28 @@
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=3277453011"
   },
   {
+   "no": 725131,
+   "shop": "두타온",
+   "title": "닥토바이오 14900원",
+   "price": "수분로션, 샴푸, 올인원 워시 외",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725131",
+   "thumb_url": "",
+   "product_url": "https://www.dootaon.com/m/product.html?branduid=124269170&search=%EB%8B%A5%ED%84%B0%EB%B0%94%EC%9D%B4%EC%98%A4&sort=&xcode=011&mcode=003&scode=&GfDT=Zmd3Vg%3D%3D#none"
+  },
+  {
+   "no": 725130,
+   "shop": "11번가",
+   "title": "차량용 히터 에어컨 C필터 2개",
+   "price": "9,980 or 11,650 /무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725130",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806060901_6XBCF0dWG6.jpg",
+   "product_url": "http://www.11st.co.kr/products/8021718143/share"
+  },
+  {
    "no": 725129,
    "shop": "오늘의집",
    "title": "조선호텔 특제육수 포기김치 4kg",
-   "price": "27,457원/무배",
+   "price": "토스27,457원/무배",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725129",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806052128_LZDQxzF9PH.jpg",
    "product_url": "https://ozip.me/a5NjlEL"
@@ -332,15 +350,6 @@
    "price": "26,890원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725090",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805223438_9Dp1xfMJak.jpg",
-   "product_url": null
-  },
-  {
-   "no": 725089,
-   "shop": "팔도감",
-   "title": "슈퍼오닝 평택 꿈마지 쌀 10kg(특등급)",
-   "price": "29600/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725089",
-   "thumb_url": "",
    "product_url": null
   }
  ]
