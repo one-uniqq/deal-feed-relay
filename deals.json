@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-05T17:16:15.001399+00:00",
+ "updated_at": "2026-08-05T18:58:36.071660+00:00",
  "deals": [
   {
-   "no": 725024,
-   "shop": "쿠팡",
-   "title": "하이워터 수압상승 필터 샤워기+PVC 호스 1.5m 세트",
-   "price": "5,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725024",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805172239_gVSvmYRjeu.jpg",
-   "product_url": "https://www.coupang.com/vp/products/9627655127?itemId=28754201793&vendorItemId=95681609241&q=%ED%95%98%EC%9D%B4%EC%9B%8C%ED%84%B0&searchId=0d124f537248084&sourceType=search&itemsCount=60&searchRank=3&"
+   "no": 724899,
+   "shop": "지마켓",
+   "title": "닌자 스마트 파워 업 초고속 블렌더 믹서기 CB350KR",
+   "price": "179,910원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724899",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805103802_W5lgaiaJjq.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4704902874"
+  },
+  {
+   "no": 725127,
+   "shop": "스팀",
+   "title": "Moonlighter",
+   "price": "무료/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725127",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0801/20260801042835_B15S4bTx.jpg",
+   "product_url": "https://store.steampowered.com/app/606150/Moonlighter/"
+  },
+  {
+   "no": 725126,
+   "shop": "지그재그",
+   "title": "이어맥 초슬림 3포트 고속충전 보조배터리 10000mAh (13,900원/무료)/쿠폰적용시 10,340원 구매가능",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725126",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806025511_0WOm9uO6.jpg",
+   "product_url": "https://zigzag.kr/catalog/products/171060064?utm_source=shopping_naver_all&tab=detail"
   },
   {
    "no": 725125,
@@ -263,15 +281,6 @@
    "product_url": null
   },
   {
-   "no": 725094,
-   "shop": "옥션",
-   "title": "BBQ 순살 치킨 너겟 200g x 3팩 소비기한 임박특가",
-   "price": "4,310/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725094",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805230945_PkEsXLMmz0.webp",
-   "product_url": null
-  },
-  {
    "no": 725093,
    "shop": "G마켓",
    "title": "소프트 내추럴 아기물티슈 70매 20팩",
@@ -324,24 +333,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725087",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805221322_cqtblhkLvn.jpg",
    "product_url": "https://store.kakao.com/youngstore/products/768443860"
-  },
-  {
-   "no": 725085,
-   "shop": "11번가",
-   "title": "여름 쪼리",
-   "price": "4,950원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725085",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805220725_xzV3NRpxyg.jpg",
-   "product_url": "https://www.11st.co.kr/products/7544833916"
-  },
-  {
-   "no": 725084,
-   "shop": "11번가",
-   "title": "제철 생 블루베리 1팩 125g 총 6팩",
-   "price": "16,920원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725084",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805220532_KlNxXw7QGx.jpg",
-   "product_url": "https://www.11st.co.kr/products/9054865797"
   }
  ]
 }
