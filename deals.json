@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-05T18:58:36.071660+00:00",
+ "updated_at": "2026-08-05T20:24:13.755335+00:00",
  "deals": [
   {
-   "no": 724899,
-   "shop": "지마켓",
-   "title": "닌자 스마트 파워 업 초고속 블렌더 믹서기 CB350KR",
-   "price": "179,910원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724899",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805103802_W5lgaiaJjq.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4704902874"
+   "no": 724942,
+   "shop": "G마켓",
+   "title": "아이더 26SS 신상 남성 1+1+1 3팩 기능성 반팔 아이스 라운드 티셔츠",
+   "price": "30,690원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724942",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805131901_PuWIJtBPZN.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3277453011"
+  },
+  {
+   "no": 725129,
+   "shop": "오늘의집",
+   "title": "조선호텔 특제육수 포기김치 4kg",
+   "price": "27,457원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725129",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806052128_LZDQxzF9PH.jpg",
+   "product_url": "https://ozip.me/a5NjlEL"
+  },
+  {
+   "no": 725128,
+   "shop": "카카오",
+   "title": "딱딱이 털복숭아 1kg + 1kg",
+   "price": "8,960원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725128",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806044922_Di2pVbDOBr.jpg",
+   "product_url": "https://store.kakao.com/ttangsmarket/products/762093484"
   },
   {
    "no": 725127,
@@ -324,15 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725089",
    "thumb_url": "",
    "product_url": null
-  },
-  {
-   "no": 725087,
-   "shop": "카카오",
-   "title": "가정용 꿀수박 8~9kg",
-   "price": "17,670원 / 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725087",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805221322_cqtblhkLvn.jpg",
-   "product_url": "https://store.kakao.com/youngstore/products/768443860"
   }
  ]
 }
