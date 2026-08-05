@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-05T21:39:36.866142+00:00",
+ "updated_at": "2026-08-05T22:46:35.828305+00:00",
  "deals": [
   {
-   "no": 724942,
+   "no": 724999,
    "shop": "G마켓",
-   "title": "아이더 26SS 신상 남성 1+1+1 3팩 기능성 반팔 아이스 라운드 티셔츠",
-   "price": "30,690원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724942",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805131901_PuWIJtBPZN.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3277453011"
+   "title": "휠라 공용 인기슈즈 5종 택 1",
+   "price": "35,360원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=724999",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805163614_3HzqurXHC7.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2469607404"
+  },
+  {
+   "no": 725132,
+   "shop": "종근당건강몰",
+   "title": "락토핏 골드 360포+30포 기획세트 외 아임비타 오메가 등",
+   "price": "52,288원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725132",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806065730_9lMAmETHYb.jpg",
+   "product_url": "https://ckdhcmall.co.kr/prdView.do?prdCode=G2405310828_0210"
   },
   {
    "no": 725131,
@@ -38,15 +47,6 @@
    "product_url": "https://ozip.me/a5NjlEL"
   },
   {
-   "no": 725128,
-   "shop": "카카오",
-   "title": "딱딱이 털복숭아 1kg + 1kg",
-   "price": "8,960원 / 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725128",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806044922_Di2pVbDOBr.jpg",
-   "product_url": "https://store.kakao.com/ttangsmarket/products/762093484"
-  },
-  {
    "no": 725127,
    "shop": "스팀",
    "title": "Moonlighter",
@@ -63,24 +63,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725126",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806025511_0WOm9uO6.jpg",
    "product_url": "https://zigzag.kr/catalog/products/171060064?utm_source=shopping_naver_all&tab=detail"
-  },
-  {
-   "no": 725125,
-   "shop": "신세계",
-   "title": "블랙야크키즈 스노우 롱 덕다운자켓",
-   "price": "삼성카드 67,200원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725125",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806011130_bqlm3Xnh7x.jpg",
-   "product_url": "https://deptapp.shinsegae.com/tzu7pg"
-  },
-  {
-   "no": 725124,
-   "shop": "옥션",
-   "title": "폴햄 쿨피케 카라티셔츠",
-   "price": "13,490원/2장이상무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725124",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0806/20260806010038_lzmZbIRkzn.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F624869880"
   },
   {
    "no": 725122,
@@ -351,6 +333,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725090",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0805/20260805223438_9Dp1xfMJak.jpg",
    "product_url": null
+  },
+  {
+   "no": 725089,
+   "shop": "팔도감",
+   "title": "슈퍼오닝 평택 꿈마지 쌀 10kg(특등급)",
+   "price": "29600/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725089",
+   "thumb_url": "",
+   "product_url": "https://8dogam.com/product/2ba4073d55ae0c4e277e01415ef0d014?listId=share&open_app=true"
   }
  ]
 }
