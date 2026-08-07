@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-07T18:36:45.881602+00:00",
+ "updated_at": "2026-08-07T19:42:25.074354+00:00",
  "deals": [
   {
-   "no": 725599,
+   "no": 725475,
    "shop": "G마켓",
-   "title": "VGN 잠자리 3세대 MASTER+ 게이밍 마우스 8K PAW3950 EXTREME",
-   "price": "55,660원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725599",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807215227_06uIh4rmtq.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820927843"
+   "title": "EASTPAK 이스트팩 메신저백 제이알XS",
+   "price": "18,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725475",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807130902_DBtgeUp8Z2.png",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4569732260"
+  },
+  {
+   "no": 725637,
+   "shop": "네이버",
+   "title": "해남 산지직송 무화과 450g 2팩",
+   "price": "13,200원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725637",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808042011_5VgAstMxYc.jpg",
+   "product_url": "https://brand.naver.com/thesingsing/products/10707454575"
   },
   {
    "no": 725636,
@@ -360,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725587",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201546_wXtJk0TvV0.jpg",
    "product_url": "https://www.eyes.co.kr/payplan/plan_info/414/C01"
-  },
-  {
-   "no": 725586,
-   "shop": "카카오톡",
-   "title": "풀무원 순생나또 2팩 X 15개",
-   "price": "20,674원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725586",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201040_yAZz8p4nfR.jpg",
-   "product_url": "https://store.kakao.com/pulmuoneshop/products/51202858"
   }
  ]
 }
