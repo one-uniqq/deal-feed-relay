@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-07T13:45:04.993754+00:00",
+ "updated_at": "2026-08-07T14:43:36.796961+00:00",
  "deals": [
   {
-   "no": 725568,
-   "shop": "지마켓",
-   "title": "CGV 예매권 (주중/주말 2D)",
-   "price": "10,300원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725568",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807190717_Ul6lyFJJYf.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4812018213?spm=gmktm.home.best_bestitem1.dtab0_item3.1367486aXle58b&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22ad"
+   "no": 725522,
+   "shop": "롯데온",
+   "title": "블랙야크 플로우 런 D 트레일 러닝화 화이트",
+   "price": "93,130원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725522",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807165912_i6n5I88dra.jpg",
+   "product_url": "https://s.lotteon.com/_Phnjg9Ps5?ch_dtl_no=1044428"
+  },
+  {
+   "no": 725603,
+   "shop": "G마켓",
+   "title": "비너스 아르보 언더웨어 모음 35%+20%",
+   "price": "쿠폰적용 시 상품별 가격 / 무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725603",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807230925_3A1IhcHpyV.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4077982057"
+  },
+  {
+   "no": 725602,
+   "shop": "네이버",
+   "title": "캘빈클라인 풀밴딩 반바지 남성 3컬러 택1",
+   "price": "16,920원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725602",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807230400_26YQwwBtvZ.jpg",
+   "product_url": "https://m.smartstore.naver.com/pondoutlet/products/13413014188"
   },
   {
    "no": 725601,
@@ -351,24 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725555",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180416_KUkYELAmPb.png",
    "product_url": "https://store.kakao.com/shapeint/products/520176246"
-  },
-  {
-   "no": 725554,
-   "shop": "NS몰",
-   "title": "커클랜드 시그니춰 먹는샘물 코스트코 무라벨 생수 2L X 24병",
-   "price": "10,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725554",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180248_nQzkCLkrjx.png",
-   "product_url": "https://m.nsmall.com/goods/36058923"
-  },
-  {
-   "no": 725553,
-   "shop": "패션플러스",
-   "title": "아디다스 골프 26FW 코드케이오스 27 보아 스파이크리스 골프화",
-   "price": "192,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725553",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180250_6PAOgWaGF3.jpg",
-   "product_url": "https://www.fashionplus.co.kr/goods/detail/430149090"
   }
  ]
 }
