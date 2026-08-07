@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T12:04:26.657896+00:00",
+ "updated_at": "2026-08-07T13:45:04.993754+00:00",
  "deals": [
   {
    "no": 725568,
@@ -9,6 +9,51 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725568",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807190717_Ul6lyFJJYf.jpg",
    "product_url": "https://m.gmarket.co.kr/vi/product/4812018213?spm=gmktm.home.best_bestitem1.dtab0_item3.1367486aXle58b&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22ad"
+  },
+  {
+   "no": 725601,
+   "shop": "네이버",
+   "title": "소머리국밥 600g 3팩",
+   "price": "12,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725601",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807223937_i9XlrQ8inD.jpg",
+   "product_url": "https://smartstore.naver.com/your_homeday/products/12828443491"
+  },
+  {
+   "no": 725600,
+   "shop": "롯데온",
+   "title": "한우 최고등급 1++ 9등급 꽃갈비살, 안심, 채끝, 꽃등심 각 200G",
+   "price": "18,020원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725600",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807223035_zFmYfJbo.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2728798163"
+  },
+  {
+   "no": 725599,
+   "shop": "G마켓",
+   "title": "VGN 잠자리 3세대 MASTER+ 게이밍 마우스 8K PAW3950 EXTREME",
+   "price": "55,660원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725599",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807215227_06uIh4rmtq.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820927843"
+  },
+  {
+   "no": 725598,
+   "shop": "네이버",
+   "title": "휴대용 미니 손선풍기",
+   "price": "3,900원 / 2,500원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725598",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807210802_1LpALjVo8U.jpg",
+   "product_url": "https://brand.naver.com/nuart/products/13634181672"
+  },
+  {
+   "no": 725597,
+   "shop": "롯데온",
+   "title": "K2 씬에어 코코 후디 구스다운",
+   "price": "130,454원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725597",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807211810_X9bDK3VLFJ.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222134341"
   },
   {
    "no": 725595,
@@ -29,24 +74,6 @@
    "product_url": "https://smartstore.naver.com/ecooks/products/13445638392"
   },
   {
-   "no": 725593,
-   "shop": "11번가",
-   "title": "룸인어스 제로 유아 매트",
-   "price": "16,110원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725593",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203046_E0oSfRRaq5.jpg",
-   "product_url": "https://www.11st.co.kr/products/9477642002"
-  },
-  {
-   "no": 725592,
-   "shop": "지마켓",
-   "title": "아이더 윈드스타퍼구스다운자켓 DMW24507",
-   "price": "149,690원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725592",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807204432_dA5ymkuO5l.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4734850550"
-  },
-  {
    "no": 725591,
    "shop": "동원몰",
    "title": "전통주 서설13도, 문배술25",
@@ -63,15 +90,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725590",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203142_yT6TifqDxP.jpeg",
    "product_url": "https://store.kakao.com/forest0522/products/604686983?ref=SHARE"
-  },
-  {
-   "no": 725589,
-   "shop": "11번가",
-   "title": "롯데웰푸드 티코 다크초코 510ml+말차 510ml+밀크초코 510ml 각 1개 (총 3개)",
-   "price": "15,960원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725589",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203003_ha2BoxtWBy.jpg",
-   "product_url": "http://www.11st.co.kr/products/8679522163/share"
   },
   {
    "no": 725588,
@@ -108,24 +126,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725585",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201001_aY6VRcvD.jpg",
    "product_url": "https://www.shinsegaetvshopping.com/display/detail/84496524?srchwdRslt=%EC%98%A4%EC%95%84%ED%9B%84%20%EC%86%8C%ED%8C%8C&trackSearchType=y_pc_normal&trackCurationType=c_search_normal&prePg=goods-search_search&pgArea=searchlist-products&listNum=&odd=n"
-  },
-  {
-   "no": 725584,
-   "shop": "롯데온",
-   "title": "트라이 인견 5부반바지 3매",
-   "price": "15,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725584",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807200829_X2Dt4OJ9Kv.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2719429007"
-  },
-  {
-   "no": 725583,
-   "shop": "11번가",
-   "title": "산사춘 375ml 6입 + 전용잔",
-   "price": "19,750원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725583",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807200712_JGkETNPLza.jpg",
-   "product_url": "http://www.11st.co.kr/products/3901412595/share"
   },
   {
    "no": 725582,
@@ -216,15 +216,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725572",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807193515_z95LgcXlxC.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4808616194"
-  },
-  {
-   "no": 725571,
-   "shop": "롯데온",
-   "title": "26년 햇 국내산 다진마늘 2kg",
-   "price": "13,320원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725571",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807192635_aWNzntjBkC.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2740385457"
   },
   {
    "no": 725570,
@@ -369,6 +360,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725554",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180248_nQzkCLkrjx.png",
    "product_url": "https://m.nsmall.com/goods/36058923"
+  },
+  {
+   "no": 725553,
+   "shop": "패션플러스",
+   "title": "아디다스 골프 26FW 코드케이오스 27 보아 스파이크리스 골프화",
+   "price": "192,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725553",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180250_6PAOgWaGF3.jpg",
+   "product_url": "https://www.fashionplus.co.kr/goods/detail/430149090"
   }
  ]
 }
