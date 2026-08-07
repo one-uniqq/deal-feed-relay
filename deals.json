@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T17:38:41.436448+00:00",
+ "updated_at": "2026-08-07T18:36:45.881602+00:00",
  "deals": [
   {
    "no": 725599,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725599",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807215227_06uIh4rmtq.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820927843"
+  },
+  {
+   "no": 725636,
+   "shop": "스팀",
+   "title": "Breathedge",
+   "price": "무료/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725636",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808024222_KV9rk4uQ.jpg",
+   "product_url": "https://store.steampowered.com/app/738520/Breathedge/"
   },
   {
    "no": 725635,
@@ -360,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725586",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201040_yAZz8p4nfR.jpg",
    "product_url": "https://store.kakao.com/pulmuoneshop/products/51202858"
-  },
-  {
-   "no": 725585,
-   "shop": "신세계티비",
-   "title": "오아후 4인 스윙기능 리브 패브릭 소파",
-   "price": "2,889,050원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725585",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201001_aY6VRcvD.jpg",
-   "product_url": "https://www.shinsegaetvshopping.com/display/detail/84496524?srchwdRslt=%EC%98%A4%EC%95%84%ED%9B%84%20%EC%86%8C%ED%8C%8C&trackSearchType=y_pc_normal&trackCurationType=c_search_normal&prePg=goods-search_search&pgArea=searchlist-products&listNum=&odd=n"
   }
  ]
 }
