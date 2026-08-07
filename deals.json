@@ -1,14 +1,95 @@
 {
- "updated_at": "2026-08-07T11:13:33.450060+00:00",
+ "updated_at": "2026-08-07T12:04:26.657896+00:00",
  "deals": [
   {
-   "no": 725475,
-   "shop": "G마켓",
-   "title": "EASTPAK 이스트팩 메신저백 제이알XS",
-   "price": "18,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725475",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807130902_DBtgeUp8Z2.png",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4569732260"
+   "no": 725568,
+   "shop": "지마켓",
+   "title": "CGV 예매권 (주중/주말 2D)",
+   "price": "10,300원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725568",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807190717_Ul6lyFJJYf.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4812018213?spm=gmktm.home.best_bestitem1.dtab0_item3.1367486aXle58b&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22ad"
+  },
+  {
+   "no": 725595,
+   "shop": "지마켓",
+   "title": "스카트 거품 2배 그물 망사수세미",
+   "price": "13,590원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725595",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807205236_5R03V6aWUg.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.searchlist_minishop.0.0.3ce62e764gfrSb&goodsCode=4793029763"
+  },
+  {
+   "no": 725594,
+   "shop": "네이버",
+   "title": "칵테일새우 900g+간장새우장 500g+오돌뼈 300g",
+   "price": "29,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725594",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807204832_kWltJuvQMv.jpg",
+   "product_url": "https://smartstore.naver.com/ecooks/products/13445638392"
+  },
+  {
+   "no": 725593,
+   "shop": "11번가",
+   "title": "룸인어스 제로 유아 매트",
+   "price": "16,110원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725593",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203046_E0oSfRRaq5.jpg",
+   "product_url": "https://www.11st.co.kr/products/9477642002"
+  },
+  {
+   "no": 725592,
+   "shop": "지마켓",
+   "title": "아이더 윈드스타퍼구스다운자켓 DMW24507",
+   "price": "149,690원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725592",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807204432_dA5ymkuO5l.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4734850550"
+  },
+  {
+   "no": 725591,
+   "shop": "동원몰",
+   "title": "전통주 서설13도, 문배술25",
+   "price": "다양,무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725591",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203521_kQ0a7U7Sjj.jpg",
+   "product_url": "https://www.dongwonmall.com/product/detail.do?productId=004027848&cate_id="
+  },
+  {
+   "no": 725590,
+   "shop": "카카오",
+   "title": "육즙 가득 그레이비 함박 스테이크 130g x5팩",
+   "price": "9,900/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725590",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203142_yT6TifqDxP.jpeg",
+   "product_url": "https://store.kakao.com/forest0522/products/604686983?ref=SHARE"
+  },
+  {
+   "no": 725589,
+   "shop": "11번가",
+   "title": "롯데웰푸드 티코 다크초코 510ml+말차 510ml+밀크초코 510ml 각 1개 (총 3개)",
+   "price": "15,960원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725589",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807203003_ha2BoxtWBy.jpg",
+   "product_url": "http://www.11st.co.kr/products/8679522163/share"
+  },
+  {
+   "no": 725588,
+   "shop": "롯데백화점",
+   "title": "시리즈 투톤 반팔 카라 니트",
+   "price": "60,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725588",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807202249_CGbzRTEhiA.jpg",
+   "product_url": "https://www.lotteon.com/p/product/bundle/LE2679902179?sitmNo=&mall_no=1"
+  },
+  {
+   "no": 725587,
+   "shop": "아이즈모바일",
+   "title": "롯데시네마 밀리 11GB 일 2GB 11GB 3Mbps 속도제한",
+   "price": "4900원 7개월",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725587",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807201546_wXtJk0TvV0.jpg",
+   "product_url": "https://www.eyes.co.kr/payplan/plan_info/414/C01"
   },
   {
    "no": 725586,
@@ -288,87 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725554",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180248_nQzkCLkrjx.png",
    "product_url": "https://m.nsmall.com/goods/36058923"
-  },
-  {
-   "no": 725553,
-   "shop": "패션플러스",
-   "title": "아디다스 골프 26FW 코드케이오스 27 보아 스파이크리스 골프화",
-   "price": "192,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725553",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180250_6PAOgWaGF3.jpg",
-   "product_url": "https://www.fashionplus.co.kr/goods/detail/430149090"
-  },
-  {
-   "no": 725552,
-   "shop": "네이버",
-   "title": "ANF 고양이캔 콤보 95gx15 참치순살/새우/무스",
-   "price": "14,530원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725552",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180210_DgIHhQFZIl.jpg",
-   "product_url": "https://brand.naver.com/irion-mall/products/8873577615"
-  },
-  {
-   "no": 725551,
-   "shop": "롯데백화점",
-   "title": "시리즈 피그먼트 워싱 양털카라 다운 점퍼",
-   "price": "317,280원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725551",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180220_dd389UcC.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1222214482?mall_no=2&ch_dtl_no=1000223"
-  },
-  {
-   "no": 725550,
-   "shop": "네이버",
-   "title": "이탈리아식 파누오쪼 샌드위치 3개입",
-   "price": "9,900원/3,500원",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725550",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807175755_1i9Bsp9LPw.jpg",
-   "product_url": "https://brand.naver.com/frozen/products/13684396004"
-  },
-  {
-   "no": 725549,
-   "shop": "11번가",
-   "title": "메가커피 아이스 아메리카노",
-   "price": "1,600원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725549",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807180004_Spym6rZN6P.jpeg",
-   "product_url": "https://www.11st.co.kr/products/9524704349"
-  },
-  {
-   "no": 725548,
-   "shop": "인더마켓",
-   "title": "국내산 거봉 1.5kg",
-   "price": "16,450원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725548",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807175839_QZU7KymL.jpg",
-   "product_url": "https://inthemarket.co.kr/?pn=product.view&pcode=I8868-Q9395-R8681&src=text&kw=000025"
-  },
-  {
-   "no": 725547,
-   "shop": "무신사",
-   "title": "뉴케어 올프로틴 아몬드맛 245ml 16팩",
-   "price": "25,920원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725547",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807175737_HU5t5b5nsX.jpeg",
-   "product_url": "https://www.musinsa.com/products/6813256"
-  },
-  {
-   "no": 725546,
-   "shop": "롯데온",
-   "title": "츄파춥스 팝아트틴 150입 + 한정판 블루투스 스피커",
-   "price": "18,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725546",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807175659_sydQHcEWOi.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2668042600"
-  },
-  {
-   "no": 725545,
-   "shop": "11번가",
-   "title": "아싸컴 반본체 AMD 반본체_7700X3D+32GB+1TB",
-   "price": "1,690,030원/ 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725545",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807175559_H6i47fer.jpg",
-   "product_url": "https://www.11st.co.kr/products/8847096814"
   }
  ]
 }
