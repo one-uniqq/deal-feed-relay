@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-08T22:53:05.899518+00:00",
+ "updated_at": "2026-08-08T23:16:30.800464+00:00",
  "deals": [
   {
-   "no": 725675,
+   "no": 725657,
    "shop": "토스",
-   "title": "스파클 생수 2L, 24개",
-   "price": "7,200원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725675",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808111320_g2h69EHl.jpg",
-   "product_url": "https://toss.shopping/t/56199215"
+   "title": "머그바 안동식 순살찜닭, 800g, 2개,",
+   "price": "8,600원/ 무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725657",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808101114_JJHh20ZS.jpg",
+   "product_url": "https://toss.shopping/t/397016955"
+  },
+  {
+   "no": 725779,
+   "shop": "토스쇼핑",
+   "title": "(금일마지막) 수뜰리에 클린 퍼퓸 포밍 핸드워시 510ml X 2개",
+   "price": " 3,500원 / 무료배송 ",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725779",
+   "thumb_url": "",
+   "product_url": "https://toss.shopping/t/120950545"
+  },
+  {
+   "no": 725778,
+   "shop": "토스쇼핑",
+   "title": "널담 고단백 베이글 맛혼합 10개",
+   "price": "6800원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725778",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809080333_CF7fJz09.jpg",
+   "product_url": "https://toss.shopping/t/2413913575"
   },
   {
    "no": 725777,
@@ -351,24 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725735",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808195730_oexCTyxX8k.jpg",
    "product_url": "https://toss.shopping/t/1436234635"
-  },
-  {
-   "no": 725734,
-   "shop": "떠리몰",
-   "title": "밀키 카라멜 토마토 62g*24봉",
-   "price": "15,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725734",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808195113_F4YyuXPi.jpg",
-   "product_url": "https://thirtymall.com/detail?id=134158535"
-  },
-  {
-   "no": 725733,
-   "shop": "롯데온",
-   "title": "스테비아 대추방울토마토 500g x  4팩",
-   "price": "9,730원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725733",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808193003_L2dQOs1V.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2718801034"
   }
  ]
 }
