@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T14:03:20.527983+00:00",
+ "updated_at": "2026-08-08T14:55:00.192689+00:00",
  "deals": [
   {
    "no": 725683,
@@ -9,6 +9,33 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725683",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808130409_G2BbRw7J.jpg",
    "product_url": "https://www.lotteon.com/p/product/LE1221508973?sitmNo=LE1221508973_1330189817&mall_no=1&dp_infw_cd=SCH%5E%5E3BYKTMU002&areaCode=SCH&ch_dtl_no=1044428"
+  },
+  {
+   "no": 725756,
+   "shop": "11번가",
+   "title": "깨끗한 나라 순수 프리미엄 30m 30롤 3팩",
+   "price": "35,760원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725756",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230803_JufatTNQt0.jpg",
+   "product_url": "http://www.11st.co.kr/products/5021463095/share"
+  },
+  {
+   "no": 725755,
+   "shop": "11번가",
+   "title": "부라보콘 8+8+8 24개 골라담기",
+   "price": "23,940원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725755",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230526_oouJTb5AHh.jpg",
+   "product_url": "http://www.11st.co.kr/products/9450770545"
+  },
+  {
+   "no": 725754,
+   "shop": "G마켓",
+   "title": "랜드미 2세대 BLDC 저소음 고속 헤어드라이기",
+   "price": "33,950원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725754",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230107_ZfpFJJ5CGD.png",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4672613085"
   },
   {
    "no": 725753,
@@ -333,33 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725715",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808175231_MuyNMhb0Bi.png",
    "product_url": "https://brand.naver.com/harimpetfood/products/11205105536"
-  },
-  {
-   "no": 725712,
-   "shop": "카카오",
-   "title": "득근파티 촉촉 부드러운 통살 스팀닭가슴살 18팩 6가지맛",
-   "price": "21,027원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725712",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808170942_3PhbLLKA.jpg",
-   "product_url": "https://store.kakao.com/dgparty/products/346289090"
-  },
-  {
-   "no": 725711,
-   "shop": "지마켓",
-   "title": "금강만두 육개장 630g x5봉",
-   "price": "17,970원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725711",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808170734_NHPXladH4m.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/2122330900?spm=gmktm.home.best_bestitem2.dtab0_item31.257f486aQutotm&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22a"
-  },
-  {
-   "no": 725710,
-   "shop": "톡딜",
-   "title": "원산 물냉면 10인분 물/비빔 택 1",
-   "price": "9,800원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725710",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808170657_hCG1q88k.jpg",
-   "product_url": "https://store.kakao.com/ollim/products/772301432"
   }
  ]
 }
