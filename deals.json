@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T16:17:51.530380+00:00",
+ "updated_at": "2026-08-08T16:59:06.291244+00:00",
  "deals": [
   {
    "no": 725738,
@@ -236,15 +236,6 @@
    "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F630941055"
   },
   {
-   "no": 725749,
-   "shop": "토스쇼핑",
-   "title": "구워먹는 할루미치즈 200g 3개",
-   "price": "7600원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725749",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808215529_MvUxlodEsn.jpg",
-   "product_url": "https://toss.shopping/t/2387164259?k=c614874f-efe2-4bb4-85a0-87e7cf8d65eb"
-  },
-  {
    "no": 725748,
    "shop": "11번가",
    "title": "고래송이미니 20개입",
@@ -369,6 +360,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725734",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808195113_F4YyuXPi.jpg",
    "product_url": "https://thirtymall.com/detail?id=134158535"
+  },
+  {
+   "no": 725733,
+   "shop": "롯데온",
+   "title": "스테비아 대추방울토마토 500g x  4팩",
+   "price": "9,730원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725733",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808193003_L2dQOs1V.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2718801034"
   }
  ]
 }
