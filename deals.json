@@ -1,14 +1,59 @@
 {
- "updated_at": "2026-08-08T11:50:34.224707+00:00",
+ "updated_at": "2026-08-08T12:21:37.619033+00:00",
  "deals": [
   {
-   "no": 725675,
-   "shop": "토스",
-   "title": "스파클 생수 2L, 24개",
-   "price": "7,200원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725675",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808111320_g2h69EHl.jpg",
-   "product_url": "https://toss.shopping/t/56199215"
+   "no": 725597,
+   "shop": "롯데온",
+   "title": "K2 씬에어 코코 후디 구스다운",
+   "price": "130,454원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725597",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0807/20260807211810_X9bDK3VLFJ.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222134341"
+  },
+  {
+   "no": 725742,
+   "shop": "오늘의집",
+   "title": "헤드앤숄더 샴푸 800ml x3개 + 미니2개 증정",
+   "price": "토스22,192원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725742",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808211800_djrHRLkKty.jpg",
+   "product_url": "https://ozip.me/6Hebjhm"
+  },
+  {
+   "no": 725741,
+   "shop": "지마켓",
+   "title": "에코스텝 주방세제 본품 500ml + 리필 300ml x 3개",
+   "price": "4,510원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725741",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808211825_p3qCiZsaVT.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2747454278"
+  },
+  {
+   "no": 725740,
+   "shop": "롯데온",
+   "title": "25SS 서피비치 비치타올 OUAEO2612-199",
+   "price": "5,460원/유배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725740",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808211742_bdIIeSR6HS.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1221303120"
+  },
+  {
+   "no": 725739,
+   "shop": "롯데온",
+   "title": "이니스프리 올리브 비타민 E 클렌징 폼 150g 3개",
+   "price": "15,780원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725739",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808210527_sF83iWXz9o.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2730654264"
+  },
+  {
+   "no": 725738,
+   "shop": "롯데온",
+   "title": "아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725738",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808205327_AGpg9knqnA.jpeg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222142358"
   },
   {
    "no": 725737,
@@ -315,42 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725698",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808155515_tzYiLDwHxJ.jpg",
    "product_url": "https://brand.naver.com/mggfood/products/12552634665"
-  },
-  {
-   "no": 725695,
-   "shop": "네이버",
-   "title": "스타메라 솔리드 블랙 이태리벨트",
-   "price": "29,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725695",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808145629_FhT76BjmzR.jpg",
-   "product_url": "https://m.smartstore.naver.com/umar/products/474927962"
-  },
-  {
-   "no": 725694,
-   "shop": "H패션",
-   "title": "타미진스 린넨 블렌드 데님 셔츠",
-   "price": "53116원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725694",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808143929_nMQHSegSQ6.jpg",
-   "product_url": "https://www.hfashionmall.com/product/GM0126040249167/detail"
-  },
-  {
-   "no": 725693,
-   "shop": "옥션",
-   "title": "경봉복숭아 4kg",
-   "price": "14,790원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725693",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808141704_sCSmKOnLSr.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F624401806"
-  },
-  {
-   "no": 725691,
-   "shop": "네이버",
-   "title": "농협안심한우 1등급 등심200g+채끝200g+부채200g",
-   "price": "38,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725691",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808140336_3c8W25PvTD.jpg",
-   "product_url": "https://smartstore.naver.com/suix/products/13522356871"
   }
  ]
 }
