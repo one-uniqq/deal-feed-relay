@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-08T21:18:13.758449+00:00",
+ "updated_at": "2026-08-08T21:51:51.222602+00:00",
  "deals": [
   {
-   "no": 725772,
-   "shop": "롯데온",
-   "title": "컬럼비아 남성 기능성 여름 냉감 반팔 티셔츠",
-   "price": "30,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725772",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809010125_lL6A8U7Lto.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1222023156"
+   "no": 725774,
+   "shop": "지마켓",
+   "title": "내셔널지오그래픽 역시즌특가 남여공용 골든몰 구스다운점퍼",
+   "price": "109,760원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725774",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809011145_uVm8P2JcjX.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4406702776"
   },
   {
    "no": 725776,
@@ -29,15 +29,6 @@
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4066696247"
   },
   {
-   "no": 725774,
-   "shop": "지마켓",
-   "title": "내셔널지오그래픽 역시즌특가 남여공용 골든몰 구스다운점퍼",
-   "price": "109,760원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725774",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809011145_uVm8P2JcjX.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4406702776"
-  },
-  {
    "no": 725773,
    "shop": "지마켓",
    "title": "하이뮨 프로틴 밸런스 액티브 바닐라봉봉 ZERO 18입",
@@ -45,6 +36,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725773",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809010455_vlFv87FT2t.jpeg",
    "product_url": "https://m.gmarket.co.kr/vi/product/4650396608"
+  },
+  {
+   "no": 725772,
+   "shop": "롯데온",
+   "title": "컬럼비아 남성 기능성 여름 냉감 반팔 티셔츠",
+   "price": "30,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725772",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809010125_lL6A8U7Lto.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1222023156"
   },
   {
    "no": 725771,
