@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-08T16:59:06.291244+00:00",
+ "updated_at": "2026-08-08T17:28:16.838434+00:00",
  "deals": [
   {
-   "no": 725738,
-   "shop": "롯데온",
-   "title": "아이더 캄피로 대장급 초헤비 구스다운 (433,630원/무료) 토스 42.7만",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725738",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808205327_AGpg9knqnA.jpeg",
-   "product_url": "https://www.lotteon.com/m/product/LE1222142358"
+   "no": 725774,
+   "shop": "지마켓",
+   "title": "내셔널지오그래픽 역시즌특가 남여공용 골든몰 구스다운점퍼",
+   "price": "109,760원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725774",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809011145_uVm8P2JcjX.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4406702776"
+  },
+  {
+   "no": 725776,
+   "shop": "쿠쿠몰",
+   "title": "쿠쿠 6인용 IH전기압력밥솥",
+   "price": "240,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725776",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809021021_BfxfN2qE.jpg",
+   "product_url": "https://www.cuckoo.co.kr/planning/planningView?page=1&idx=358"
   },
   {
    "no": 725775,
@@ -18,15 +27,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725775",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809011322_KsFCymYPGJ.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4066696247"
-  },
-  {
-   "no": 725774,
-   "shop": "지마켓",
-   "title": "내셔널지오그래픽 역시즌특가 남여공용 골든몰 구스다운점퍼",
-   "price": "109,760원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725774",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809011145_uVm8P2JcjX.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4406702776"
   },
   {
    "no": 725773,
@@ -360,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725734",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808195113_F4YyuXPi.jpg",
    "product_url": "https://thirtymall.com/detail?id=134158535"
-  },
-  {
-   "no": 725733,
-   "shop": "롯데온",
-   "title": "스테비아 대추방울토마토 500g x  4팩",
-   "price": "9,730원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725733",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808193003_L2dQOs1V.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2718801034"
   }
  ]
 }
