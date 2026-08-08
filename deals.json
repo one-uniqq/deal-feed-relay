@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-08T11:18:05.378261+00:00",
+ "updated_at": "2026-08-08T11:50:34.224707+00:00",
  "deals": [
   {
-   "no": 725728,
-   "shop": "G마켓",
-   "title": "K2 여성 여름 샌들 니아",
-   "price": "35,220원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725728",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808190201_ROi8Cz9TsH.jpg",
-   "product_url": "https://link.gmarket.co.kr/QhKGauEcKB"
+   "no": 725675,
+   "shop": "토스",
+   "title": "스파클 생수 2L, 24개",
+   "price": "7,200원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725675",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808111320_g2h69EHl.jpg",
+   "product_url": "https://toss.shopping/t/56199215"
+  },
+  {
+   "no": 725737,
+   "shop": "네이버",
+   "title": "부산 당면만두 20개 2세트 40개",
+   "price": "5,800원/네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725737",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808202414_qsWAn8iiBj.jpg",
+   "product_url": "https://brand.naver.com/lohasmart/products/13526421203"
   },
   {
    "no": 725736,
@@ -200,15 +209,6 @@
    "product_url": "https://brand.naver.com/harimpetfood/products/11205105536"
   },
   {
-   "no": 725714,
-   "shop": "롯데온",
-   "title": "히말라야 너리싱 바디로션 400ml 2개 (1900원/무배) 소비기한임박",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725714",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808174727_OQD5uEJbmE.jpg",
-   "product_url": "https://www.lotteimall.com/goods/viewGoodsDetail.lotte?goods_no=1283861749"
-  },
-  {
    "no": 725712,
    "shop": "카카오",
    "title": "득근파티 촉촉 부드러운 통살 스팀닭가슴살 18팩 6가지맛",
@@ -317,15 +317,6 @@
    "product_url": "https://brand.naver.com/mggfood/products/12552634665"
   },
   {
-   "no": 725697,
-   "shop": "토스쇼핑",
-   "title": "달콤파크 프리미엄 하스 아보카도 중과 10개입",
-   "price": "9,700원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725697",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808150805_CZbBKchNEE.jpg",
-   "product_url": "https://toss.shopping/t/2354083559"
-  },
-  {
    "no": 725695,
    "shop": "네이버",
    "title": "스타메라 솔리드 블랙 이태리벨트",
@@ -351,6 +342,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725693",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808141704_sCSmKOnLSr.jpg",
    "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F624401806"
+  },
+  {
+   "no": 725691,
+   "shop": "네이버",
+   "title": "농협안심한우 1등급 등심200g+채끝200g+부채200g",
+   "price": "38,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725691",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808140336_3c8W25PvTD.jpg",
+   "product_url": "https://smartstore.naver.com/suix/products/13522356871"
   }
  ]
 }
