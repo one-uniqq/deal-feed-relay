@@ -1,23 +1,77 @@
 {
- "updated_at": "2026-08-09T09:08:08.107898+00:00",
+ "updated_at": "2026-08-09T10:01:50.044612+00:00",
  "deals": [
   {
-   "no": 725773,
-   "shop": "지마켓",
-   "title": "하이뮨 프로틴 밸런스 액티브 바닐라봉봉 ZERO 18입",
-   "price": "18,620원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725773",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809010455_vlFv87FT2t.jpeg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4650396608"
+   "no": 725754,
+   "shop": "G마켓",
+   "title": "랜드미 2세대 BLDC 저소음 고속 헤어드라이기",
+   "price": "33,950원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725754",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230107_ZfpFJJ5CGD.png",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4672613085"
   },
   {
-   "no": 725865,
-   "shop": "롯데온",
-   "title": "블랙야크키즈 홑겹바람막이 자켓",
-   "price": "25,730원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725865",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809180346_UKvuCXCOVk.jpg",
-   "product_url": "https://naver.me/GzdZO3UV"
+   "no": 725872,
+   "shop": "네이버",
+   "title": "베트남 칵테일 새우 450g+양념깐새우장500g",
+   "price": "19,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725872",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809185748_wEnbf7jh6P.jpg",
+   "product_url": "https://smartstore.naver.com/ecooks/products/13665435419"
+  },
+  {
+   "no": 725871,
+   "shop": "네이버",
+   "title": "숙취해소 짠한형 화깨수",
+   "price": "9,900원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725871",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809185453_q2VQq68Htv.jpg",
+   "product_url": "https://smartstore.naver.com/oulrim/products/13658851449"
+  },
+  {
+   "no": 725870,
+   "shop": "톡딜",
+   "title": "퓨리얼 퓨온 정수기 PPA-100",
+   "price": "148,428원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725870",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809185135_RSkodFLgzc.jpeg",
+   "product_url": "https://store.kakao.com/picogrampureal/products/175674418"
+  },
+  {
+   "no": 725869,
+   "shop": "네이버",
+   "title": "농할쿠폰 국내산 대추방울토마토2kg(1-3번과)",
+   "price": "8,560원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725869",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809184136_X4MaocSj4C.png",
+   "product_url": "https://naver.me/FmGhIrPc"
+  },
+  {
+   "no": 725868,
+   "shop": "11번가",
+   "title": "60분 러시 에너자이저 에버레디 알카라인 건전지 AA/AAA 총20알",
+   "price": "6,700원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725868",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809182908_5RBQBANM.jpg",
+   "product_url": "https://www.11st.co.kr/products/1904670184"
+  },
+  {
+   "no": 725867,
+   "shop": "11번가",
+   "title": "오리온 통크 초코, 45g, 20개",
+   "price": "티멤 13,460원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725867",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809181932_fRGdW8LwgQ.jpeg",
+   "product_url": "https://m.11st.co.kr/products/ma/6785934242"
+  },
+  {
+   "no": 725866,
+   "shop": "카카오",
+   "title": "오늘담근 배추 겉절이 2kg",
+   "price": "8,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725866",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809181822_N16Xtm9L.jpg",
+   "product_url": "https://store.kakao.com/mjk/products/744048823?area=mainp&impression_id=air_store_talkdeal_main&big_ordnum=12"
   },
   {
    "no": 725864,
@@ -315,60 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725830",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809134141_Czhg0bN2.jpg",
    "product_url": "https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/"
-  },
-  {
-   "no": 725829,
-   "shop": "롯데온",
-   "title": "푸켓 5성급 다이아몬드 클리프 리조트 자유여행",
-   "price": "675,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725829",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809133447_fYRHAVjBl6.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2739317491"
-  },
-  {
-   "no": 725828,
-   "shop": "지마켓",
-   "title": "모나리자 소프트리 미용티슈 230매 12개",
-   "price": "12,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725828",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809132938_FGcsn5LZqc.jpeg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4147349857"
-  },
-  {
-   "no": 725827,
-   "shop": "네이버",
-   "title": "비타민 NMF 화이트닝 수분케어 스킨케어 3종세트",
-   "price": "9,990원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725827",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809132714_MIRcxyVULA.jpeg",
-   "product_url": "https://m.smartstore.naver.com/thinkco/products/5906722395"
-  },
-  {
-   "no": 725826,
-   "shop": "네이버",
-   "title": "칼집 통 갈매기살 1kg 돼지고기 특수부위",
-   "price": "13,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725826",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809132622_pr2j1gg2Qy.jpg",
-   "product_url": "https://brand.naver.com/gogijungdok/products/10698504324"
-  },
-  {
-   "no": 725825,
-   "shop": "네이버",
-   "title": "냉장 황기 순살족발세트 3~4인분 세트",
-   "price": "15,500원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725825",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809132540_rkfh81pkem.jpg",
-   "product_url": "https://brand.naver.com/papamall/products/6354907044"
-  },
-  {
-   "no": 725824,
-   "shop": "29CM",
-   "title": "크록스 키즈 클래식 클로그 토들러",
-   "price": "29,940원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725824",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809131616_aFAhQQ2wht.jpg",
-   "product_url": "https://www.29cm.co.kr/products/4053788"
   }
  ]
 }
