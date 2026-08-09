@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-09T14:05:25.458047+00:00",
+ "updated_at": "2026-08-09T14:58:28.639872+00:00",
  "deals": [
   {
-   "no": 725778,
-   "shop": "토스쇼핑",
-   "title": "널담 고단백 베이글 맛혼합 10개",
-   "price": "6800원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725778",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809080333_CF7fJz09.jpg",
-   "product_url": "https://toss.shopping/t/2413913575"
+   "no": 725799,
+   "shop": "지마켓",
+   "title": "GAP인증 제주 청귤 3kg",
+   "price": "9,630원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725799",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809100829_ZYL6dvSZXH.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4821412997"
   },
   {
    "no": 725921,
@@ -27,15 +27,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725920",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809224329_JvOEe7LLcy.jpg",
    "product_url": "https://link.gmarket.co.kr/4iEHzwFCGB"
-  },
-  {
-   "no": 725919,
-   "shop": "네이버",
-   "title": "유산균 낙산균 다이어트 30포 5,890원/무배",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725919",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809224140_wePf0RZABB.jpg",
-   "product_url": "https://naver.me/xbjX4gtB"
   },
   {
    "no": 725918,
@@ -90,15 +81,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725912",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809213629_TUURwnp7Fa.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2313331648"
-  },
-  {
-   "no": 725911,
-   "shop": "지마켓",
-   "title": "서랍옷장신발장용 제습제 50g x 30개입",
-   "price": "8,730원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725911",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809213538_jKx9l5JXgS.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3886297913"
   },
   {
    "no": 725910,
@@ -369,6 +351,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725879",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190916_GJwxOGb4ab.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=3749485380"
+  },
+  {
+   "no": 725878,
+   "shop": "11번가",
+   "title": "오므론 HEM-7121J 자동전자혈압계 혈압측정기",
+   "price": "45,700원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725878",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190723_1hnt4lD0Li.png",
+   "product_url": "https://www.11st.co.kr/products/9477678732"
+  },
+  {
+   "no": 725877,
+   "shop": "CJ라이브",
+   "title": "데이즈온 파라다이스그레인 버닝 24박스",
+   "price": "363,690원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725877",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190512_vYp0EbR8rW.jpg",
+   "product_url": "https://display.cjonstyle.com/m/pgmShop/1028?pgmShopTabType=P&bdCd=27913"
   }
  ]
 }
