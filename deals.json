@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-09T22:24:22.922046+00:00",
+ "updated_at": "2026-08-09T22:56:06.772514+00:00",
  "deals": [
   {
-   "no": 725899,
-   "shop": "G마켓",
-   "title": "하기스 낮밤팩 2박스 외 모음딜",
-   "price": "93,750원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725899",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202846_XyEAr09m6Z.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4723251670"
+   "no": 725921,
+   "shop": "롯데ON",
+   "title": "K2 남여공용 트리퍼 롱 다운 115,500원 /무료  토스 113,768",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725921",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809230152_vzbWzG3x.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1219964822?sitmNo=LE1219964822_1319753925&mall_no=1&dp_infw_cd=SCH%5E%5Ekmw24583&areaCode=SCH"
+  },
+  {
+   "no": 725944,
+   "shop": "옥션",
+   "title": "춘천 가마솥 간장 찜닭 1kg+1kg 총 2kg",
+   "price": "14,180원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725944",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810074700_dQqmV5qhap.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=F607125121"
   },
   {
    "no": 725943,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725901",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809203851_jmlQhlMyuY.jpg",
    "product_url": "https://smartstore.naver.com/baleuljung/products/12133409758"
-  },
-  {
-   "no": 725900,
-   "shop": "11번가",
-   "title": "트립앤 폴리카보네이트 캐리어 20인치",
-   "price": "56,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725900",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809203520_i5Ne9zKEGg.jpeg",
-   "product_url": "https://m.11st.co.kr/products/ma/4331625959"
   }
  ]
 }
