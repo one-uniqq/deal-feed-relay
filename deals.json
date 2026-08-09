@@ -1,14 +1,50 @@
 {
- "updated_at": "2026-08-09T11:26:07.372638+00:00",
+ "updated_at": "2026-08-09T11:52:41.893272+00:00",
  "deals": [
   {
-   "no": 725756,
+   "no": 725777,
+   "shop": "토스쇼핑",
+   "title": "오늘특가 광천김40g 10봉 10,900원/ 가그린제로820ml 4개+100ml 13900원/ 드라이 쿨 반팔티 3,900원,사이즈S~3XL까지",
+   "price": "무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725777",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809070743_F8KLlBzb.jpg",
+   "product_url": "https://toss.shopping/t/2548182029"
+  },
+  {
+   "no": 725901,
+   "shop": "네이버",
+   "title": "1+ 거세한우 윗등심 250g",
+   "price": "14,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725901",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809203851_jmlQhlMyuY.jpg",
+   "product_url": "https://smartstore.naver.com/baleuljung/products/12133409758"
+  },
+  {
+   "no": 725900,
    "shop": "11번가",
-   "title": "깨끗한 나라 순수 프리미엄 30m 30롤 3팩",
-   "price": "35,760원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725756",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230803_JufatTNQt0.jpg",
-   "product_url": "http://www.11st.co.kr/products/5021463095/share"
+   "title": "트립앤 폴리카보네이트 캐리어 20인치",
+   "price": "56,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725900",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809203520_i5Ne9zKEGg.jpeg",
+   "product_url": "https://m.11st.co.kr/products/ma/4331625959"
+  },
+  {
+   "no": 725899,
+   "shop": "G마켓",
+   "title": "하기스 낮밤팩 2박스 외 모음딜",
+   "price": "93,750원 / 무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725899",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202846_XyEAr09m6Z.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4723251670"
+  },
+  {
+   "no": 725898,
+   "shop": "네이버",
+   "title": "다온햄 소스통살 닭가슴살 100g 50개",
+   "price": "49,850원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725898",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202626_0zCWvWkO5Q.jpg",
+   "product_url": "https://smartstore.naver.com/teamcomm/products/13647927857"
   },
   {
    "no": 725897,
@@ -333,42 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725859",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809173719_1RFOKI3e1J.jpg",
    "product_url": "https://store.kakao.com/thesingsingmall/products/111502642"
-  },
-  {
-   "no": 725858,
-   "shop": "11번가",
-   "title": "오리온 촉촉한 초코칩 320g 3개",
-   "price": "티멤9,230원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725858",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809173037_LSwHCBsbXZ.jpeg",
-   "product_url": "http://www.11st.co.kr/products/4018275326"
-  },
-  {
-   "no": 725857,
-   "shop": "카카오",
-   "title": "해운대암소갈비집 뼈없는 갈비탕 800g X 5팩",
-   "price": "41,850원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725857",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809171545_1VwR16VehY.jpg",
-   "product_url": "https://store.kakao.com/rawgaon/products/701865256"
-  },
-  {
-   "no": 725856,
-   "shop": "카카오",
-   "title": "오브휴 딥케어 커브 마사지건",
-   "price": "29,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725856",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809171218_h2b57Mhlhd.jpg",
-   "product_url": "https://store.kakao.com/jycompanykorea/products/768408147"
-  },
-  {
-   "no": 725855,
-   "shop": "카카오",
-   "title": "스파오 맨투맨/후디/가디건/집업/패딩/웜팬츠",
-   "price": "7,210원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725855",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809171008_VKHCDPdq.jpg",
-   "product_url": "https://store.kakao.com/aflowstock/products/554198622"
   }
  ]
 }
