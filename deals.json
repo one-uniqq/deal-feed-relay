@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-09T23:21:33.635804+00:00",
+ "updated_at": "2026-08-09T23:54:44.398818+00:00",
  "deals": [
   {
-   "no": 725899,
-   "shop": "G마켓",
-   "title": "하기스 낮밤팩 2박스 외 모음딜",
-   "price": "93,750원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725899",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202846_XyEAr09m6Z.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4723251670"
+   "no": 725907,
+   "shop": "롯데온",
+   "title": "역시즌 네파 여성 아르테 럭스 윈드스토퍼 구스다운 자켓",
+   "price": "354,570원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725907",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809210200_EFIsELEgvx.jpeg",
+   "product_url": "https://www.lotteon.com/m/product/LE1221504980"
+  },
+  {
+   "no": 725947,
+   "shop": "토스",
+   "title": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 32봉",
+   "price": "4,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725947",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810082540_JOqpQDy1Dg.jpg",
+   "product_url": "https://toss.shopping/t/188394233"
   },
   {
    "no": 725946,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725903",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809205713_8L6f1oAO.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2723419348?entryPoint=bo"
-  },
-  {
-   "no": 725902,
-   "shop": "롯데온",
-   "title": "올뉴 락토핏 골드 6통 + 락토핏 골드 30포+면역비타민C1000 30포",
-   "price": "59,030원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725902",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809205031_1puRXBuXpG.jpg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO2265393000"
   }
  ]
 }
