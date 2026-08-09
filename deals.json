@@ -1,14 +1,104 @@
 {
- "updated_at": "2026-08-09T10:58:42.691644+00:00",
+ "updated_at": "2026-08-09T11:26:07.372638+00:00",
  "deals": [
   {
-   "no": 725777,
-   "shop": "토스쇼핑",
-   "title": "오늘특가 광천김40g 10봉 10,900원/ 가그린제로820ml 4개+100ml 13900원/ 드라이 쿨 반팔티 3,900원,사이즈S~3XL까지",
-   "price": "무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725777",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809070743_F8KLlBzb.jpg",
-   "product_url": "https://toss.shopping/t/2548182029"
+   "no": 725756,
+   "shop": "11번가",
+   "title": "깨끗한 나라 순수 프리미엄 30m 30롤 3팩",
+   "price": "35,760원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725756",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808230803_JufatTNQt0.jpg",
+   "product_url": "http://www.11st.co.kr/products/5021463095/share"
+  },
+  {
+   "no": 725897,
+   "shop": "네이버",
+   "title": "소곱창전골 1kg 2팩+소곱창160g",
+   "price": "15,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725897",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202231_pEjUCMuAyP.jpg",
+   "product_url": "https://smartstore.naver.com/your_homeday/products/12827574357"
+  },
+  {
+   "no": 725896,
+   "shop": "이랜드몰",
+   "title": "아메리칸투어리스터 24인치 캐리어",
+   "price": "79000/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725896",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202053_f4SU6Jgqk0.png",
+   "product_url": "https://www.elandmall.co.kr/i/item?itemNo=2504879108&lowerVendNo=LV19017942"
+  },
+  {
+   "no": 725895,
+   "shop": "톡딜",
+   "title": "채소&과일 식이섬유 츄어블 캔디 2개월분",
+   "price": "21,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725895",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809201836_Z0wogqyGOW.jpg",
+   "product_url": "https://store.kakao.com/meditreestore/products/712050353"
+  },
+  {
+   "no": 725894,
+   "shop": "G마켓",
+   "title": "제철 딱딱이 복숭아 대과 2kg",
+   "price": "13,810원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725894",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809201601_NVIblsdhkG.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4819210946"
+  },
+  {
+   "no": 725892,
+   "shop": "11번가",
+   "title": "매직캔 호환 리필봉투 250 10개입",
+   "price": "11,520원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725892",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809200639_lxDe1MeFZK.png",
+   "product_url": "https://www.11st.co.kr/products/7817117674"
+  },
+  {
+   "no": 725891,
+   "shop": "11번가",
+   "title": "팸퍼스 엔젤에어차차 썸머 팬티 2박스",
+   "price": "122,860원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725891",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809200321_55E6i2loEn.png",
+   "product_url": "https://www.11st.co.kr/products/7678915300"
+  },
+  {
+   "no": 725890,
+   "shop": "네이버",
+   "title": "종합비타민 멀티비타민앤미네랄 영양제 6개월분",
+   "price": "25,850원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725890",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809200252_dv9jrgutui.jpg",
+   "product_url": "https://smartstore.naver.com/vitaplan/products/5160153088"
+  },
+  {
+   "no": 725889,
+   "shop": "SSG",
+   "title": "유케어핏 비타민C 1000 30포",
+   "price": "6,930원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725889",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809195842_Phe94zdzNb.jpg",
+   "product_url": "https://www.ssg.com/item/itemView.ssg?itemId=1000853223202&siteNo=6004&salestrNo=6005"
+  },
+  {
+   "no": 725888,
+   "shop": "인더마켓",
+   "title": "국내산 1++ (9) 한우 살치등심 600g",
+   "price": "59,230원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725888",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809200152_sqjEBo8S.jpg",
+   "product_url": "https://inthemarket.co.kr/?pn=product.view&pcode=O3136-U6976-X6935"
+  },
+  {
+   "no": 725887,
+   "shop": "네이버",
+   "title": "비타도스D 비타민D3 5000IU 30캡슐",
+   "price": "2,630원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725887",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809195316_AzM2spcPJX.jpg",
+   "product_url": "https://shopping.naver.com/logistics/products/12405626516"
   },
   {
    "no": 725886,
@@ -155,15 +245,6 @@
    "product_url": "https://smartstore.naver.com/oulrim/products/13658851449"
   },
   {
-   "no": 725870,
-   "shop": "톡딜",
-   "title": "퓨리얼 퓨온 정수기 PPA-100",
-   "price": "148,428원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725870",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809185135_RSkodFLgzc.jpeg",
-   "product_url": "https://store.kakao.com/picogrampureal/products/175674418"
-  },
-  {
    "no": 725869,
    "shop": "네이버",
    "title": "농할쿠폰 국내산 대추방울토마토2kg(1-3번과)",
@@ -288,87 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725855",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809171008_VKHCDPdq.jpg",
    "product_url": "https://store.kakao.com/aflowstock/products/554198622"
-  },
-  {
-   "no": 725854,
-   "shop": "카카오",
-   "title": "오징어젓갈 500g 1+1",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725854",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809170754_J9QsvTIVo0.jpg",
-   "product_url": "https://store.kakao.com/babdodukfood/products/52422451"
-  },
-  {
-   "no": 725853,
-   "shop": "토스",
-   "title": "머스크 멜론 4kg 2수",
-   "price": "15,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725853",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809170548_JFXox9WDoJ.jpg",
-   "product_url": "https://toss.shopping/t/2502179329"
-  },
-  {
-   "no": 725852,
-   "shop": "네이버",
-   "title": "로얄 밀크티 홍차 진한 밀크티음료",
-   "price": "35,990원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725852",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809170328_sd6ToZYbMa.png",
-   "product_url": "https://smartstore.naver.com/acefood/products/5495373617"
-  },
-  {
-   "no": 725851,
-   "shop": "11번가",
-   "title": "알로에 젤리스틱 60포(리유저블백 증정)",
-   "price": "26,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725851",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809170328_oviAQeoyCY.webp",
-   "product_url": "https://www.11st.co.kr/products/7489415152"
-  },
-  {
-   "no": 725850,
-   "shop": "네이버",
-   "title": "식물성 멜라토닌 2mg 90정, 2개(6개월)+샐러드캔디1개",
-   "price": "24,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725850",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809171413_ELkznLrn5O.png",
-   "product_url": "https://m.smartstore.naver.com/gnnature/products/12864685210"
-  },
-  {
-   "no": 725849,
-   "shop": "지마켓",
-   "title": "흔한남매 이무기4 특별한정판",
-   "price": "30,780원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725849",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809164828_GtFv6nb5KQ.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4820273768"
-  },
-  {
-   "no": 725848,
-   "shop": "토스",
-   "title": "애슐리 볶음밥 올인원 230g 10종세트",
-   "price": "18,990원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725848",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809164621_fKxP2KK8lP.jpg",
-   "product_url": "https://service.toss.im/shopping-discovery/c/31419195"
-  },
-  {
-   "no": 725847,
-   "shop": "지마켓",
-   "title": "피지 모락셀라 액체세제 코튼향 2.1L 용기 + 부스터 코튼향 3p",
-   "price": "14,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725847",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809164147_tSQnc0I9k4.jpg",
-   "product_url": "https://link.gmarket.co.kr/UyCHzwFCGB"
-  },
-  {
-   "no": 725846,
-   "shop": "롯데온",
-   "title": "소곱창 모둠 830g (소스포함)",
-   "price": "13,490원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725846",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809164124_vXaKE2fDtw.jpg",
-   "product_url": "https://www.lotteon.com/product/LO2741005447"
   }
  ]
 }
