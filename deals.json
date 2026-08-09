@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T05:27:35.644439+00:00",
+ "updated_at": "2026-08-09T06:06:04.064419+00:00",
  "deals": [
   {
    "no": 725716,
@@ -9,6 +9,33 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725716",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0808/20260808175655_vzrbNRt0Di.jpeg",
    "product_url": "https://www.lotteon.com/p/product/bundle/LO2737497111"
+  },
+  {
+   "no": 725840,
+   "shop": "옥션",
+   "title": "초코쌀케이크 1박스 18개입",
+   "price": "13,230/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725840",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809150151_1cGGmpepyA.png",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=C323255709"
+  },
+  {
+   "no": 725839,
+   "shop": "공홈",
+   "title": "컨셉원 시어서커 셔츠",
+   "price": "22,200원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725839",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809145355_kEck02AGxE.jpg",
+   "product_url": "https://www.concepts1one.co.kr/shop/detail.php?pno=1968E73CFCB43EDE6C35CF8EF0F7D1D3"
+  },
+  {
+   "no": 725838,
+   "shop": "G마켓",
+   "title": "지프스피릿 여름 기능성 티셔츠 전투용 전 품목 균일가",
+   "price": "9,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725838",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809144439_3ITN5jTIpy.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4805568403"
   },
   {
    "no": 725837,
@@ -324,33 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725802",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809103729_nsLzlpGncg.jpg",
    "product_url": "https://www.halfclub.com/plan/276589"
-  },
-  {
-   "no": 725799,
-   "shop": "지마켓",
-   "title": "GAP인증 제주 청귤 3kg",
-   "price": "9,630원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725799",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809100829_ZYL6dvSZXH.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4821412997"
-  },
-  {
-   "no": 725798,
-   "shop": "G마켓",
-   "title": "에어캡슐 범퍼 휴대폰 젤리케이스 3개",
-   "price": "유클3,320원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725798",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809100714_N6QnBWXHtw.png",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4021698368"
-  },
-  {
-   "no": 725797,
-   "shop": "지마켓",
-   "title": "AHC 마스터즈 에어리치 선스틱 14g 2개",
-   "price": "15,750/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725797",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809100459_64X759EFQF.png",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4810511869"
   }
  ]
 }
