@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T21:28:50.985189+00:00",
+ "updated_at": "2026-08-09T21:57:36.941788+00:00",
  "deals": [
   {
    "no": 725829,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725829",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809133447_fYRHAVjBl6.jpeg",
    "product_url": "https://www.lotteon.com/p/product/LO2739317491"
+  },
+  {
+   "no": 725943,
+   "shop": "모나",
+   "title": "유플러스망 통화 300분, 데이터 4.5GB",
+   "price": "550원/평생",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725943",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810065437_sVjiHizaJL.jpg",
+   "product_url": "https://mobilemona.co.kr/view/plan/rate_detail.aspx?gdcd=LPZ0018469"
   },
   {
    "no": 725942,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725900",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809203520_i5Ne9zKEGg.jpeg",
    "product_url": "https://m.11st.co.kr/products/ma/4331625959"
-  },
-  {
-   "no": 725899,
-   "shop": "G마켓",
-   "title": "하기스 낮밤팩 2박스 외 모음딜",
-   "price": "93,750원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725899",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809202846_XyEAr09m6Z.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4723251670"
   }
  ]
 }
