@@ -1,14 +1,41 @@
 {
- "updated_at": "2026-08-09T13:28:18.407202+00:00",
+ "updated_at": "2026-08-09T14:05:25.458047+00:00",
  "deals": [
   {
-   "no": 725760,
-   "shop": "토스",
-   "title": "후디스 무가당 플레인 그릭요거트 400g 2개",
-   "price": "6,600원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725760",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809000648_HgtNVNGG5r.png",
-   "product_url": "https://toss.shopping/t/1971635053"
+   "no": 725778,
+   "shop": "토스쇼핑",
+   "title": "널담 고단백 베이글 맛혼합 10개",
+   "price": "6800원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725778",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809080333_CF7fJz09.jpg",
+   "product_url": "https://toss.shopping/t/2413913575"
+  },
+  {
+   "no": 725921,
+   "shop": "롯데ON",
+   "title": "K2 남여공용 트리퍼 롱 다운 115,500원 /무료  토스 113,768",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725921",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809230152_vzbWzG3x.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1219964822?sitmNo=LE1219964822_1319753925&mall_no=1&dp_infw_cd=SCH%5E%5Ekmw24583&areaCode=SCH"
+  },
+  {
+   "no": 725920,
+   "shop": "지마켓",
+   "title": "농협 청원생명쌀 10kg 특등급 GAP저탄소인증쌀 알찬미 당일도정",
+   "price": "31,980원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725920",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809224329_JvOEe7LLcy.jpg",
+   "product_url": "https://link.gmarket.co.kr/4iEHzwFCGB"
+  },
+  {
+   "no": 725919,
+   "shop": "네이버",
+   "title": "유산균 낙산균 다이어트 30포 5,890원/무배",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725919",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809224140_wePf0RZABB.jpg",
+   "product_url": "https://naver.me/xbjX4gtB"
   },
   {
    "no": 725918,
@@ -342,33 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725879",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190916_GJwxOGb4ab.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=3749485380"
-  },
-  {
-   "no": 725878,
-   "shop": "11번가",
-   "title": "오므론 HEM-7121J 자동전자혈압계 혈압측정기",
-   "price": "45,700원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725878",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190723_1hnt4lD0Li.png",
-   "product_url": "https://www.11st.co.kr/products/9477678732"
-  },
-  {
-   "no": 725877,
-   "shop": "CJ라이브",
-   "title": "데이즈온 파라다이스그레인 버닝 24박스",
-   "price": "363,690원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725877",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190512_vYp0EbR8rW.jpg",
-   "product_url": "https://display.cjonstyle.com/m/pgmShop/1028?pgmShopTabType=P&bdCd=27913"
-  },
-  {
-   "no": 725876,
-   "shop": "톡딜",
-   "title": "얼라이브 멀티비타민 구미 2개월분",
-   "price": "19,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725876",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0809/20260809190324_e8d6lVIOEJ.jpg",
-   "product_url": "https://store.kakao.com/nlmall/products/10230243"
   }
  ]
 }
