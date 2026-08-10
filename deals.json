@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-10T16:22:20.562762+00:00",
+ "updated_at": "2026-08-10T17:15:07.913486+00:00",
  "deals": [
   {
-   "no": 726008,
-   "shop": "G마켓",
-   "title": "남성 여성 래쉬가드 상하의 세트",
-   "price": "17,090원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726008",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810113236_q5wz2rCoYL.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4684581329"
+   "no": 726174,
+   "shop": "쿠팡",
+   "title": "몰앤몰 날벌레 트랩 초파리 끈끈이",
+   "price": "3,300원/와우무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726174",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810210745_Aq160e7S0Z.jpg",
+   "product_url": "https://www.coupang.com/vp/products/9567525489?itemId=28554679739&vendorItemId=95499389352"
+  },
+  {
+   "no": 726221,
+   "shop": "메가마트",
+   "title": "호주산 냉장 소 찜갈비 100g BC카드추가할인",
+   "price": "2,380원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726221",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811014920_e5HtrfnfX5.jpg",
+   "product_url": "https://www.megamart.com/product/13208578"
   },
   {
    "no": 726220,
@@ -360,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726180",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810212555_b1ycW71esS.jpg",
    "product_url": "https://naver.me/GtYuj389"
-  },
-  {
-   "no": 726179,
-   "shop": "토스쇼핑",
-   "title": "불스원샷 스탠다드, 360ml, 가솔린 or 디젤 3개",
-   "price": "14,630원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726179",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810212616_uxVeqjNe.jpg",
-   "product_url": "https://toss.shopping/t/80095173"
   }
  ]
 }
