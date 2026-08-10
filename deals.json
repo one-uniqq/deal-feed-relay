@@ -1,14 +1,50 @@
 {
- "updated_at": "2026-08-10T15:29:02.087851+00:00",
+ "updated_at": "2026-08-10T16:22:20.562762+00:00",
  "deals": [
   {
-   "no": 725971,
+   "no": 726008,
+   "shop": "G마켓",
+   "title": "남성 여성 래쉬가드 상하의 세트",
+   "price": "17,090원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726008",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810113236_q5wz2rCoYL.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4684581329"
+  },
+  {
+   "no": 726220,
+   "shop": "지마켓",
+   "title": "네파 25FW 공용 시그니처 구스롱패딩 생활방수 다운자켓",
+   "price": "155,460원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726220",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811011327_V6gGLCIuoi.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820305654"
+  },
+  {
+   "no": 726219,
    "shop": "옥션",
-   "title": "반건조 박대 26-28cm 10미 (2개 구매 시 추가 할인)",
-   "price": "13,890원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=725971",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810100810_hXk5Psv5nm.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F540451108&frm3=V2"
+   "title": "국내산 돌산갓김치 1.5kg",
+   "price": "8,320원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726219",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811005242_OaOaLbBmvZ.jpeg",
+   "product_url": "https://mitem.auction.co.kr/vip?itemNo=B225951520"
+  },
+  {
+   "no": 726218,
+   "shop": "네이버",
+   "title": "손상모 멜라노셀 컨디셔너 520ml",
+   "price": "7,500원/네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726218",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811004900_52f4DvuJl1.jpeg",
+   "product_url": "https://smartstore.naver.com/ovacokorea/products/2372639031"
+  },
+  {
+   "no": 726217,
+   "shop": "오늘의집",
+   "title": "나주배 3kg",
+   "price": "10,973원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726217",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811004009_po47QkLxtU.png",
+   "product_url": "https://store.ohou.se/goods/3933915"
   },
   {
    "no": 726216,
@@ -333,42 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726179",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810212616_uxVeqjNe.jpg",
    "product_url": "https://toss.shopping/t/80095173"
-  },
-  {
-   "no": 726178,
-   "shop": "롯데온",
-   "title": "덴티스테 플러스화이트 프로 치약 160g 3개+증정",
-   "price": "28,150원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726178",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810212338_DTiTZQ1Vyy.jpg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO2111018149"
-  },
-  {
-   "no": 726177,
-   "shop": "11번가",
-   "title": "개별포장 수제 두바이 쫀득쿠키40g 4박스(총16개)",
-   "price": "17,770원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726177",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810212008_hQbMinpWdy.jpg",
-   "product_url": "https://www.11st.co.kr/products/9450420060"
-  },
-  {
-   "no": 726176,
-   "shop": "네이버",
-   "title": "농협안심한우 1등급 구이세트 600g",
-   "price": "38,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726176",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810211631_nvgQtHpo0e.jpg",
-   "product_url": "https://smartstore.naver.com/suix/products/13522356871"
-  },
-  {
-   "no": 726175,
-   "shop": "G마켓",
-   "title": "(1+1+1)불스원샷 플래티넘 연료첨가제 5in1 500ML",
-   "price": "27,460원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726175",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810211424_32zew0IlcE.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodsCode=2217962223"
   }
  ]
 }
