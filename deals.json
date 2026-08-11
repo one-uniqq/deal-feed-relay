@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-11T21:33:28.413945+00:00",
+ "updated_at": "2026-08-11T22:29:27.871905+00:00",
  "deals": [
   {
-   "no": 726280,
-   "shop": "11번가",
-   "title": "다낭 빈펄 자유여행/NO쇼핑 패키지 5일",
-   "price": "424,150원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726280",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811111701_dL3oklE1.jpg",
-   "product_url": "https://www.11st.co.kr/products/9535326879"
+   "no": 726485,
+   "shop": "롯데온",
+   "title": "아이더 2PACK 기능성 아이스 반팔 라운드 티셔츠",
+   "price": "24,340원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726485",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812011459_zBENA0nE3M.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222102245"
+  },
+  {
+   "no": 726487,
+   "shop": "하림몰",
+   "title": "치킨너겟2 1kg 4개 총 4kg",
+   "price": "29,960원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726487",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812024431_1BKvgSS1yF.jpg",
+   "product_url": "https://m.harimmall.com/product/detail.html?product_no=259&cate_no=257"
   },
   {
    "no": 726486,
@@ -18,15 +27,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726486",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812020021_OenfFaKSji.jpg",
    "product_url": "https://link.gmarket.co.kr/Q9ZM4nkqHj"
-  },
-  {
-   "no": 726485,
-   "shop": "롯데온",
-   "title": "아이더 2PACK 기능성 아이스 반팔 라운드 티셔츠",
-   "price": "24,340원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726485",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812011459_zBENA0nE3M.jpg",
-   "product_url": "https://www.lotteon.com/m/product/LE1222102245"
   },
   {
    "no": 726484,
@@ -342,15 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726441",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210147_9fklmxeXuF.png",
    "product_url": "https://link.gmarket.co.kr/rMC55VW2t"
-  },
-  {
-   "no": 726440,
-   "shop": "공홈",
-   "title": "어바웃펫 네츄럴코어 강아지 간식 모음",
-   "price": "880원~/조건부무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726440",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210141_9Yoy8BUA0a.jpeg",
-   "product_url": "https://aboutpet.co.kr/eventNew/detail?eventNo=1984"
   }
  ]
 }
