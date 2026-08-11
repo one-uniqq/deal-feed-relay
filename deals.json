@@ -1,14 +1,149 @@
 {
- "updated_at": "2026-08-11T04:45:55.590872+00:00",
+ "updated_at": "2026-08-11T05:45:20.327487+00:00",
  "deals": [
   {
-   "no": 726189,
-   "shop": "G마켓",
-   "title": "WD My Passport 외장하드 5TB",
-   "price": "229,620원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726189",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810220011_us4fj6J4iF.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4512315454"
+   "no": 726075,
+   "shop": "옥션",
+   "title": "미즈노 단목 양말 7족",
+   "price": "10,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726075",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0810/20260810160537_bdQWmsKakz.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=C771645977"
+  },
+  {
+   "no": 726331,
+   "shop": "카카오메이커스",
+   "title": "알파CD 제로슈가 보라워터 500ml x 6병",
+   "price": "10,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726331",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811144257_lTHLkOlJdW.jpeg",
+   "product_url": "https://makers.kakao.com/items/100131121?previous=promotion&f=copy_share_100131121"
+  },
+  {
+   "no": 726330,
+   "shop": "네이버",
+   "title": "필립스 그라인드앤브루 데일리 전자동 원두분쇄 드립커피머신 HD7781/90 + 모모스원두 + 연유",
+   "price": "258,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726330",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811143322_cPlI6gMBnN.jpg",
+   "product_url": "https://m.brand.naver.com/philipsdomesticappliances/products/13649037279"
+  },
+  {
+   "no": 726329,
+   "shop": "11번가",
+   "title": "HP 옴니북3 16-by0045AU 라이젠5 16GB 512GB",
+   "price": "859,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726329",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811142828_fKi3XMSxST.jpg",
+   "product_url": "http://m.11st.co.kr/products/ma/9524362571"
+  },
+  {
+   "no": 726328,
+   "shop": "롯데온",
+   "title": "보로탈코 바디워시 500ml 2개",
+   "price": "17,240원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726328",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811142232_UUAFODDgcc.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2734763503"
+  },
+  {
+   "no": 726327,
+   "shop": "11번가",
+   "title": "브리타 정수기 필터 막스트라 프로 퓨어 퍼포먼스 3입",
+   "price": "티멤18,150원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726327",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811142144_Fct5POJfXG.jpeg",
+   "product_url": "https://www.11st.co.kr/products/3728922923"
+  },
+  {
+   "no": 726326,
+   "shop": "남도장터",
+   "title": "산지직송 활전복 1kg 8~10미",
+   "price": "12,950원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726326",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811141435_8yOCRqn8mo.jpg",
+   "product_url": "https://link.gripcloud.show/rW3RvgEr"
+  },
+  {
+   "no": 726325,
+   "shop": "남도장터",
+   "title": "자포니카 민물장어 3미 16940원, 활전복 8미 14,770원, 활전복 10미 12,950원",
+   "price": "상품별상이/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726325",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811141138_jQbD5ZJrrC.png",
+   "product_url": "https://link.gripcloud.show/rW3RvgEr"
+  },
+  {
+   "no": 726324,
+   "shop": "프리비아",
+   "title": "서울신라호텔 객실+라운지 1박",
+   "price": "51만원대~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726324",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811141152_x7zEZMrBAr.jpg",
+   "product_url": "https://www.priviatravel.com/marketing/priviaonly2"
+  },
+  {
+   "no": 726323,
+   "shop": "sk스토아",
+   "title": "폴로랄프로렌 클래식 무지 면 반팔티셔츠",
+   "price": "14,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726323",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811141212_vFR9uCC18o.jpg",
+   "product_url": "https://m.skstoa.com/display/goods/43176936?deviceInfoSaveYn=1"
+  },
+  {
+   "no": 726322,
+   "shop": "컨셉원",
+   "title": "출근용 쿨 테이퍼드핏 밴딩 슬랙스",
+   "price": "18,200원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726322",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811141132_OMatPN6m8P.jpg",
+   "product_url": "https://www.concepts1one.co.kr/shop/detail.php?pno=EC5DF87779E995A54BDE440633AFB137"
+  },
+  {
+   "no": 726321,
+   "shop": "네이버",
+   "title": "삼성 50인치 비즈니스 TV LH50BEFHLGFXKR 스탠드형",
+   "price": "507,770원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726321",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811140446_MVHSeP3tFt.jpg",
+   "product_url": "https://smartstore.naver.com/samsung_monitor/products/12139453925"
+  },
+  {
+   "no": 726320,
+   "shop": "네이버",
+   "title": "베키아에누보 치아바타 샌드위치 바질모짜6입+바질토마토치즈3입",
+   "price": "19,150원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726320",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811140159_2kqkayIYiE.png",
+   "product_url": "https://m.smartstore.naver.com/ssgfoodb2b/products/13674806579"
+  },
+  {
+   "no": 726319,
+   "shop": "네이버",
+   "title": "국내산 고당도 머스크메론 3.2kg 2수",
+   "price": "13,920원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726319",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811135201_nI9UIReH6e.jpg",
+   "product_url": "https://smartstore.naver.com/koreafarmers/products/13705610902"
+  },
+  {
+   "no": 726318,
+   "shop": "네이버",
+   "title": "[하림X다비너스] 챔 5종 골라담기 (15캔)",
+   "price": "38,350원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726318",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811135016_4VoI0rKO12.jpg",
+   "product_url": "https://brand.naver.com/harim/products/13706293381"
+  },
+  {
+   "no": 726317,
+   "shop": "네이버",
+   "title": "오뗄 규그릴 직화 근본소시지 3종",
+   "price": "9,900원/네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726317",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811134922_Opl61kHFpN.jpg",
+   "product_url": "https://brand.naver.com/autel/products/13643013007"
   },
   {
    "no": 726316,
@@ -45,15 +180,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726313",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811132800_ofXbWS2R04.png",
    "product_url": "https://shopping.naver.com/window-products/beauty/13332169116?NaPm=ct%3Dmso5gw5s%7Cci%3D432647877edcfa3c5c8e0b822ad5d7a30975135b%7Ctr%3Dslsf%7Csn%3D171678%7Chk%3Ddd29076717ab318486f1d6e3976a1a0b9056d34a&nl-au=71fb441c41e548d39d0137e7dfff6924&nl-query=%EB%"
-  },
-  {
-   "no": 726312,
-   "shop": "11번가",
-   "title": "앙블랑 물티슈 80초고평량 네이비 20팩",
-   "price": "T멤버십 18,920원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726312",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811132908_jQZoiCIcK1.jpg",
-   "product_url": "https://www.11st.co.kr/products/7407909161"
   },
   {
    "no": 726311,
@@ -220,7 +346,7 @@
   {
    "no": 726293,
    "shop": "하림몰",
-   "title": "칼집닭가슴살 100g 6팩",
+   "title": "칼집닭가슴살 100g 12팩",
    "price": "페이코 22,168원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726293",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811120321_vSrXSuP53K.jpg",
@@ -243,132 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726291",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811115922_tQklOcbzH2.png",
    "product_url": "https://display.goodwearmall.com/special/239912/view"
-  },
-  {
-   "no": 726290,
-   "shop": "네이버",
-   "title": "코튼클라우드 초극세사 구름펫타올 국내생산",
-   "price": "7,700원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726290",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811115545_hauBUQP1DO.jpg",
-   "product_url": "https://m.brand.naver.com/cottoncloud/products/9428531162"
-  },
-  {
-   "no": 726289,
-   "shop": "11번가",
-   "title": "맘스터치 시그니처 순살치킨 1kg+1kg",
-   "price": "T멤17,600원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726289",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811115329_Zi8yyKgY.jpg",
-   "product_url": "https://www.11st.co.kr/products/5673004825"
-  },
-  {
-   "no": 726288,
-   "shop": "네이버",
-   "title": "(네멤) 하겐다즈 파인트 3개",
-   "price": "22,710원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726288",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811114535_x787uirY3U.jpg",
-   "product_url": "https://naver.me/FsRinm9o"
-  },
-  {
-   "no": 726287,
-   "shop": "G마켓",
-   "title": "QCY C50I 무선 블루투스 이어폰 노이즈캔슬링",
-   "price": "삼성카드 29,810원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726287",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811114029_hNONAhc4fb.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4799288377"
-  },
-  {
-   "no": 726286,
-   "shop": "지마켓",
-   "title": "이토엔 오이오차 녹차 18입+ 쟈스민티 6입",
-   "price": "24,590원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726286",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811113817_qeFOJGxuaG.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4736057347"
-  },
-  {
-   "no": 726284,
-   "shop": "오늘의집",
-   "title": "무빙큐빅스 32인치 구글 스마트TV+삼탠바이미 스탠드",
-   "price": "213,487원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726284",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811113430_8sDNcz0anB.png",
-   "product_url": "https://store.ohou.se/goods/2501968"
-  },
-  {
-   "no": 726283,
-   "shop": "네이버",
-   "title": "1+ 농협 한우 등심 250g",
-   "price": "14,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726283",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811112511_WaQtAww1hP.jpg",
-   "product_url": "https://smartstore.naver.com/baleuljung/products/12133409758"
-  },
-  {
-   "no": 726281,
-   "shop": "지마켓",
-   "title": "카프리썬 오렌지망고 20개+사과 10개 +오렌지 10개 + 사파리 10개 (총 50개)",
-   "price": "21,590원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726281",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811112238_UlfrhfyYeG.jpg",
-   "product_url": "https://link.gmarket.co.kr/oO4O99tdeb"
-  },
-  {
-   "no": 726280,
-   "shop": "11번가",
-   "title": "다낭 빈펄 자유여행/NO쇼핑 패키지 5일",
-   "price": "424,150원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726280",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811111701_dL3oklE1.jpg",
-   "product_url": "https://www.11st.co.kr/products/9535326879"
-  },
-  {
-   "no": 726279,
-   "shop": "롯데온",
-   "title": "[온세일]기장 연화리 가마솥 전복죽 200g x 2팩",
-   "price": "13,650/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726279",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811111042_2H4p8ROH.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2703800696?sitmNo=LO2703800696_2703800697&dp_infw_cd=LO10160885"
-  },
-  {
-   "no": 726278,
-   "shop": "G마켓",
-   "title": "MSI MAG 272F800 X24 Rapid IPS 게이밍 FHD 240 AI Vision 무결점 모니터",
-   "price": "195,590원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726278",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811110956_OsLnTsUwEJ.jpg",
-   "product_url": "https://link.gmarket.co.kr/3DdzWmmgri"
-  },
-  {
-   "no": 726277,
-   "shop": "네이버",
-   "title": "하겐다즈 파인트 3개",
-   "price": "26,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726277",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811110550_12hn6WG9zi.jpg",
-   "product_url": "https://brand.naver.com/haagendazstore/products/5349336362"
-  },
-  {
-   "no": 726276,
-   "shop": "컴퓨존",
-   "title": "7800X3D + RTX 5070 외 라이브 특가 외",
-   "price": "2,479,000원/7,500원",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726276",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811110616_6mUPZiMo.jpg",
-   "product_url": "https://www.compuzone.co.kr/product/product_detail.htm?ProductNo=1371943"
-  },
-  {
-   "no": 726275,
-   "shop": "지마켓",
-   "title": "보양식 해신탕 3~4인분 2.2kg",
-   "price": "26,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726275",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811110337_tsgoiH8YlA.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4822268448"
   }
  ]
 }
