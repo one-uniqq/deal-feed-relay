@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-11T13:49:20.438193+00:00",
+ "updated_at": "2026-08-11T14:49:12.679556+00:00",
  "deals": [
   {
    "no": 726300,
@@ -9,6 +9,51 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726300",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811124956_TnWhs852sS.jpg",
    "product_url": "https://m.gsshop.com/prd/prd.gs?prdid=1097265351&shareType=url_copy"
+  },
+  {
+   "no": 726462,
+   "shop": "카카오",
+   "title": "썸머킹 초록사과 4kg 중과",
+   "price": "9,790원 / 무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726462",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811233045_kGcGRjvBMH.jpg",
+   "product_url": "https://store.kakao.com/richcrop/products/775901179"
+  },
+  {
+   "no": 726461,
+   "shop": "자사몰",
+   "title": "민물장어 손질장어 1kg",
+   "price": "28,000원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726461",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811231932_R6GVMWvVDQ.jpg",
+   "product_url": "https://gold2024.shop.blogpay.co.kr/good/product_view?goodNum=3114476"
+  },
+  {
+   "no": 726460,
+   "shop": "롯데온",
+   "title": "네파키즈 한겨울 윈터스톰 덕다운",
+   "price": "111,650원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726460",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811230842_KaOCBjncs1.jpeg",
+   "product_url": "https://s.lotteon.com/9F6ZbswVUD"
+  },
+  {
+   "no": 726459,
+   "shop": "11번가",
+   "title": "끌레도르바 아이스크림 24개 골라담기 티멤가",
+   "price": "27,080원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726459",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811230141_DgNIniR4Mn.png",
+   "product_url": "http://www.11st.co.kr/products/4287493059/share"
+  },
+  {
+   "no": 726458,
+   "shop": "네이버",
+   "title": "명란 떡갈비 500g 2팩",
+   "price": "12,900원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726458",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811225907_CvCJrS9sw7.jpg",
+   "product_url": "https://brand.naver.com/bbsusan/products/6740299750"
   },
   {
    "no": 726457,
@@ -324,51 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726421",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811194745_IB0O0Kz5CW.jpg",
    "product_url": "https://www.giordano.co.kr/shop/detail.php?pno=F50138E44513E32ED931886C24067BA7&cno233"
-  },
-  {
-   "no": 726420,
-   "shop": "ssg",
-   "title": "구론산 오리지날액 150ml 30입+스파클링 150ml 30입",
-   "price": "29,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726420",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811194234_XseKUfnmOz.jpeg",
-   "product_url": "https://www.ssg.com/item/itemView.ssg?itemId=1000834543447"
-  },
-  {
-   "no": 726419,
-   "shop": "네이버",
-   "title": "앱코 ACH108 유무선 블루투스 사무용 저소음 기계식키보드",
-   "price": "멤버십 85,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726419",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811193224_Lroah98ybv.jpg",
-   "product_url": "https://brand.naver.com/abko/search?q=ACH108"
-  },
-  {
-   "no": 726418,
-   "shop": "네이버",
-   "title": "구워먹는 치즈떡 150g 5봉지",
-   "price": "8,700원/2세트이상무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726418",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811192919_WNKgaETpSA.jpeg",
-   "product_url": "https://smartstore.naver.com/daehanyukkun/products/12747392745"
-  },
-  {
-   "no": 726417,
-   "shop": "롯데온",
-   "title": "머거본 단독 쇠고기육포 20g x 10봉 임박",
-   "price": "12,590원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726417",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811192737_bxU3nXLe.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2744484905"
-  },
-  {
-   "no": 726416,
-   "shop": "지마켓",
-   "title": "오뚜기 진라면 매운맛 120g 20개 + 열라면 120g 20개",
-   "price": "21,740원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726416",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811192451_ZVFsNK6dGb.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3782617204"
   }
  ]
 }
