@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-11T16:44:01.322823+00:00",
+ "updated_at": "2026-08-11T17:46:49.567065+00:00",
  "deals": [
   {
-   "no": 726304,
+   "no": 726332,
    "shop": "롯데온",
-   "title": "나이키 리액트X 리주버네이트 HV5060-001",
-   "price": "45,490원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726304",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811130414_77OG1usI.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1221194175"
+   "title": "자연산 손질 급냉 참돔 700~800g(2마리)",
+   "price": "10,570원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726332",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811144424_h5zlSFlVmv.png",
+   "product_url": "https://s.lotteon.com/_3Mjc_OEq2"
+  },
+  {
+   "no": 726486,
+   "shop": "지마켓",
+   "title": "아이더 기능성 반팔티 3장",
+   "price": "32,060원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726486",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812020021_OenfFaKSji.jpg",
+   "product_url": "https://link.gmarket.co.kr/Q9ZM4nkqHj"
   },
   {
    "no": 726485,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726440",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210141_9Yoy8BUA0a.jpeg",
    "product_url": "https://aboutpet.co.kr/eventNew/detail?eventNo=1984"
-  },
-  {
-   "no": 726439,
-   "shop": "네이버",
-   "title": "부산 초량 기사식당 고추장 제육볶음 1kg",
-   "price": "8,300원/네멤무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726439",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811205909_EJi3geOgkI.jpg",
-   "product_url": "https://brand.naver.com/lohasmart/products/4809073739"
   }
  ]
 }
