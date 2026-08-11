@@ -1,14 +1,176 @@
 {
- "updated_at": "2026-08-11T14:49:12.679556+00:00",
+ "updated_at": "2026-08-11T15:47:12.513854+00:00",
  "deals": [
   {
-   "no": 726300,
-   "shop": "GS샵",
-   "title": "미용티슈 180매 6팩",
-   "price": "4,165원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726300",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811124956_TnWhs852sS.jpg",
-   "product_url": "https://m.gsshop.com/prd/prd.gs?prdid=1097265351&shareType=url_copy"
+   "no": 726426,
+   "shop": "11번가",
+   "title": "삼성 갤럭시 S26 256GB 자급제폰",
+   "price": "1,173,760원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726426",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200433_ESieFEfz87.jpg",
+   "product_url": "https://www.11st.co.kr/products/9054644454"
+  },
+  {
+   "no": 726481,
+   "shop": "이니스프리몰",
+   "title": "화산송이 모공 클렌징폼 150ml 외 다양",
+   "price": "다양/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726481",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812004101_omwGO85x.jpg",
+   "product_url": "https://www.innisfree.com/kr/ko/dp/product/34513"
+  },
+  {
+   "no": 726480,
+   "shop": "옥션",
+   "title": "카누 캡슐커피 돌체구스토 호환 캡슐 6종 48개입 골라담기 +스무스미디엄 16개입 증정",
+   "price": "19,740원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726480",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812003823_80P1pjLk2n.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=D748157899"
+  },
+  {
+   "no": 726479,
+   "shop": "옥션",
+   "title": "후아유 맨투맨/후디/가디건/팬츠/셔츠/재킷",
+   "price": "10,330원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726479",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812002858_4eA0haqRcA.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F621714312"
+  },
+  {
+   "no": 726478,
+   "shop": "네이버",
+   "title": "스팀초벌한 소곱창 200g 소스포함",
+   "price": "4,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726478",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812002640_dw4FrTBnFX.png",
+   "product_url": "https://brand.naver.com/goppacheong/products/3011990630"
+  },
+  {
+   "no": 726477,
+   "shop": "오늘의집",
+   "title": "국산 개별 2구 절전 스위치 슬림 납작플러그 멀티탭",
+   "price": "5,175원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726477",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812002247_ic7CUzk9bU.jpg",
+   "product_url": "https://store.ohou.se/goods/3671272"
+  },
+  {
+   "no": 726475,
+   "shop": "네이버",
+   "title": "(네멤) 로스구이햄 250g 4개",
+   "price": "8,000원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726475",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812002140_ZScNzWXpYC.jpg",
+   "product_url": "https://naver.me/5WObipYB"
+  },
+  {
+   "no": 726474,
+   "shop": "네이버",
+   "title": "목우촌 주부9단 살코기햄 1kg, 2개",
+   "price": "14,060원/네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726474",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001843_wU81OhWFfo.jpg",
+   "product_url": "https://naver.me/FbOAxSd9"
+  },
+  {
+   "no": 726473,
+   "shop": "롯데온",
+   "title": "포카리스웨트 340ml 24입 1박스",
+   "price": "13,540원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726473",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001604_l83miD4nhg.jpeg",
+   "product_url": "https://www.lotteon.com/product/LO2621178497"
+  },
+  {
+   "no": 726472,
+   "shop": "카카오",
+   "title": "수입 냉동 삼겹살 1kg + 1kg (총2kg)",
+   "price": "18,135원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726472",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001520_WkqvBhHF.jpg",
+   "product_url": "https://store.kakao.com/meatfortable/products/704951824"
+  },
+  {
+   "no": 726471,
+   "shop": "오늘의집",
+   "title": "뷰카 클래식 고불소 잇몸케어 치약 프레쉬민트향 110g 8개입+아크네바디워시 1050ml 1개 증정",
+   "price": "18,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726471",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001151_TVqwC4fTEE.jpg",
+   "product_url": "https://store.ohou.se/goods/2708296"
+  },
+  {
+   "no": 726470,
+   "shop": "토스",
+   "title": "이클립스 캔디 과일팩 8입",
+   "price": "13,350원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726470",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001023_UEvtzuiGbf.jpg",
+   "product_url": "https://service.toss.im/shopping/p/479300381"
+  },
+  {
+   "no": 726469,
+   "shop": "11번가",
+   "title": "햇 샤인머스켓 1.5kg (3수)",
+   "price": "12,930원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726469",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001054_1jQqYGbF.jpg",
+   "product_url": "https://www.11st.co.kr/products/9515440455"
+  },
+  {
+   "no": 726468,
+   "shop": "11번가",
+   "title": "초강력 무선 에어건 AERO X10",
+   "price": "26,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726468",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001028_tPVkQNSa.jpg",
+   "product_url": "https://www.11st.co.kr/products/8769573394"
+  },
+  {
+   "no": 726467,
+   "shop": "11번가",
+   "title": "스파오 패쪼후드니트웜팬츠 100종",
+   "price": "9,420원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726467",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812001013_ZIGxSWFL.jpg",
+   "product_url": "https://www.11st.co.kr/products/5989430558"
+  },
+  {
+   "no": 726466,
+   "shop": "하이마트",
+   "title": "사운드본 런오프 EMS 슬리퍼형 발마사지기",
+   "price": "68,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726466",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812000857_9MzvPgOKXt.jpg",
+   "product_url": "https://www.e-himart.co.kr/app/goods/goodsDetail?goodsNo=0066530726&gtmPos"
+  },
+  {
+   "no": 726465,
+   "shop": "지마켓",
+   "title": "그릭데이 시그니처 딸기3 + 유자3 (100g 6개입) 임박",
+   "price": "17,500원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726465",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812000504_hfhiVY9giy.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4639836558"
+  },
+  {
+   "no": 726464,
+   "shop": "지마켓",
+   "title": "포스트 아몬드 후레이크 620g 3개 + 그래놀라 랜덤 310g 증정",
+   "price": "13,720원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726464",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812000406_bveOmRhuDy.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2400105956"
+  },
+  {
+   "no": 726463,
+   "shop": "네이버",
+   "title": "벤큐 MA시리즈 4K UHD 애플 Mac 맥미니 맥북용 모니터",
+   "price": "648,670원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726463",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812000416_zxY6OKFHzK.jpg",
+   "product_url": "https://mkt.shopping.naver.com/link/6a509d4a149eb0351e13ba1c"
   },
   {
    "no": 726462,
@@ -29,24 +191,6 @@
    "product_url": "https://gold2024.shop.blogpay.co.kr/good/product_view?goodNum=3114476"
   },
   {
-   "no": 726460,
-   "shop": "롯데온",
-   "title": "네파키즈 한겨울 윈터스톰 덕다운",
-   "price": "111,650원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726460",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811230842_KaOCBjncs1.jpeg",
-   "product_url": "https://s.lotteon.com/9F6ZbswVUD"
-  },
-  {
-   "no": 726459,
-   "shop": "11번가",
-   "title": "끌레도르바 아이스크림 24개 골라담기 티멤가",
-   "price": "27,080원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726459",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811230141_DgNIniR4Mn.png",
-   "product_url": "http://www.11st.co.kr/products/4287493059/share"
-  },
-  {
    "no": 726458,
    "shop": "네이버",
    "title": "명란 떡갈비 500g 2팩",
@@ -63,24 +207,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726457",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811223647_ZHEGlmqWQr.jpg",
    "product_url": "https://brand.naver.com/3bgogi/products/382378521"
-  },
-  {
-   "no": 726456,
-   "shop": "G마켓",
-   "title": "네파 휘슬라이저 액티브 인비저블 고어택스 트래킹화",
-   "price": "89,650원 / 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726456",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811220234_29oTADKlbO.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4801122717"
-  },
-  {
-   "no": 726455,
-   "shop": "롯데온",
-   "title": "샤인머스켓 첫 출하 2KG (3~5수)",
-   "price": "11,090원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726455",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811220233_SWobSBSWgz.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2728725592"
   },
   {
    "no": 726454,
@@ -117,15 +243,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726450",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811213417_toK0fNESWO.jpg",
    "product_url": "https://m.gmarket.co.kr/vi/product/4795889608"
-  },
-  {
-   "no": 726449,
-   "shop": "GS샵",
-   "title": "데코&소프트 28m 24롤 2팩+마이비데 30매 22,900원, 울트라클린 25m 24롤 2팩+마이비데 30매 19,900원",
-   "price": "다양/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726449",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811212634_GVr9UT6aB3.jpg",
-   "product_url": "https://m.gsshop.com/prd/prd.gs?prdid=1131429001&shareType=url_copy"
   },
   {
    "no": 726448,
@@ -209,15 +326,6 @@
    "product_url": "https://brand.naver.com/lohasmart/products/4809073739"
   },
   {
-   "no": 726438,
-   "shop": "11번가",
-   "title": "아임에코 가벼운생수 2L X 18병",
-   "price": "7,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726438",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210108_E8wgLospVX.jpg",
-   "product_url": "https://www.11st.co.kr/products/9506927963"
-  },
-  {
    "no": 726437,
    "shop": "지마켓",
    "title": "시스테마 치석케어 칫솔 콤팩트 12개",
@@ -252,123 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726434",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811202751_LXCRoYRz0P.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4799474071"
-  },
-  {
-   "no": 726433,
-   "shop": "롯데온",
-   "title": "닥터클로 툭 던져 넣는 초간단 변기세정제 160g x 2팩",
-   "price": "7,840원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726433",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811202930_svOa3Wumga.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2518823751"
-  },
-  {
-   "no": 726432,
-   "shop": "네이버",
-   "title": "한우소머리 암소 반마리 4kg 이상",
-   "price": "49,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726432",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811202824_rYGGjEdlve.jpeg",
-   "product_url": "https://smartstore.naver.com/onmeat/products/11735320588"
-  },
-  {
-   "no": 726431,
-   "shop": "네이버",
-   "title": "경북 이노센스 천도 복숭아 2.8kg",
-   "price": "14,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726431",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811202157_nxPB4AlP5A.jpg",
-   "product_url": "https://smartstore.naver.com/realfarmstore/products/9031485089"
-  },
-  {
-   "no": 726430,
-   "shop": "무신사",
-   "title": "프로틴 밸런스 액티브 에센셜 딥초코+밀크쉐이크 250ml 12입",
-   "price": "13,230원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726430",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811201926_0YatemEuCr.jpg",
-   "product_url": "https://www.musinsa.com/products/6808113"
-  },
-  {
-   "no": 726429,
-   "shop": "네이버",
-   "title": "미국산 양념 LA갈비 1kg",
-   "price": "26,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726429",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200925_aO2dWqDhwK.jpg",
-   "product_url": "https://shopping.naver.com/window-products/kurlynmart/13647671431"
-  },
-  {
-   "no": 726428,
-   "shop": "11번가",
-   "title": "삼성전자 갤럭시 버즈4 프로 ANC 무선 블투 이어폰",
-   "price": "359,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726428",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200843_ObnyjdLIkG.jpg",
-   "product_url": "http://m.11st.co.kr/products/ma/9138265722"
-  },
-  {
-   "no": 726427,
-   "shop": "지마켓",
-   "title": "무항생제 닭곰탕 400g x 총 4팩 (4인분)",
-   "price": "12,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726427",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200638_N5MlpF9t0f.jpeg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4682682618"
-  },
-  {
-   "no": 726426,
-   "shop": "11번가",
-   "title": "삼성 갤럭시 S26 256GB 자급제폰",
-   "price": "1,173,760원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726426",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200433_ESieFEfz87.jpg",
-   "product_url": "https://www.11st.co.kr/products/9054644454"
-  },
-  {
-   "no": 726425,
-   "shop": "자사몰",
-   "title": "미닉스 더 플렌더 MAX 음식물 처리기 외",
-   "price": "454,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726425",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811200412_IXyChKqBwo.jpg",
-   "product_url": "https://minix.life/article/%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98/12/27366/"
-  },
-  {
-   "no": 726424,
-   "shop": "카카오",
-   "title": "스틸시리즈 Arctis Nova 5 무선 게이밍 헤드셋",
-   "price": "116,100원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726424",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811182927_HC9SNfFwye.jpg",
-   "product_url": "https://gift.kakao.com/product/13994788"
-  },
-  {
-   "no": 726423,
-   "shop": "11번가",
-   "title": "베르블랑 아기 섬유유연제 6개+이염방지시트 100매",
-   "price": "T멤버십 36,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726423",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811195314_DYXCwT5d5Y.jpg",
-   "product_url": "https://www.11st.co.kr/products/7794089168"
-  },
-  {
-   "no": 726422,
-   "shop": "롯데온",
-   "title": "마장동 1++ 한우 리본 갈비 400g",
-   "price": "33,190원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726422",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811194906_BkhlsLAngp.jpg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO2723085877"
-  },
-  {
-   "no": 726421,
-   "shop": "지오다노",
-   "title": "헨리넥 반팔티셔츠",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726421",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811194745_IB0O0Kz5CW.jpg",
-   "product_url": "https://www.giordano.co.kr/shop/detail.php?pno=F50138E44513E32ED931886C24067BA7&cno233"
   }
  ]
 }
