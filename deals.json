@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-12T16:15:32.881097+00:00",
+ "updated_at": "2026-08-12T17:24:16.278312+00:00",
  "deals": [
   {
-   "no": 726520,
-   "shop": "지마켓",
-   "title": "좋은느낌 순면프레쉬 팬티라이너 40매 4팩",
-   "price": "8,580원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726520",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812100620_6x0bbWbuKy.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2084732544"
+   "no": 726680,
+   "shop": "G마켓",
+   "title": "에어무드 워셔블 냉감 반팔 셔츠",
+   "price": "14,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726680",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812203047_WTA2gDEL40.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+  },
+  {
+   "no": 726724,
+   "shop": "핀다이렉트",
+   "title": "skt 알뜰요금제 100GB 5mbps 4개월할인",
+   "price": "1,100원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726724",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0813/20260813021547_j49ihOxAjO.jpg",
+   "product_url": "https://www.pindirectshop.com/deal-view/event/a7873308-5921-4a1a-91cb-19e2911bf6bc"
   },
   {
    "no": 726722,
@@ -342,24 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726681",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812203307_smzlKwZuhB.jpeg",
    "product_url": "https://www.lotteon.com/p/product/LO2547349496"
-  },
-  {
-   "no": 726680,
-   "shop": "G마켓",
-   "title": "에어무드 워셔블 냉감 반팔 셔츠",
-   "price": "14,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726680",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812203047_WTA2gDEL40.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
-  },
-  {
-   "no": 726679,
-   "shop": "옥션",
-   "title": "IPX7 워터프루프 듀얼 제모기",
-   "price": "19,000원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726679",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812202257_OiGuDjysoh.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F579129115"
   }
  ]
 }
