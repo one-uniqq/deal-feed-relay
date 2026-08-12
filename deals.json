@@ -1,14 +1,86 @@
 {
- "updated_at": "2026-08-11T23:12:24.606432+00:00",
+ "updated_at": "2026-08-12T00:05:12.634622+00:00",
  "deals": [
   {
-   "no": 726280,
+   "no": 726399,
+   "shop": "G마켓",
+   "title": "AULA 독거미 F108 pro 솜사탕 저소음축",
+   "price": "49,670원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726399",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811183556_lF9j0sLhuz.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4801011320"
+  },
+  {
+   "no": 726496,
+   "shop": "롯데온",
+   "title": "던킨 냉동도넛 1+1+1입 (미니 글레이즈드)",
+   "price": "15,680원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726496",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812085701_NskFiBPeO7.png",
+   "product_url": "https://www.lotteon.com/p/product/LO2745410725"
+  },
+  {
+   "no": 726495,
+   "shop": "네이버",
+   "title": "아이피타임 500만 화소 CCTV 홈캠 C500G",
+   "price": "34,900원/ 네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726495",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812085150_o0gkDyYoqu.jpeg",
+   "product_url": "https://naver.me/5yhAQuEi"
+  },
+  {
+   "no": 726494,
+   "shop": "G마켓",
+   "title": "농심 육개장 사발면 18개 + 김치 사발면 6개 총 24개",
+   "price": "16,280원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726494",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812082913_vxoNqZ9arI.jpg",
+   "product_url": "https://link.gmarket.co.kr/u2gGauEcKB"
+  },
+  {
+   "no": 726493,
+   "shop": "지마켓",
+   "title": "육개장사발면18개 + 김치사발면6개",
+   "price": "16,280원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726493",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812082827_BlZN3tdae6.jpg",
+   "product_url": "https://link.gmarket.co.kr/E1UHzwFCGB"
+  },
+  {
+   "no": 726492,
+   "shop": "토스",
+   "title": "상온발효 그릭 요거트 스타터 플레인, 2g, 10포, 4박스",
+   "price": "13,900/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726492",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812082737_AshVbNEZ.jpg",
+   "product_url": "https://toss.shopping/t/374649901"
+  },
+  {
+   "no": 726491,
+   "shop": "옥션",
+   "title": "청송 햇 부사 사과 5kg 대과 1+1",
+   "price": "21,260원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726491",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812082606_PfwhOEySCq.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=F622591854"
+  },
+  {
+   "no": 726490,
+   "shop": "옥션",
+   "title": "카누 캡슐커피 돌체구스토 호환 6종 48개 + 스무스 미디엄 16T 증정",
+   "price": "19,740원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726490",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812081821_rqxU0OJdYh.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=D748157899"
+  },
+  {
+   "no": 726489,
    "shop": "11번가",
-   "title": "다낭 빈펄 자유여행/NO쇼핑 패키지 5일",
-   "price": "424,150원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726280",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811111701_dL3oklE1.jpg",
-   "product_url": "https://www.11st.co.kr/products/9535326879"
+   "title": "장갑팩토리 니트릴 장갑 200매",
+   "price": "9,890원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726489",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812081647_6dHEOJgV5I.jpg",
+   "product_url": "https://www.11st.co.kr/products/1437960267"
   },
   {
    "no": 726488,
@@ -270,78 +342,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726446",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811211539_1CwptBoaqP.jpg",
    "product_url": "https://store.kakao.com/jtmaru/products/771473475"
-  },
-  {
-   "no": 726444,
-   "shop": "네이버",
-   "title": "드빈치 자연방목 체다치즈 15매x4팩",
-   "price": "18,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726444",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210316_VTu7wbx0YF.jpg",
-   "product_url": "https://m.smartstore.naver.com/namyang/products/13435872167"
-  },
-  {
-   "no": 726443,
-   "shop": "오늘의집",
-   "title": "청송 부사사과 실속형 4kg",
-   "price": "9900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726443",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210214_lrNu44Nu0M.jpg",
-   "product_url": "https://store.ohou.se/goods/3980266"
-  },
-  {
-   "no": 726442,
-   "shop": "네이버",
-   "title": "생메밀소바 세트 냉메밀 비빔국수",
-   "price": "9,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726442",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210211_AhCkPCQlSE.jpg",
-   "product_url": "https://smartstore.naver.com/jibongs/products/13441619535"
-  },
-  {
-   "no": 726441,
-   "shop": "지마켓",
-   "title": "스테비아대추방울토마토500gx4팩",
-   "price": "11,750원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726441",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210147_9fklmxeXuF.png",
-   "product_url": "https://link.gmarket.co.kr/rMC55VW2t"
-  },
-  {
-   "no": 726440,
-   "shop": "공홈",
-   "title": "어바웃펫 네츄럴코어 강아지 간식 모음",
-   "price": "880원~/조건부무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726440",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811210141_9Yoy8BUA0a.jpeg",
-   "product_url": "https://aboutpet.co.kr/eventNew/detail?eventNo=1984"
-  },
-  {
-   "no": 726439,
-   "shop": "네이버",
-   "title": "부산 초량 기사식당 고추장 제육볶음 1kg",
-   "price": "8,300원/네멤무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726439",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811205909_EJi3geOgkI.jpg",
-   "product_url": "https://brand.naver.com/lohasmart/products/4809073739"
-  },
-  {
-   "no": 726437,
-   "shop": "지마켓",
-   "title": "시스테마 치석케어 칫솔 콤팩트 12개",
-   "price": "14,640원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726437",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811205745_1n54rcuRCj.jpeg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4197236054"
-  },
-  {
-   "no": 726436,
-   "shop": "네이버",
-   "title": "고기함량 89.1% 연탄 직화 불고기 간장맛 200g 4개",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726436",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0811/20260811205518_rMxTt0Bouc.jpg",
-   "product_url": "https://smartstore.naver.com/teamcomm/products/13706596260"
   }
  ]
 }
