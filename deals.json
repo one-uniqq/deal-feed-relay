@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-12T17:24:16.278312+00:00",
+ "updated_at": "2026-08-12T18:12:53.304987+00:00",
  "deals": [
   {
-   "no": 726680,
-   "shop": "G마켓",
-   "title": "에어무드 워셔블 냉감 반팔 셔츠",
-   "price": "14,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726680",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812203047_WTA2gDEL40.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+   "no": 726623,
+   "shop": "쿠팡",
+   "title": "아이앤어스 3스텝 캡슐 식기세척기 세제 50개입",
+   "price": "6,860원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726623",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812172602_kaPqLcObc8.jpg",
+   "product_url": "https://www.coupang.com/vp/products/7262479518?itemId=18502075293&vendorItemId=94933055382&sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut"
+  },
+  {
+   "no": 726725,
+   "shop": "네이버",
+   "title": "센소다인 오리지날 플러스 민감성 치약 100g, 6개",
+   "price": "15,900,무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726725",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0813/20260813025850_LnnJsNgBWr.webp",
+   "product_url": "https://brand.naver.com/sensodyne/products/7577202745"
   },
   {
    "no": 726724,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726683",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812204742_khwwW9ANRW.jpg",
    "product_url": "https://smartstore.naver.com/enblancskincare/products/13699990689"
-  },
-  {
-   "no": 726681,
-   "shop": "롯데온",
-   "title": "국내산 백숙용 생닭 1kg",
-   "price": "8,320원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726681",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812203307_smzlKwZuhB.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2547349496"
   }
  ]
 }
