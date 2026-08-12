@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-12T22:07:34.029485+00:00",
+ "updated_at": "2026-08-12T23:07:20.644693+00:00",
  "deals": [
   {
-   "no": 726623,
-   "shop": "쿠팡",
-   "title": "아이앤어스 3스텝 캡슐 식기세척기 세제 50개입",
-   "price": "6,860원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726623",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812172602_kaPqLcObc8.jpg",
-   "product_url": "https://www.coupang.com/vp/products/7262479518?itemId=18502075293&vendorItemId=94933055382&sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut"
+   "no": 726520,
+   "shop": "지마켓",
+   "title": "좋은느낌 순면프레쉬 팬티라이너 40매 4팩",
+   "price": "8,580원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726520",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812100620_6x0bbWbuKy.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2084732544"
+  },
+  {
+   "no": 726726,
+   "shop": "두타온",
+   "title": "JMW 에어팜 BLDC 헤어드라이어 SC1500B",
+   "price": "65,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726726",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812143607_dCWkTwXyf5.png",
+   "product_url": "https://www.dootaon.com/shop/shopdetail.html?branduid=1100261324"
   },
   {
    "no": 726725,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726685",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812205402_COlfhgB83r.jpg",
    "product_url": "https://www.giordano.co.kr/shop/detail.php?pno=51C3FA97C525C0D22FBC4C5AD9870962"
-  },
-  {
-   "no": 726683,
-   "shop": "네이버",
-   "title": "물놀이 60cm 대용량 분수물총 2개",
-   "price": "4,900원/N배송무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=726683",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0812/20260812204742_khwwW9ANRW.jpg",
-   "product_url": "https://smartstore.naver.com/enblancskincare/products/13699990689"
   }
  ]
 }
