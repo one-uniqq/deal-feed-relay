@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-14T22:10:47.731288+00:00",
+ "updated_at": "2026-08-14T22:45:49.982835+00:00",
  "deals": [
   {
-   "no": 727052,
-   "shop": "쿠팡",
-   "title": "투키 PD 60W 고속충전 1m 초고속 충전케이블 5개",
-   "price": "8,190원/와우무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727052",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0814/20260814183031_HzSXE6W1fS.jpg",
-   "product_url": "https://www.coupang.com/vp/products/9523158816"
+   "no": 727053,
+   "shop": "G마켓",
+   "title": "RASTAR 라스타 JEEP 랭글러 RC카 루비콘",
+   "price": "23,700원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727053",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0814/20260814183901_F32qjrZ4ve.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4774890778"
+  },
+  {
+   "no": 727108,
+   "shop": "CJ온스타일",
+   "title": "리르 퓨어 페이셜 폼클렌저 120ml",
+   "price": "3,000원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727108",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815071609_MBOySGCyaq.jpg",
+   "product_url": "https://cjon.style/sAp4dmX9y4"
   },
   {
    "no": 727107,
@@ -332,15 +341,6 @@
    "price": "11,900원/무배",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727059",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0814/20260814190445_wpfOdZc2ic.jpeg",
-   "product_url": null
-  },
-  {
-   "no": 727058,
-   "shop": "지마켓",
-   "title": "농심 새우깡 10봉 + 와사비 새우깡 10봉",
-   "price": "17,880원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727058",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0814/20260814190331_n0zyhKJwz7.jpeg",
    "product_url": null
   }
  ]
