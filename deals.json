@@ -1,14 +1,95 @@
 {
- "updated_at": "2026-08-15T15:09:12.565319+00:00",
+ "updated_at": "2026-08-15T15:41:10.283550+00:00",
  "deals": [
   {
-   "no": 727193,
+   "no": 727113,
+   "shop": "오늘의집",
+   "title": "에어프라이어 오븐형 18L 대용량 에어프라이기",
+   "price": "56,610원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727113",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815092322_eJyAkfabuH.png",
+   "product_url": "https://store.ohou.se/goods/934306"
+  },
+  {
+   "no": 727240,
+   "shop": "지마켓",
+   "title": "알로에 베라 젤리 스틱 겔 전잎 60포",
+   "price": "27,460원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727240",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816003911_3dQvUQrHZD.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2660083167"
+  },
+  {
+   "no": 727239,
+   "shop": "옥션",
+   "title": "카누 캡슐커피 네스프레소 호환 40캡슐 커피 골라담기 +카누 에스프레소잔 증정",
+   "price": "17,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727239",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816003653_qoZebWZsjo.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=C954187451"
+  },
+  {
+   "no": 727238,
+   "shop": "11번가",
+   "title": "스파오 맨투맨/집업/니트/팬츠/자켓/가디건",
+   "price": "9,420원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727238",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816003023_8qo9BPwJ.jpg",
+   "product_url": "https://www.11st.co.kr/products/5989430558"
+  },
+  {
+   "no": 727237,
+   "shop": "토스",
+   "title": "거반도 납작 복숭아 500g",
+   "price": "18,900원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727237",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816002617_E38cUxlOAF.jpg",
+   "product_url": "https://toss.shopping/t/2601764957"
+  },
+  {
+   "no": 727236,
+   "shop": "G마켓",
+   "title": "테이크핏 맥스 9+9 골라담기",
+   "price": "19,550원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727236",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816002635_EM0kVFs2C1.png",
+   "product_url": "https://link.gmarket.co.kr/KUgeAh8TLB"
+  },
+  {
+   "no": 727235,
    "shop": "롯데온",
-   "title": "한양 오징어숏다리 20g 10봉",
-   "price": "16,670원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727193",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175731_sQsI2vMf5E.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2744779851"
+   "title": "덴티스테 브리즈민트 프로 치약 180g 5개+슬림핏 칫솔",
+   "price": "47,520원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727235",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816002551_yPCVsTPJmV.png",
+   "product_url": "https://www.lotteon.com/p/product/bundle/LO2405517772"
+  },
+  {
+   "no": 727234,
+   "shop": "쿠팡",
+   "title": "마레주로 무선 리모컨 스탠드형 써큘레이터 선풍기",
+   "price": "62,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727234",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816001325_njOIdKo9rY.jpg",
+   "product_url": "https://www.coupang.com/vp/products/8646226598"
+  },
+  {
+   "no": 727233,
+   "shop": "옥션",
+   "title": "루테인 2.0 6개월분",
+   "price": "15,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727233",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816001710_5AQY6OHEZR.jpg",
+   "product_url": "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=A623334542"
+  },
+  {
+   "no": 727232,
+   "shop": "롯데온",
+   "title": "펩시콜라 제로슈거 라임 OR 제로카페인 210ml 60캔",
+   "price": "22,870원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727232",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816001220_UHFkR8vjTF.jpeg",
+   "product_url": "https://www.lotteon.com/product/LO2575271096"
   },
   {
    "no": 727231,
@@ -119,15 +200,6 @@
    "product_url": "https://link.gmarket.co.kr/9cKkKx6kfg"
   },
   {
-   "no": 727219,
-   "shop": "11번가",
-   "title": "아임에코 가벼운샘 생수 2L 18병",
-   "price": "7,730원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727219",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815220058_oYxaj7LfiM.jpg",
-   "product_url": "https://www.11st.co.kr/products/9506927963"
-  },
-  {
    "no": 727217,
    "shop": "롯데온",
    "title": "트라이 프리미엄 에어로쿨 런닝 5장 세트",
@@ -189,15 +261,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727210",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815204404_dYOdQtDNL8.jpg",
    "product_url": "https://m.smartstore.naver.com/haveagoodfarm/products/13700506507"
-  },
-  {
-   "no": 727209,
-   "shop": "11번가",
-   "title": "국내산 한돈 삼겹살/목살 구이용 1kg",
-   "price": "18,800원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727209",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815203319_FGPXv3quUw.jpg",
-   "product_url": "https://www.11st.co.kr/products/8803102449"
   },
   {
    "no": 727208,
@@ -297,69 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727195",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815180159_EqFKUaAdVi.jpg",
    "product_url": "https://smartstore.naver.com/kmeatstore/products/8697213435"
-  },
-  {
-   "no": 727194,
-   "shop": "카카오",
-   "title": "모나리자 X 오티스타 미용티슈 250매 12입",
-   "price": "15,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727194",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175833_8dnHKHtkFE.jpeg",
-   "product_url": "https://store.kakao.com/monalisano1/products/740796609?ref=SHARE"
-  },
-  {
-   "no": 727193,
-   "shop": "롯데온",
-   "title": "한양 오징어숏다리 20g 10봉",
-   "price": "16,670원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727193",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175731_sQsI2vMf5E.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2744779851"
-  },
-  {
-   "no": 727190,
-   "shop": "11번가",
-   "title": "호올스 블루베리 27.9g x 20개",
-   "price": "6,790원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727190",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175351_jA1gL3Bv7D.png",
-   "product_url": "https://www.11st.co.kr/products/6848784431"
-  },
-  {
-   "no": 727189,
-   "shop": "카카오",
-   "title": "휴가지에서도 집에서도 함께하면 더 좋은 책 중고책",
-   "price": "3900원~/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727189",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175255_9F9BRCuHJX.jpg",
-   "product_url": "https://store.kakao.com/bookrenaissance/products/124444672"
-  },
-  {
-   "no": 727188,
-   "shop": "카카오",
-   "title": "아임샐러드밀 21포(3주분)+순수두유24팩",
-   "price": "28,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727188",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815173323_51QAbifNL2.jpg",
-   "product_url": "https://store.kakao.com/wholelife/products/688648605"
-  },
-  {
-   "no": 727187,
-   "shop": "톡딜",
-   "title": "무선 공기압 종아리 다리 마사지기",
-   "price": "125,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727187",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815173801_OhKIV67x0p.jpg",
-   "product_url": "https://store.kakao.com/vitagram/products/766863011"
-  },
-  {
-   "no": 727186,
-   "shop": "스위치스",
-   "title": "카카오프렌즈 배뽈록 스마트워치 충전 거치대",
-   "price": "7,500원/3,500원",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727186",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815173436_kFZIteaKgn.jpg",
-   "product_url": "https://switchs.co.kr/product/detail.html?product_no=1015"
   }
  ]
 }
