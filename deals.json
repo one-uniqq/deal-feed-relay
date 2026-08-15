@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T10:10:24.017886+00:00",
+ "updated_at": "2026-08-15T10:44:22.004806+00:00",
  "deals": [
   {
    "no": 727113,
@@ -9,6 +9,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727113",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815092322_eJyAkfabuH.png",
    "product_url": "https://store.ohou.se/goods/934306"
+  },
+  {
+   "no": 727201,
+   "shop": "TOSS",
+   "title": "스파클 생수, 무라벨, 500ml, 80개",
+   "price": "8,700/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727201",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815191840_ooQdk526.jpg",
+   "product_url": "https://toss.shopping/t/56322313?k=8c3ef602-bce4-443f-a0db-76f18bb1e1b8"
+  },
+  {
+   "no": 727200,
+   "shop": "롯데온",
+   "title": "뉴발란스 509 블랙 U509355",
+   "price": "106,540원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727200",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815191257_E7bUGzorBT.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2681448976"
   },
   {
    "no": 727199,
@@ -342,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727150",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815123121_YlZ5gBGn24.jpeg",
    "product_url": "https://smartstore.naver.com/thinkco/products/13703227758"
-  },
-  {
-   "no": 727149,
-   "shop": "네이버",
-   "title": "바디랩 검은콩두유 순수두유 무가당 고단백 1+1박스 (총 40포)",
-   "price": "20,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727149",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815121303_6UR64xmmKX.jpeg",
-   "product_url": "https://brand.naver.com/bodylab/products/5619606812"
-  },
-  {
-   "no": 727148,
-   "shop": "네이버",
-   "title": "국산 미단 전라도 포기김치 10kg",
-   "price": "25,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727148",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815120235_8LgbnJMug5.png",
-   "product_url": "https://smartstore.naver.com/mklocal737/products/13642681146"
   }
  ]
 }
