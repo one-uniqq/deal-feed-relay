@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T09:14:45.665541+00:00",
+ "updated_at": "2026-08-15T10:10:24.017886+00:00",
  "deals": [
   {
    "no": 727113,
@@ -11,13 +11,22 @@
    "product_url": "https://store.ohou.se/goods/934306"
   },
   {
-   "no": 727196,
-   "shop": "카카오",
-   "title": "함박스테이크 1.8kg 외",
-   "price": "15,790원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727196",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815180440_QyWRN4w6U3.jpg",
-   "product_url": "https://store.kakao.com/youngstore/products/66606121"
+   "no": 727199,
+   "shop": "비욘드신세계",
+   "title": "블랙야크키즈 스노우 롱다운",
+   "price": "73,043원/ 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727199",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815185102_rZS4lMjwdn.jpg",
+   "product_url": "https://deptapp.shinsegae.com/tzu7pg"
+  },
+  {
+   "no": 727198,
+   "shop": "옥션",
+   "title": "LENOVO 레노버 바디코어 온열 복부허리 마사지패드",
+   "price": "31,790원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727198",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815183130_gSHk2FkLsL.jpg",
+   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?itemno=F370208223"
   },
   {
    "no": 727195,
@@ -45,15 +54,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727193",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175731_sQsI2vMf5E.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2744779851"
-  },
-  {
-   "no": 727191,
-   "shop": "지마켓",
-   "title": "아이더 초겨울 퍼텍스 프리마로프트 마켓 DWW23193",
-   "price": "61,880원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727191",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815175206_nfxlf9g1h1.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817651996"
   },
   {
    "no": 727190,
@@ -117,15 +117,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727184",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815172050_6yt9fbD2hf.jpg",
    "product_url": "https://store.kakao.com/jycompanykorea/products/476207394"
-  },
-  {
-   "no": 727183,
-   "shop": "카카오",
-   "title": "닭터 닭가슴살 스테이크 24팩",
-   "price": "24,400원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727183",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815171757_TArkdnMDgV.jpg",
-   "product_url": "https://store.kakao.com/dakgogimall/products/403162052"
   },
   {
    "no": 727182,
