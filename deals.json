@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T11:40:36.170038+00:00",
+ "updated_at": "2026-08-15T12:14:05.430615+00:00",
  "deals": [
   {
    "no": 727140,
@@ -9,6 +9,51 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727140",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815093629_yJv7900PsU.png",
    "product_url": "https://www.lotteon.com/product/LE1220795466?mall_no=2"
+  },
+  {
+   "no": 727214,
+   "shop": "무신사",
+   "title": "좋은느낌 입는오버나이트 8매x6팩",
+   "price": "24430원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727214",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815205234_ur9EetefpM.jpg",
+   "product_url": "https://www.musinsa.com/products/7049217"
+  },
+  {
+   "no": 727213,
+   "shop": "GS샵",
+   "title": "아미니 [단하루,3개]수분 콜라겐 선크림 50ml 2개+본품1 증정 체험특가",
+   "price": "9,210원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727213",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815205900_E0AP7zt4.jpg",
+   "product_url": "https://with.gsshop.com/prd/prd.gs?prdid=1030757912&lseq=361532"
+  },
+  {
+   "no": 727212,
+   "shop": "스팀",
+   "title": "왜놈 사냥 1939",
+   "price": "10,680원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727212",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815204850_9Dmbwbnb50.jpg",
+   "product_url": "https://store.steampowered.com/app/4108460/__1939/"
+  },
+  {
+   "no": 727211,
+   "shop": "네이버",
+   "title": "동원 저스트 노 슈가 후르츠 칵테일통조림 822g 6개",
+   "price": "11,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727211",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815204329_B2Oit0tCBU.jpg",
+   "product_url": "https://m.brand.naver.com/dongwon/products/11264351800"
+  },
+  {
+   "no": 727210,
+   "shop": "네이버",
+   "title": "코야프 캠핑 참나무 장작 10키로",
+   "price": "5,290원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727210",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815204404_dYOdQtDNL8.jpg",
+   "product_url": "https://m.smartstore.naver.com/haveagoodfarm/products/13700506507"
   },
   {
    "no": 727209,
@@ -32,7 +77,7 @@
    "no": 727207,
    "shop": "쿠팡",
    "title": "마레주로 무소음 탁상용 미니선풍기 BLDC 서큘레이터",
-   "price": "18,880원/무료",
+   "price": "18,880원/와우무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727207",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815201602_BqNjIUgrVM.jpg",
    "product_url": "https://www.coupang.com/vp/products/8646170138"
@@ -315,51 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727169",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815160902_gRy9XMeU.jpg",
    "product_url": "https://lottemartzetta.com/products/OS8801045526591/details"
-  },
-  {
-   "no": 727167,
-   "shop": "11번가",
-   "title": "칼마아디 6개월분 180정",
-   "price": "11,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727167",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815143619_25h5xNOGoU.jpg",
-   "product_url": "https://www.11st.co.kr/products/3154903356"
-  },
-  {
-   "no": 727165,
-   "shop": "네이버",
-   "title": "피코크 조선호텔 특제육수 포기김치 8kg",
-   "price": "57,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727165",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815145842_DY3hPNgFkH.jpg",
-   "product_url": "https://brand.naver.com/ssgfood/products/5203381052"
-  },
-  {
-   "no": 727163,
-   "shop": "롯데온",
-   "title": "도루코 페이스 스타터킷 모션(면도기,면도날5입)+2입날 증정",
-   "price": "14,890원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727163",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815145138_KH9iBtN58r.jpg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO2152890781"
-  },
-  {
-   "no": 727161,
-   "shop": "오늘의집",
-   "title": "매직캔 호환 반값 리필봉투 250 20개",
-   "price": "17,708원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727161",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815140148_xzN2u5HD9v.jpg",
-   "product_url": "https://store.ohou.se/goods/3386191"
-  },
-  {
-   "no": 727160,
-   "shop": "셀렉스몰",
-   "title": "셀렉스 프로핏 WPI 음료 330ml 36팩",
-   "price": "50,048원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727160",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0815/20260815135709_7kusUa0X6p.jpg",
-   "product_url": "https://www.selexmall.com/kr/product/product.lime?r_prcode=1801367"
   }
  ]
 }
