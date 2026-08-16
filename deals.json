@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-16T15:42:13.045050+00:00",
+ "updated_at": "2026-08-16T16:10:59.922316+00:00",
  "deals": [
   {
-   "no": 727299,
+   "no": 727344,
    "shop": "지마켓",
-   "title": "인블룸 음식물쓰레기통 가정용 3L",
-   "price": "19,740원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727299",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816135759_N6fDG8cib8.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4307284759"
+   "title": "리고 100% 땅콩버터 땅콩잼 대용량 1kg 2종 총 2kg",
+   "price": "21,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727344",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816203130_kjAm5iSLU6.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4803469140"
+  },
+  {
+   "no": 727375,
+   "shop": "SK스토아",
+   "title": "에그온 난각번호1번 무항생제 유정란 60구",
+   "price": "페이코 20,477원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727375",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817010445_lYWXpyILVT.png",
+   "product_url": "https://www.skstoa.com/display/goods/43500260"
+  },
+  {
+   "no": 727374,
+   "shop": "g마켓",
+   "title": "국내산 돌산갓김치 1.5kg",
+   "price": "8,840원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727374",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817005113_bIJl1TF3Z5.jpeg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/1645289356"
   },
   {
    "no": 727373,
@@ -342,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727330",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816180616_Ux0rZwxNhf.jpg",
    "product_url": "https://store.kakao.com/edaymall/products/42836082"
-  },
-  {
-   "no": 727329,
-   "shop": "네이버",
-   "title": "애슐리 홈스토랑 시그니처 부채살 스테이크 1팩",
-   "price": "9,810원/네멤무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727329",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816180207_tHzSbB2jYr.jpeg",
-   "product_url": "https://brand.naver.com/ashley/products/8515247016"
-  },
-  {
-   "no": 727328,
-   "shop": "롯데온",
-   "title": "마인드브릿지 테이퍼드 하프 밴딩 반바지",
-   "price": "9,910원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727328",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816175946_AajLyJfvGQ.jpg",
-   "product_url": "https://www.lotteon.com/p/product/bundle/LO1455265676"
   }
  ]
 }
