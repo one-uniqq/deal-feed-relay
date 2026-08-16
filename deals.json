@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T21:40:26.870321+00:00",
+ "updated_at": "2026-08-16T23:08:34.161306+00:00",
  "deals": [
   {
    "no": 727299,
@@ -9,6 +9,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727299",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816135759_N6fDG8cib8.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4307284759"
+  },
+  {
+   "no": 727381,
+   "shop": "이마트",
+   "title": "애플워치 울트라 2세대",
+   "price": "749,000/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727381",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817072200_2pJ4NKEbIZ.jpeg",
+   "product_url": "https://emart.kr/a/6TlBA6"
+  },
+  {
+   "no": 727380,
+   "shop": "토스",
+   "title": "풀무원샘물 무라벨, 2L, 30개",
+   "price": "13,500/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727380",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817065917_hhUl3TiC.jpg",
+   "product_url": "https://toss.shopping/t/1510453667?k=2073bae6-d272-4f7c-9fd0-51e1df67a282"
   },
   {
    "no": 727379,
@@ -36,15 +54,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727377",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817012809_exBmoaM56U.jpg",
    "product_url": "https://dknutrition.co.kr/product/detail.html?product_no=1057&cate_no=24&display_group=1"
-  },
-  {
-   "no": 727376,
-   "shop": "토스",
-   "title": "풀무원샘물 무라벨, 2L, 30개",
-   "price": "13,500/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727376",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817011208_wyiaVLwPeq.png",
-   "product_url": "https://toss.shopping/t/15104536671"
   },
   {
    "no": 727375,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727334",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816190212_p36QEEUkfP.jpg",
    "product_url": "https://lottemartzetta.com/shop-in-shop/260813tong_sale1?type=componentized"
-  },
-  {
-   "no": 727333,
-   "shop": "롯데온",
-   "title": "어가찬 국내산 햇다시멸치 1.5kg",
-   "price": "8,640원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727333",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816185703_jYZplDqOmm.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2192434278"
   }
  ]
 }
