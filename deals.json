@@ -1,14 +1,95 @@
 {
- "updated_at": "2026-08-16T15:09:53.622030+00:00",
+ "updated_at": "2026-08-16T15:42:13.045050+00:00",
  "deals": [
   {
-   "no": 727287,
+   "no": 727299,
+   "shop": "지마켓",
+   "title": "인블룸 음식물쓰레기통 가정용 3L",
+   "price": "19,740원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727299",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816135759_N6fDG8cib8.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4307284759"
+  },
+  {
+   "no": 727373,
+   "shop": "오늘의집",
+   "title": "도브 바디워시 1L 3개",
+   "price": "15,984원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727373",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817003622_HNsENo0FPO.jpg",
+   "product_url": "https://store.ohou.se/goods/1077234"
+  },
+  {
+   "no": 727372,
    "shop": "롯데온",
-   "title": "레노마 남성 SS 자켓",
-   "price": "46,740원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727287",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816125344_I6gZJzxMOw.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1222172490?mall_no=1"
+   "title": "남성용 쿠션 클로그",
+   "price": "9,810원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727372",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817003019_ZQopORKx.jpg",
+   "product_url": "https://www.lotteon.com/p/product/spd/LO2450517696"
+  },
+  {
+   "no": 727371,
+   "shop": "11번가",
+   "title": "빙그레 투게더 요맘때 파인트 3+2 골라담기",
+   "price": "21,520원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727371",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817000731_asJPbNnAdI.jpeg",
+   "product_url": "http://www.11st.co.kr/products/4288068578/share"
+  },
+  {
+   "no": 727370,
+   "shop": "우체국쇼핑",
+   "title": "국내산 담양 새청무쌀 특등급 10kg",
+   "price": "34,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727370",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817002010_sybjFUY2GS.jpg",
+   "product_url": "https://mall.epost.go.kr/mo/goods/goodsDetailView.do?goodsCd=G2202064&pavlnDivCd=05&goodsDispTypeCd=&goodsDispTypeDtlCd=&ctgryCd=101201000"
+  },
+  {
+   "no": 727369,
+   "shop": "지마켓",
+   "title": "메가커피 기프티콘 20%",
+   "price": "다양/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727369",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817001610_FyLAZJXDv7.jpg",
+   "product_url": "https://rpp.gmarket.co.kr/?exhib=60931"
+  },
+  {
+   "no": 727368,
+   "shop": "옥션",
+   "title": "종합비타민 앤 미네랄 맥스24 12개월분",
+   "price": "27,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727368",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817000901_CmPTWMLfZm.jpg",
+   "product_url": "http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=A621096216"
+  },
+  {
+   "no": 727367,
+   "shop": "G마켓",
+   "title": "도가니탕 500g 10팩",
+   "price": "26,270원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727367",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817001334_ZdFxKxjVzw.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4697309988"
+  },
+  {
+   "no": 727366,
+   "shop": "지오다노주니어",
+   "title": "베이직 긴팔티 3팩",
+   "price": "14,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727366",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817001135_KfVIXrBh.jpg",
+   "product_url": "https://www.giordanojunior.co.kr/shop/detail.php?pno=7707F156468F3ACF6362DC7EA98C45A2&cno1=2569&brand=page_junior"
+  },
+  {
+   "no": 727365,
+   "shop": "오늘의집",
+   "title": "스너글 오리지널 섬유유연제 6.6L",
+   "price": "22,968원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727365",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817000738_hGiDjrJPe5.png",
+   "product_url": "https://store.ohou.se/goods/2597908"
   },
   {
    "no": 727364,
@@ -279,87 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727328",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816175946_AajLyJfvGQ.jpg",
    "product_url": "https://www.lotteon.com/p/product/bundle/LO1455265676"
-  },
-  {
-   "no": 727327,
-   "shop": "롯데온",
-   "title": "꽃보다오징어 오리지날/소프트 230g+230g 국내산",
-   "price": "29,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727327",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816180912_9IYG5zM48B.jpg",
-   "product_url": "https://s.lotteon.com/XcvLYJRIRY"
-  },
-  {
-   "no": 727326,
-   "shop": "네이버",
-   "title": "프레시웰 생수 2L 24병",
-   "price": "9,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727326",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816174822_IStkOGoDbj.png",
-   "product_url": "https://smartstore.naver.com/mulhana/products/11162879968"
-  },
-  {
-   "no": 727325,
-   "shop": "지마켓",
-   "title": "배홍동 8개 + 안성탕면 5개 + 짜파게티 5개",
-   "price": "12,270원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727325",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816174445_OkFK1Q2RyE.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4717868201"
-  },
-  {
-   "no": 727324,
-   "shop": "오늘의집",
-   "title": "오리온 찍먹 나쵸 치폴레마요 84g 14개",
-   "price": "16,065원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727324",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816174655_BrJ3TawlnY.png",
-   "product_url": "https://ozip.me/s7oC97b"
-  },
-  {
-   "no": 727323,
-   "shop": "카카오쇼핑",
-   "title": "질레트 프로글라이드 센서티브 젤 170g 6개",
-   "price": "22,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727323",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816173246_MFvyNuyg1r.png",
-   "product_url": "https://store.kakao.com/pngshop/products/436144539"
-  },
-  {
-   "no": 727322,
-   "shop": "토스쇼핑",
-   "title": "에브리워터 무라벨, 500ml, 40개",
-   "price": "4,400원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727322",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816172459_SGKgAVPs.jpg",
-   "product_url": "https://toss.shopping/i/12833301"
-  },
-  {
-   "no": 727321,
-   "shop": "카카오",
-   "title": "무선 에어롤링 손목 마사지기",
-   "price": "22,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727321",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816172009_EFj8Y1vHNO.jpg",
-   "product_url": "https://store.kakao.com/jycompanykorea/products/550441297"
-  },
-  {
-   "no": 727320,
-   "shop": "카카오톡",
-   "title": "코코에르 룩쿡 글라스 에어프라이어",
-   "price": "32,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727320",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816171338_cdCsxRDfej.jpg",
-   "product_url": "https://store.kakao.com/dealandgo/products/755473377"
-  },
-  {
-   "no": 727319,
-   "shop": "카카오톡",
-   "title": "실크 케라틴 모이스처 샴푸 1L 2개",
-   "price": "11,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727319",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816171026_UtiZhgRUy7.jpg",
-   "product_url": "https://store.kakao.com/aurfe/products/515140450"
   }
  ]
 }
