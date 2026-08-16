@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-16T09:16:02.262114+00:00",
+ "updated_at": "2026-08-16T09:48:05.972617+00:00",
  "deals": [
   {
-   "no": 727287,
-   "shop": "롯데온",
-   "title": "레노마 남성 SS 자켓",
-   "price": "46,740원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727287",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816125344_I6gZJzxMOw.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1222172490?mall_no=1"
+   "no": 727227,
+   "shop": "G마켓",
+   "title": "K2 남성 초경량 KTR 엣지 패딩 자켓",
+   "price": "72,230원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727227",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816000208_K4okEqFxR9.jpg",
+   "product_url": "https://link.gmarket.co.kr/0Taej31Nlj"
+  },
+  {
+   "no": 727332,
+   "shop": "토스",
+   "title": "곰팡이제거제 500ml",
+   "price": "8,164원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727332",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816183308_66aVGtqDtR.jpg",
+   "product_url": "https://toss.shopping/t/10001321"
   },
   {
    "no": 727331,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727290",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816130117_5vSKgEJ2.jpg",
    "product_url": "https://inthemarket.co.kr/?pn=product.view&pcode=P6368-S4446-G0189&src=text&kw=000050"
-  },
-  {
-   "no": 727289,
-   "shop": "네이버",
-   "title": "폴햄키즈 공용 폴키베어 코튼 그래픽 반팔티",
-   "price": "5,040원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727289",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816125941_zOoV74SZBI.png",
-   "product_url": "https://brand.naver.com/polham_kids/products/11605288434"
   }
  ]
 }
