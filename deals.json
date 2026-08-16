@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-16T23:08:34.161306+00:00",
+ "updated_at": "2026-08-16T23:40:12.129323+00:00",
  "deals": [
   {
-   "no": 727299,
+   "no": 727344,
    "shop": "지마켓",
-   "title": "인블룸 음식물쓰레기통 가정용 3L",
-   "price": "19,740원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727299",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816135759_N6fDG8cib8.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4307284759"
+   "title": "리고 100% 땅콩버터 땅콩잼 대용량 1kg 2종 총 2kg",
+   "price": "21,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727344",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816203130_kjAm5iSLU6.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4803469140"
   },
   {
    "no": 727381,
@@ -27,15 +27,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727380",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817065917_hhUl3TiC.jpg",
    "product_url": "https://toss.shopping/t/1510453667?k=2073bae6-d272-4f7c-9fd0-51e1df67a282"
-  },
-  {
-   "no": 727379,
-   "shop": "톡딜",
-   "title": "안동 홍로사과 2kg",
-   "price": "13,790원 / 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727379",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817023654_Xy3hZydOmX.jpg",
-   "product_url": "https://store.kakao.com/youngstore/products/404440369"
   },
   {
    "no": 727378,
@@ -360,6 +351,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727334",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816190212_p36QEEUkfP.jpg",
    "product_url": "https://lottemartzetta.com/shop-in-shop/260813tong_sale1?type=componentized"
+  },
+  {
+   "no": 727333,
+   "shop": "롯데온",
+   "title": "어가찬 국내산 햇다시멸치 1.5kg",
+   "price": "8,640원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727333",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816185703_jYZplDqOmm.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2192434278"
   }
  ]
 }
