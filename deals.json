@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-16T16:10:59.922316+00:00",
+ "updated_at": "2026-08-16T17:09:59.984296+00:00",
  "deals": [
   {
-   "no": 727344,
-   "shop": "지마켓",
-   "title": "리고 100% 땅콩버터 땅콩잼 대용량 1kg 2종 총 2kg",
-   "price": "21,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727344",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816203130_kjAm5iSLU6.jpeg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4803469140"
+   "no": 727287,
+   "shop": "롯데온",
+   "title": "레노마 남성 SS 자켓",
+   "price": "46,740원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727287",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816125344_I6gZJzxMOw.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1222172490?mall_no=1"
+  },
+  {
+   "no": 727377,
+   "shop": "동국제약건강몰",
+   "title": "멀티비타민 이뮨128 14개입 2박스 28개",
+   "price": "31,783원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727377",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817012809_exBmoaM56U.jpg",
+   "product_url": "https://dknutrition.co.kr/product/detail.html?product_no=1057&cate_no=24&display_group=1"
+  },
+  {
+   "no": 727376,
+   "shop": "토스",
+   "title": "풀무원샘물 무라벨, 2L, 30개",
+   "price": "13,500/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727376",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817011208_wyiaVLwPeq.png",
+   "product_url": "https://toss.shopping/t/15104536671"
   },
   {
    "no": 727375,
@@ -342,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727332",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816183308_66aVGtqDtR.jpg",
    "product_url": "https://toss.shopping/t/10001321"
-  },
-  {
-   "no": 727331,
-   "shop": "카카오",
-   "title": "홈스타 세정제 500ml 4개+배수구 세정제 1L",
-   "price": "카페 11,067원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727331",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816180910_wDfg8dj8j3.jpg",
-   "product_url": "https://store.kakao.com/lgcare/products/25627775"
-  },
-  {
-   "no": 727330,
-   "shop": "카카오톡",
-   "title": "베지밀 고단백 검은콩 190ml 48팩",
-   "price": "30,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727330",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816180616_Ux0rZwxNhf.jpg",
-   "product_url": "https://store.kakao.com/edaymall/products/42836082"
   }
  ]
 }
