@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T09:48:05.972617+00:00",
+ "updated_at": "2026-08-16T10:45:12.074534+00:00",
  "deals": [
   {
    "no": 727227,
@@ -9,6 +9,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727227",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816000208_K4okEqFxR9.jpg",
    "product_url": "https://link.gmarket.co.kr/0Taej31Nlj"
+  },
+  {
+   "no": 727334,
+   "shop": "롯데마트제타",
+   "title": "끝돼 캐나다산 돼지 삼겹살 100g당",
+   "price": "1,221원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727334",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816190212_p36QEEUkfP.jpg",
+   "product_url": "https://lottemartzetta.com/shop-in-shop/260813tong_sale1?type=componentized"
+  },
+  {
+   "no": 727333,
+   "shop": "롯데온",
+   "title": "어가찬 국내산 햇다시멸치 1.5kg",
+   "price": "8,640원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727333",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816185703_jYZplDqOmm.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2192434278"
   },
   {
    "no": 727332,
@@ -342,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727292",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816130144_FsPHkA87Th.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4652593673"
-  },
-  {
-   "no": 727291,
-   "shop": "지마켓",
-   "title": "전라도식 배추김치 10kg 국내산",
-   "price": "29,850원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727291",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816130138_6Np8DdGuhk.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4708795644"
-  },
-  {
-   "no": 727290,
-   "shop": "인더마켓",
-   "title": "한우 1++ 갈비 모듬 800g",
-   "price": "48,430원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727290",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816130117_5vSKgEJ2.jpg",
-   "product_url": "https://inthemarket.co.kr/?pn=product.view&pcode=P6368-S4446-G0189&src=text&kw=000050"
   }
  ]
 }
