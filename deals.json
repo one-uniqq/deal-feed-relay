@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-17T16:51:18.078259+00:00",
+ "updated_at": "2026-08-17T19:04:46.136151+00:00",
  "deals": [
   {
-   "no": 727482,
+   "no": 727560,
    "shop": "롯데온",
-   "title": "블랙야크 키즈운동화 프리즘라이트",
-   "price": "32,520원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727482",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817182520_3numIEuZfv.jpg",
-   "product_url": "https://www.lotteon.com/m/product/LE1222089254"
+   "title": "컬럼비아 남성 랜드로머 카고 쇼츠",
+   "price": "21,330원/2장이상무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727560",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818010643_QMxwILi8zj.jpg",
+   "product_url": "https://s.lotteon.com/dzDsJAS-EN"
+  },
+  {
+   "no": 727564,
+   "shop": "네이버",
+   "title": "크리넥스 데코&소프트 와이드 화이트 33M 24롤 2팩",
+   "price": "36,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727564",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818023244_ZDJ8sOWtEj.png",
+   "product_url": "https://brand.naver.com/ykstore/products/4828782629"
+  },
+  {
+   "no": 727563,
+   "shop": "지마켓",
+   "title": "갤럭시 아이폰 2장 슬라이드 카드수납 투명케이스 1+1",
+   "price": "7,400원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727563",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818020259_5HHo8edUyG.png",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4397255663"
   },
   {
    "no": 727562,
@@ -27,15 +45,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727561",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818011606_7QqxmSXElA.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4816246401"
-  },
-  {
-   "no": 727560,
-   "shop": "롯데온",
-   "title": "컬럼비아 남성 랜드로머 카고 쇼츠",
-   "price": "21,330원/2장이상무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727560",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818010643_QMxwILi8zj.jpg",
-   "product_url": "https://s.lotteon.com/dzDsJAS-EN"
   },
   {
    "no": 727559,
@@ -335,15 +344,6 @@
    "product_url": "https://store.kakao.com/energizer/products/191089596"
   },
   {
-   "no": 727523,
-   "shop": "지마켓",
-   "title": "경북 샤인머스켓 2kg 3~4수",
-   "price": "15,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727523",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817215054_eicS0cEvYp.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4826678324"
-  },
-  {
    "no": 727521,
    "shop": "지마켓",
    "title": "더미식 육즙교자만두 350g X 6봉",
@@ -360,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727520",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213229_LKqmS2LAFJ.jpeg",
    "product_url": "https://m.skstoa.com/display/goods/67223423?utm_source=skstoa&utm_medium=share_goods&utm_campaign=kakaotalk&https_deeplink=true&short_id=4rj03c&airbridge_referrer=airbridge=true&client_id=09642957-222"
-  },
-  {
-   "no": 727519,
-   "shop": "네이버",
-   "title": "TC-7 프로페셔널 케라틴 단백질 샴푸 500ml",
-   "price": "6,990원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727519",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213017_wz5FtRn5vV.jpeg",
-   "product_url": "https://smartstore.naver.com/thinkco/products/5705239607"
   }
  ]
 }
