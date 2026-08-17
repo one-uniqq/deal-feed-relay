@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-17T16:13:15.844669+00:00",
+ "updated_at": "2026-08-17T16:51:18.078259+00:00",
  "deals": [
   {
-   "no": 727479,
+   "no": 727482,
    "shop": "롯데온",
-   "title": "컬럼비아 여성 엘리스 리버 롱 바람막이 자켓",
-   "price": "50,370원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727479",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817180323_EELO9Za2TQ.jpg",
-   "product_url": "https://s.lotteon.com/QoIyeH155q"
+   "title": "블랙야크 키즈운동화 프리즘라이트",
+   "price": "32,520원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727482",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817182520_3numIEuZfv.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222089254"
+  },
+  {
+   "no": 727562,
+   "shop": "네이버",
+   "title": "네이버멤버십_ 프링글스, 더미식 메밀면, 더미식 즉석밥, 삼양라면, 오레오 외",
+   "price": "다양/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727562",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818014422_BV940SzQht.jpg",
+   "product_url": "https://naver.me/FJI3A4rQ"
+  },
+  {
+   "no": 727561,
+   "shop": "지마켓",
+   "title": "지이크 F/W 이태리 까를로바르베라 블루 수트",
+   "price": "179,280원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727561",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818011606_7QqxmSXElA.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4816246401"
   },
   {
    "no": 727560,
@@ -351,24 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727519",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213017_wz5FtRn5vV.jpeg",
    "product_url": "https://smartstore.naver.com/thinkco/products/5705239607"
-  },
-  {
-   "no": 727518,
-   "shop": "G마켓",
-   "title": "냉감 밴딩베개커버 2개",
-   "price": "7,290원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727518",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817205350_SwSgtOmEtk.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4826937178"
-  },
-  {
-   "no": 727517,
-   "shop": "토스",
-   "title": "더함 싱글 모니터암",
-   "price": "28,170원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727517",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817211823_9XqM1IEHhO.jpg",
-   "product_url": "https://service.toss.im/shopping-discovery/c/444109015"
   }
  ]
 }
