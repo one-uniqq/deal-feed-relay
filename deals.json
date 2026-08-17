@@ -1,14 +1,77 @@
 {
- "updated_at": "2026-08-17T06:34:05.263141+00:00",
+ "updated_at": "2026-08-17T07:42:01.204265+00:00",
  "deals": [
   {
-   "no": 727355,
+   "no": 727362,
+   "shop": "토스",
+   "title": "탐나유 국내산 방울토마토 2kg 6,900원/무배",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727362",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817000557_9GsNbNAG.jpg",
+   "product_url": "https://toss.shopping/t/2534841173"
+  },
+  {
+   "no": 727462,
+   "shop": "SK스토아",
+   "title": "햇사과 5kg 중대과 (10-24과)",
+   "price": "페이코 22,350원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727462",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817163536_PclOV1rz8m.jpg",
+   "product_url": "https://m.skstoa.com/display/goods/53517046"
+  },
+  {
+   "no": 727461,
+   "shop": "G마켓",
+   "title": "순땅콩버터 100% 크리미 300g 2개 + 선착 1개 증정 (11,900원)",
+   "price": "무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727461",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817161152_lXYX8EVMNo.png",
+   "product_url": "https://item.gmarket.co.kr/Item?goodsCode=4130555860"
+  },
+  {
+   "no": 727460,
+   "shop": "G마켓",
+   "title": "롯데 베스트 아이스크림 스틱 바 30개 세트 (옥동자/스크류바/보석바 등)",
+   "price": "13,990/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727460",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817160925_khsBzO1K2j.webp",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4766889362"
+  },
+  {
+   "no": 727459,
+   "shop": "네이버",
+   "title": "신안 산지직송 활새우 1kg 36미 내외",
+   "price": "22,320원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727459",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817155158_q1AMEm1PLn.jpg",
+   "product_url": "https://brand.naver.com/bbsusan/products/6999226700"
+  },
+  {
+   "no": 727457,
    "shop": "지마켓",
-   "title": "좋은느낌 오리지널 패드 18매x3팩",
-   "price": "9530원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727355",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0816/20260816214838_dSdWn9vAnL.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=3106457150"
+   "title": "흑마늘 무뼈족발 300g 4팩",
+   "price": "16,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727457",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817154728_nn8riv1szK.jpeg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/2091070064"
+  },
+  {
+   "no": 727456,
+   "shop": "G마켓",
+   "title": "강씨네 양념 LA갈비 1kg",
+   "price": "29,330원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727456",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817153825_e3shRYXaYt.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4777315870"
+  },
+  {
+   "no": 727455,
+   "shop": "11번가",
+   "title": "리뉴 후레쉬 렌즈세척액 500ml 3개",
+   "price": "14,430원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727455",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817153428_8punrJR44k.jpg",
+   "product_url": "https://www.11st.co.kr/products/2173403786"
   },
   {
    "no": 727454,
@@ -306,60 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727420",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817111738_WiiJvI3s00.jpg",
    "product_url": "https://smartstore.naver.com/smfood8639/products/5591566331"
-  },
-  {
-   "no": 727419,
-   "shop": "카카오",
-   "title": "올갱이해장국(다슬기국) 600g 4팩 외",
-   "price": "17,600원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727419",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817111438_c6VIvhw2cU.jpg",
-   "product_url": "https://store.kakao.com/eat2heaven/products/663197582"
-  },
-  {
-   "no": 727418,
-   "shop": "네이버",
-   "title": "푸마 페이크삭스 3켤레",
-   "price": "5,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727418",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817111204_XEjKfZBwcz.png",
-   "product_url": "https://smartstore.naver.com/soft3777/products/7533754891"
-  },
-  {
-   "no": 727415,
-   "shop": "오늘의집",
-   "title": "LG휘센 듀얼인버터 자동건조 제습기 20L",
-   "price": "377,108원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727415",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817110238_3T0FY7RuTM.jpeg",
-   "product_url": "https://store.ohou.se/goods/3380183"
-  },
-  {
-   "no": 727414,
-   "shop": "11번가",
-   "title": "푸마 의류 및 신발 80% 행사",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727414",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817110101_bgcenSqxrY.jpg",
-   "product_url": "https://www.11st.co.kr/products/5100354532"
-  },
-  {
-   "no": 727413,
-   "shop": "지마켓",
-   "title": "바쏘 엑스트라 버진 올리브유 1L 2개+사은품 증정",
-   "price": "28,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727413",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817100421_lmALUKGsbl.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4583934805"
-  },
-  {
-   "no": 727412,
-   "shop": "네이버",
-   "title": "국산 새청무쌀 상등급 10kg",
-   "price": "28,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727412",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817104947_EmAhSUeArU.jpeg",
-   "product_url": "https://smartstore.naver.com/swgrains/products/12569064525"
   }
  ]
 }
