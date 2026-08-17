@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-17T22:11:34.884756+00:00",
+ "updated_at": "2026-08-17T22:46:11.736227+00:00",
  "deals": [
   {
-   "no": 727473,
+   "no": 727489,
    "shop": "옥션",
-   "title": "아이더 스테롤 S 겨울 남녀공용 윈드스타퍼 롱 구스다운 자켓 DUW25507",
-   "price": "171,750원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727473",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817173203_Jxpjq3XANM.jpg",
-   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F629789691"
+   "title": "Minecraft 마인크래프트 감성 TNT 크리퍼무드등 26종",
+   "price": "11,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727489",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817190052_P7CLXRuMZu.jpg",
+   "product_url": "https://mitem.auction.co.kr/vip?itemNo=F347455513"
+  },
+  {
+   "no": 727566,
+   "shop": "G마켓",
+   "title": "펩시제로 355ml, 210ml, 레쓰비 마일드 175ml 60캔",
+   "price": "다양/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727566",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818073554_bXol9wKagN.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/2183617402"
+  },
+  {
+   "no": 727565,
+   "shop": "토스",
+   "title": "예진원 국내산 ABC주스, 80ml, 100포, 1개",
+   "price": "18,130/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727565",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818072635_28Hj1NKSbY.png",
+   "product_url": "https://toss.shopping/t/1584571431"
   },
   {
    "no": 727564,
@@ -351,24 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727524",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817211237_FzWeO5EeNw.jpg",
    "product_url": "https://store.kakao.com/energizer/products/191089596"
-  },
-  {
-   "no": 727521,
-   "shop": "지마켓",
-   "title": "더미식 육즙교자만두 350g X 6봉",
-   "price": "17,020원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727521",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213410_qhKzzu0nUu.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/3227778110"
-  },
-  {
-   "no": 727520,
-   "shop": "sk스토아",
-   "title": "난각번호 2번 동물복지 유정란 40구",
-   "price": "15,920원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727520",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213229_LKqmS2LAFJ.jpeg",
-   "product_url": "https://m.skstoa.com/display/goods/67223423?utm_source=skstoa&utm_medium=share_goods&utm_campaign=kakaotalk&https_deeplink=true&short_id=4rj03c&airbridge_referrer=airbridge=true&client_id=09642957-222"
   }
  ]
 }
