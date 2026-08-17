@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-17T14:22:11.837762+00:00",
+ "updated_at": "2026-08-17T14:50:41.510589+00:00",
  "deals": [
   {
-   "no": 727437,
-   "shop": "지마켓",
-   "title": "풀무원 워터루틴 생수 2리터 x24개",
-   "price": "8720/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727437",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817132234_Z7LGuw4cJ5.jpg",
-   "product_url": "https://link.gmarket.co.kr/rPOaooPBy"
+   "no": 727429,
+   "shop": "롯데",
+   "title": "밀레 남성  루트업 구스헤비다운 (144,050원/무배) 외 2개 역시즌",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727429",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817124905_ESTtRrbY.jpg",
+   "product_url": "https://s.lotteon.com/yhIKNPeHPk?ch_dtl_no=1044428"
+  },
+  {
+   "no": 727535,
+   "shop": "G마켓",
+   "title": "에어핏 면스판 히든밴딩 슬랙스",
+   "price": "19,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727535",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817234734_pvXFMGVT7j.jpg",
+   "product_url": "https://link.gmarket.co.kr/SEHHauEcKB"
+  },
+  {
+   "no": 727534,
+   "shop": "컨셉원",
+   "title": "세미와이드핏 나일론 밴딩 이지 팬츠",
+   "price": "25,000원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727534",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817233321_yV5XWwu9ti.png",
+   "product_url": "https://www.concepts1one.co.kr/shop/detail.php?pno=07020A9491AE4A41E9189FB185196A42"
   },
   {
    "no": 727532,
@@ -18,15 +36,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727532",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817230258_1x4TG2oSeF.jpg",
    "product_url": "https://brand.naver.com/pulmuonehealth/products/13341286295"
-  },
-  {
-   "no": 727531,
-   "shop": "11번가",
-   "title": "냉장 한돈 삼겹 구이용 1kg",
-   "price": "17,630원 / 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727531",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817230019_YsT2HJ9n9K.jpg",
-   "product_url": "http://m.11st.co.kr/products/ma/8803102449"
   },
   {
    "no": 727530,
@@ -281,6 +290,15 @@
    "product_url": "https://smartstore.naver.com/daehofc/products/13686701146"
   },
   {
+   "no": 727501,
+   "shop": "쿠팡",
+   "title": "Claiks 높이조절 1600 전동책상 모션데스크",
+   "price": "144,990원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727501",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817192734_pnX3CAoQyi.jpg",
+   "product_url": "https://www.coupang.com/vp/products/8423575385"
+  },
+  {
    "no": 727500,
    "shop": "G마켓",
    "title": "풀무원 워터루틴 생수 2리터x24개",
@@ -351,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727493",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817190351_hXJkkOXc7i.png",
    "product_url": "https://www.hmall.com/md/pda/itemPtc?ReferCode=429&slitmCd=2248658715"
-  },
-  {
-   "no": 727492,
-   "shop": "롯데온",
-   "title": "국내산 순살 춘천닭갈비 500g 4팩",
-   "price": "16,510원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727492",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817190256_pSt5qZp9Ds.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2746181002"
   }
  ]
 }
