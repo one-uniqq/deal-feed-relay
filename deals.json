@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-17T23:11:17.453274+00:00",
+ "updated_at": "2026-08-17T23:42:51.480187+00:00",
  "deals": [
   {
-   "no": 727526,
-   "shop": "토스",
-   "title": "팬톤 블투투스 6.0 무선 이어폰 베이지색상",
-   "price": "5,480원 / 무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727526",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817221429_vgVKkkcD.jpg",
-   "product_url": "https://toss.shopping/t/818096509"
+   "no": 727482,
+   "shop": "롯데온",
+   "title": "블랙야크 키즈운동화 프리즘라이트",
+   "price": "32,520원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727482",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817182520_3numIEuZfv.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222089254"
+  },
+  {
+   "no": 727568,
+   "shop": "오늘의집",
+   "title": "신안 활 생새우 500g 18미 내외",
+   "price": "15,901원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727568",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818082815_KMDis8FLjJ.jpg",
+   "product_url": "https://store.ohou.se/goods/4187167"
+  },
+  {
+   "no": 727567,
+   "shop": "11번가",
+   "title": "함흥식 칡물냉면 10인분",
+   "price": "9,280원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727567",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818082550_nz4DMpWA7a.jpeg",
+   "product_url": "https://m.11st.co.kr/products/ma/9389326122"
   },
   {
    "no": 727566,
@@ -18,15 +36,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727566",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818073554_bXol9wKagN.jpg",
    "product_url": "https://m.gmarket.co.kr/vi/product/2183617402"
-  },
-  {
-   "no": 727565,
-   "shop": "토스",
-   "title": "예진원 국내산 ABC주스, 80ml, 100포, 1개",
-   "price": "18,130/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727565",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818072635_28Hj1NKSbY.png",
-   "product_url": "https://toss.shopping/t/1584571431"
   },
   {
    "no": 727564,
@@ -360,15 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727525",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817213504_hupI8RVlVY.jpg",
    "product_url": "https://brand.naver.com/akofficial/products/13680169926"
-  },
-  {
-   "no": 727524,
-   "shop": "카카오",
-   "title": "에너자이저 에버레디 알카라인 건전지 AA,AAA 20알+GS상품권 증정",
-   "price": "7,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727524",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817211237_FzWeO5EeNw.jpg",
-   "product_url": "https://store.kakao.com/energizer/products/191089596"
   }
  ]
 }
