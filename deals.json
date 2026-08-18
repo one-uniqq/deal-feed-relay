@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-18T17:16:09.715786+00:00",
+ "updated_at": "2026-08-18T19:45:55.084900+00:00",
  "deals": [
   {
-   "no": 727583,
-   "shop": "오늘의집",
-   "title": "에디파이어 Comfo Bass 오픈 이어 블루투스 오픈형이어폰",
-   "price": "44,100원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727583",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818100838_W3mDhzeUDI.jpg",
-   "product_url": "https://store.ohou.se/goods/4172474"
+   "no": 727665,
+   "shop": "토스",
+   "title": "할리스 시그니처 아메리카노 550ml 24병",
+   "price": "24,990원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727665",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818160241_rYUJ165cgy.jpg",
+   "product_url": "https://service.toss.im/shopping-discovery/p/32874893"
+  },
+  {
+   "no": 727779,
+   "shop": "카카오",
+   "title": "거반도 납작 복숭아 500g",
+   "price": "11,790원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727779",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819043222_jBx5tuFQnG.jpg",
+   "product_url": "https://store.kakao.com/hayafarm/products/768904292"
   },
   {
    "no": 727778,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727738",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818201510_c3sgdnRFi9.jpg",
    "product_url": "https://www.11st.co.kr/products/9436060287"
-  },
-  {
-   "no": 727737,
-   "shop": "동원몰",
-   "title": "동원 살코기참치,고추참치등 85G 18캔 외",
-   "price": "19,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727737",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818201449_cpqNsgkMgr.png",
-   "product_url": "https://www.dongwonmall.com/display/plan.do?seq=00000106343"
   }
  ]
 }
