@@ -1,14 +1,41 @@
 {
- "updated_at": "2026-08-18T09:20:33.571070+00:00",
+ "updated_at": "2026-08-18T09:54:53.912502+00:00",
  "deals": [
   {
-   "no": 727482,
+   "no": 727559,
+   "shop": "지마켓",
+   "title": "롯데칠성 인기음료 모음전",
+   "price": "16,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727559",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818010443_6QmPhW2XUl.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2945646109"
+  },
+  {
+   "no": 727704,
+   "shop": "쿠팡",
+   "title": "픽세로 10in1 멀티허브 도킹스테이션 PHPW-10P",
+   "price": "22,800원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727704",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818184132_IAsNMR5JEI.jpg",
+   "product_url": "https://www.coupang.com/vp/products/9579715958"
+  },
+  {
+   "no": 727703,
+   "shop": "오늘의집",
+   "title": "LG 디오스 AI 오브제컬렉션 냉장고 870L 1등급 T876MEE01",
+   "price": "189만원대/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727703",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818183802_BV0jyU8PgT.png",
+   "product_url": "https://store.ohou.se/goods/4156811"
+  },
+  {
+   "no": 727702,
    "shop": "롯데온",
-   "title": "블랙야크 키즈운동화 프리즘라이트",
-   "price": "32,520원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727482",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0817/20260817182520_3numIEuZfv.jpg",
-   "product_url": "https://www.lotteon.com/m/product/LE1222089254"
+   "title": "조선호텔 피코크 특제육수 김치 8kg",
+   "price": "55,570원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727702",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818182416_xXmIVv22KD.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2745448667"
   },
   {
    "no": 727701,
@@ -341,33 +368,6 @@
    "price": "16,500원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727664",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818160234_3RkxZHeMAQ.jpg",
-   "product_url": null
-  },
-  {
-   "no": 727663,
-   "shop": "지마켓",
-   "title": "펩시제로슈거라임 190ml 30캔+펩시제로슈거라임 355ml 24캔 펩시제로라임/콜라",
-   "price": "23,200원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727663",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818160000_7Oqb5JmyA0.jpg",
-   "product_url": null
-  },
-  {
-   "no": 727662,
-   "shop": "네이버",
-   "title": "삼성 오디세이 G9 LS49DG930 124.3cm(49인치)",
-   "price": "1,386,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727662",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818155308_HT5ysrLaHr.jpg",
-   "product_url": null
-  },
-  {
-   "no": 727661,
-   "shop": "그리팅몰",
-   "title": "끌올 경기미 추청쌀 특등급 10kg 외(29,050원/무료) 체감가 26,988원",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727661",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818153438_6E9Zfich.jpg",
    "product_url": null
   }
  ]
