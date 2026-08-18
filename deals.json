@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T19:45:55.084900+00:00",
+ "updated_at": "2026-08-18T20:09:59.092425+00:00",
  "deals": [
   {
    "no": 727665,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727665",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818160241_rYUJ165cgy.jpg",
    "product_url": "https://service.toss.im/shopping-discovery/p/32874893"
+  },
+  {
+   "no": 727780,
+   "shop": "지마켓",
+   "title": "25년산 진품경기미 특등급쌀 10kg 추청",
+   "price": "29,930/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727780",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819045221_ZD6tdZrDAj.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4803663861"
   },
   {
    "no": 727779,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727739",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818202131_K2I6IL3duJ.jpg",
    "product_url": "https://smartstore.naver.com/fuzzybrush/products/10098434684"
-  },
-  {
-   "no": 727738,
-   "shop": "11번가",
-   "title": "맨잇슈트 린넨 여름재킷",
-   "price": "25,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727738",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818201510_c3sgdnRFi9.jpg",
-   "product_url": "https://www.11st.co.kr/products/9436060287"
   }
  ]
 }
