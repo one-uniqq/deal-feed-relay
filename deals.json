@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-18T14:02:02.046228+00:00",
+ "updated_at": "2026-08-18T14:58:13.635855+00:00",
  "deals": [
   {
-   "no": 727583,
-   "shop": "오늘의집",
-   "title": "에디파이어 Comfo Bass 오픈 이어 블루투스 오픈형이어폰",
-   "price": "44,100원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727583",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818100838_W3mDhzeUDI.jpg",
-   "product_url": "https://store.ohou.se/goods/4172474"
+   "no": 727559,
+   "shop": "지마켓",
+   "title": "롯데칠성 인기음료 모음전",
+   "price": "16,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727559",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818010443_6QmPhW2XUl.jpeg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2945646109"
   },
   {
    "no": 727756,
@@ -308,15 +308,6 @@
    "product_url": "https://www.coupang.com/vp/products/9398302608?itemId=27914391988&vendorItemId=94873022752"
   },
   {
-   "no": 727722,
-   "shop": "지마켓",
-   "title": "국내산 고춧가루 1kg",
-   "price": "14,680원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727722",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818194452_43hE5o19PE.png",
-   "product_url": "https://m.gmarket.co.kr/vi/product/4536239945"
-  },
-  {
    "no": 727721,
    "shop": "지마켓",
    "title": "마운틴듀 제로 210mlx30입+마운틴듀 제로 355mlx24입",
@@ -351,6 +342,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727716",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818191813_VzuFXe53Ou.jpg",
    "product_url": "https://www.lotteon.com/product/LO2638134391"
+  },
+  {
+   "no": 727715,
+   "shop": "두타온",
+   "title": "끌올 텐가 멘즈 루페, 버큠 컵, 하드 겔 등 다수",
+   "price": "6,950원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727715",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0818/20260818191418_FvuPPrrNlN.png",
+   "product_url": "https://www.dootaon.com/shop/plan.html?plan_id=160&viewtype=gallery"
   }
  ]
 }
