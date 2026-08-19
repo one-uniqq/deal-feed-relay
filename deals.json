@@ -1,14 +1,59 @@
 {
- "updated_at": "2026-08-19T11:14:14.045219+00:00",
+ "updated_at": "2026-08-19T11:46:18.864967+00:00",
  "deals": [
   {
-   "no": 727947,
+   "no": 727917,
+   "shop": "롯데온",
+   "title": "크리넥스 3겹 천연펄프 울트라클린 롤화장지 25m-24롤 2팩+마이비데30매 증정",
+   "price": "22,380원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727917",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819170340_ZuMEWq5kVP.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2673645814"
+  },
+  {
+   "no": 727989,
+   "shop": "토스",
+   "title": "나박김치 2kg",
+   "price": "10,950원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727989",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819204047_D4auvyx4XV.jpg",
+   "product_url": "https://toss.shopping/t/10770865"
+  },
+  {
+   "no": 727988,
    "shop": "G마켓",
-   "title": "샤오미 스마트 금고 30cm 업그레이드 버전",
-   "price": "131,770원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727947",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819181438_l1tvrmVBKE.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4579583790"
+   "title": "제이엠솔루션 청광 마린 진주 모이스처 마스크 펄 24ml 10매입 x 3개 총 30매",
+   "price": "12,820원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727988",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819203056_uee1c3j7JR.png",
+   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.minishop.0.0.4ac962adEHdNko&goodsCode=4707201120"
+  },
+  {
+   "no": 727987,
+   "shop": "롯데온",
+   "title": "팜모닝 실속형 경북 샤인머스켓 2kg (4~5수)",
+   "price": "14,390원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727987",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819202214_duV3zldRZY.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2750215618"
+  },
+  {
+   "no": 727985,
+   "shop": "지마켓",
+   "title": "지압슬리퍼",
+   "price": "6,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727985",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819202058_z4N0D1mr3Z.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4827031136"
+  },
+  {
+   "no": 727984,
+   "shop": "롯데온",
+   "title": "2026년산 햇 고춧가루1kg",
+   "price": "23,740원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727984",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819201755_gsk1Z8g1K3.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2592368328"
   },
   {
    "no": 727983,
@@ -315,60 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727949",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819182258_T8Xl40mpXf.jpg",
    "product_url": null
-  },
-  {
-   "no": 727948,
-   "shop": "지마켓",
-   "title": "푸마 스포츠 스타일 운동 러닝 의류 반팔 반바지 균일 모음 31종",
-   "price": "23,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727948",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819182834_T62RsF6sTE.jpg",
-   "product_url": null
-  },
-  {
-   "no": 727947,
-   "shop": "G마켓",
-   "title": "샤오미 스마트 금고 30cm 업그레이드 버전",
-   "price": "131,770원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727947",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819181438_l1tvrmVBKE.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4579583790"
-  },
-  {
-   "no": 727946,
-   "shop": "네이버",
-   "title": "자두계의 샤인머스캣 켈시자두 청자두 첼시자두",
-   "price": "15,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727946",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819181635_2iQ788s7rs.jpg",
-   "product_url": "https://smartstore.naver.com/golf-go/products/13725387437"
-  },
-  {
-   "no": 727945,
-   "shop": "지마켓",
-   "title": "도루코 페이스7 면도날세트 10입+면도기 증정",
-   "price": "20,630원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727945",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819173139_44rYraBKut.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4042853638"
-  },
-  {
-   "no": 727944,
-   "shop": "농협몰",
-   "title": "원팩 낙곱새 1+1팩 (880g+880g)",
-   "price": "19,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727944",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819181346_pCrLQtitwA.jpeg",
-   "product_url": "http://m.nonghyupmall.com/MCC1030R/viewDetail.nh?wrsC=8039504153"
-  },
-  {
-   "no": 727943,
-   "shop": "무신사",
-   "title": "데일리,쿠션 양말 5족 세트",
-   "price": "10,710원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727943",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819180716_C7RA6xoV.jpg",
-   "product_url": "https://www.musinsa.com/products/3672602"
   }
  ]
 }
