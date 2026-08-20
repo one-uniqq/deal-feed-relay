@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-20T21:16:24.179524+00:00",
+ "updated_at": "2026-08-20T22:14:23.990086+00:00",
  "deals": [
   {
-   "no": 728213,
-   "shop": "11번가",
-   "title": "(농할) 국내산 냉장 앞다리살 1kg",
-   "price": "10,950원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728213",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820173012_6sUzDkQINZ.jpg",
-   "product_url": "https://www.11st.co.kr/products/9434574133"
+   "no": 728283,
+   "shop": "옥션",
+   "title": "블랙야크 구스다운 롱패딩 윈터디퍼롱다운자켓",
+   "price": "110,820/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728283",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820213412_j83K1eep3y.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=F602351650"
+  },
+  {
+   "no": 728314,
+   "shop": "CJ더마켓",
+   "title": "햇반 210g 36개 + 24개 총 60개 페이코",
+   "price": "45,946원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728314",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821062737_hlb4eM1oY8.jpg",
+   "product_url": "https://m.cjthemarket.com/the/product/product-main?prdCd=40213293"
   },
   {
    "no": 728313,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728275",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820205557_aFiLIUKL4a.jpg",
    "product_url": "https://store.kakao.com/myeonggashop/products/764787706"
-  },
-  {
-   "no": 728273,
-   "shop": "G마켓",
-   "title": "산지직송 고당도 샤인머스켓 2kg 3~4수",
-   "price": "12,920원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728273",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820205440_7T8ezVBqED.jpg",
-   "product_url": "https://link.gmarket.co.kr/x0iHauEcKB"
   }
  ]
 }
