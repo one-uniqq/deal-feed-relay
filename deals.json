@@ -1,14 +1,131 @@
 {
- "updated_at": "2026-08-20T05:32:21.308786+00:00",
+ "updated_at": "2026-08-20T06:23:15.127646+00:00",
  "deals": [
   {
-   "no": 728001,
-   "shop": "G마켓",
-   "title": "골드키위 3.2kg (21,530원/무료) 삼카 추가할인",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728001",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819213633_NNRwBbS52H.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/3728302865"
+   "no": 727917,
+   "shop": "롯데온",
+   "title": "크리넥스 3겹 천연펄프 울트라클린 롤화장지 25m-24롤 2팩+마이비데30매 증정",
+   "price": "22,380원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=727917",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0819/20260819170340_ZuMEWq5kVP.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2673645814"
+  },
+  {
+   "no": 728175,
+   "shop": "옥션",
+   "title": "메가커피 아이스 20%할인",
+   "price": "1,600/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728175",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820151633_kAo1QVukHL.jpg",
+   "product_url": "https://mobile.auction.co.kr/ego.aspx?t=vp&p=F632977645"
+  },
+  {
+   "no": 728174,
+   "shop": "네이버",
+   "title": "통계란 계란빵 130g 20개 임박",
+   "price": "6,900원/네멤무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728174",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820151517_bvhPIbIHyN.jpg",
+   "product_url": "https://brand.naver.com/mssfood/products/11253102664"
+  },
+  {
+   "no": 728173,
+   "shop": "무신사",
+   "title": "이스트팩 와이오밍 백팩 블랙",
+   "price": "97,560원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728173",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820151524_pDTk4D73.jpg",
+   "product_url": "https://www.musinsa.com/products/6649839"
+  },
+  {
+   "no": 728172,
+   "shop": "네이버",
+   "title": "태안 제철 숫꽃게 1kg 3~5미",
+   "price": "9,170원/ 네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728172",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150908_pOzzckpjTC.jpg",
+   "product_url": "https://smartstore.naver.com/gdbs/products/12423119104"
+  },
+  {
+   "no": 728171,
+   "shop": "지마켓",
+   "title": "대추방울토마토 큰 로얄과(1-2번) 2kg",
+   "price": "7,980원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728171",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150429_tULzOfduZs.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4774272099"
+  },
+  {
+   "no": 728170,
+   "shop": "딜릭",
+   "title": "COX CACOXZA100 ANC 노이즈 캔슬링 유 무선 블루투스 헤드셋",
+   "price": "37,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728170",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150130_up0d32ER31.jpg",
+   "product_url": "https://dillik.com/products/136435744"
+  },
+  {
+   "no": 728169,
+   "shop": "옥션",
+   "title": "터치 프리미엄 미국산 탄산 워싱소다 5kg+스푼1개",
+   "price": "6,680원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728169",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150122_H1NJGoNQlh.png",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F463326764"
+  },
+  {
+   "no": 728168,
+   "shop": "카카오",
+   "title": "필라델피아 크림치즈 미니 41g 총 16개",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728168",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150011_QWAV5IGZBo.jpg",
+   "product_url": "https://store.kakao.com/dongsuhmall/products/264855504"
+  },
+  {
+   "no": 728167,
+   "shop": "네이버",
+   "title": "레인 OK 메탈 실리콘 와이퍼 운전석+조수석",
+   "price": "카드21,510원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728167",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820150001_whUVXsYgGd.jpeg",
+   "product_url": "https://brand.naver.com/bullsone/products/5191034606"
+  },
+  {
+   "no": 728166,
+   "shop": "하이마트몰",
+   "title": "LG 25년형 휘센 제습기 20L DQ205PSVA",
+   "price": "374,100원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728166",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820145017_e3OyhUtLVy.jpg",
+   "product_url": "https://www.e-himart.co.kr/app/goods/goodsDetail?goodsNo=0044837016"
+  },
+  {
+   "no": 728165,
+   "shop": "종근당건강",
+   "title": "아임비타 멀티비타민 이뮨샷 50병+4병",
+   "price": "71,770원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728165",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820143745_lorE2ayAeI.jpg",
+   "product_url": "https://ckdhcmall.co.kr/prdExhibitView.do?idx=531"
+  },
+  {
+   "no": 728164,
+   "shop": "토스",
+   "title": "날씬이 탄수화물컷 60정, 4박스",
+   "price": "17650원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728164",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820143533_mmwVvVZA.jpg",
+   "product_url": "https://service.toss.im/shopping-discovery/c/142086949"
+  },
+  {
+   "no": 728162,
+   "shop": "지마켓",
+   "title": "더싱싱 파손보상 유정란 60구 난각번호 1번",
+   "price": "삼성 22,180원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728162",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820143335_U0aLMhvRHU.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/4076216869"
   },
   {
    "no": 728161,
@@ -252,123 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728131",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820121517_WMqYKkePZO.jpg",
    "product_url": "https://s.lotteon.com/3dPgIQoixy"
-  },
-  {
-   "no": 728130,
-   "shop": "롯데온",
-   "title": "정통 광양식/언양식 한돈불고기 750g",
-   "price": "11,330원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728130",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820121603_WNlA36JjDL.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LO2746845726"
-  },
-  {
-   "no": 728129,
-   "shop": "네이버",
-   "title": "1++ 거세 한우 불고기 250g",
-   "price": "6,900원/조건부무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728129",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820121307_p1LL9lokA9.jpg",
-   "product_url": "https://smartstore.naver.com/baleuljung/products/12133409758"
-  },
-  {
-   "no": 728128,
-   "shop": "11번가",
-   "title": "도브 뷰티너리싱 바디워시 1L 2개",
-   "price": "11,900원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728128",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820121020_z3sXmgYe.jpg",
-   "product_url": "https://www.11st.co.kr/products/9000566970"
-  },
-  {
-   "no": 728127,
-   "shop": "g마켓",
-   "title": "국내산 얼갈이 겉절이 3kg",
-   "price": "14,270원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728127",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820120937_RUFSzt3fdm.jpeg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/3481197707"
-  },
-  {
-   "no": 728126,
-   "shop": "G마켓",
-   "title": "국내산 갑오징어 1kg 2~4미",
-   "price": "16,680원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728126",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820120656_gmEVXVNaE9.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4747513247"
-  },
-  {
-   "no": 728125,
-   "shop": "네이버",
-   "title": "걸어쓰는 3겹 훅 키친타올 250매 4개입",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728125",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820115922_ySlAqdl4ha.jpg",
-   "product_url": "https://brand.naver.com/allchallenge/products/13685545876"
-  },
-  {
-   "no": 728124,
-   "shop": "지마켓",
-   "title": "갈치 대 500g+500g",
-   "price": "16,630원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728124",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820115902_uuqk7qJMMr.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4833060807"
-  },
-  {
-   "no": 728122,
-   "shop": "G마켓",
-   "title": ") 본가명인 국내산 배추김치 포기김치 10kg",
-   "price": "35,650원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728122",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820115540_NwKjuqBHsW.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.besthome.bestitem.ditem16.6e784fc7WverPY&goodscode=4432543461"
-  },
-  {
-   "no": 728121,
-   "shop": "G마켓",
-   "title": "펩시콜라 355ml x 24캔",
-   "price": "20,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728121",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820115349_UpwuWyZltj.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?spm=gmktpc.stardeliverybest.0.0.42373d38xL8i0E&goodscode=2233373624"
-  },
-  {
-   "no": 728120,
-   "shop": "G마켓",
-   "title": "아카페라 심플리 아메리카노 20병 2세트",
-   "price": "37,400원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728120",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820114853_i49dbpZoK4.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=2379279050"
-  },
-  {
-   "no": 728118,
-   "shop": "GS샵",
-   "title": "레고 스피드챔피언 77256 백 투 더 퓨처 타임머신",
-   "price": "37,300원/5만원이상무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728118",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820114433_U2E4C3ncPv.jpg",
-   "product_url": "https://www.gsshop.com/deal/deal.gs?dealNo=1106365682&lseq=421980"
-  },
-  {
-   "no": 728117,
-   "shop": "G마켓",
-   "title": "기가바이트 27인치 GS27QA QHD 게이밍모니터",
-   "price": "195,600/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728117",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820113441_PcE50n2Bnr.png",
-   "product_url": "https://link.gmarket.co.kr/de440Ikq3"
-  },
-  {
-   "no": 728116,
-   "shop": "오늘의집",
-   "title": "데일리 부사사과 4kg 가정용 / 정품 실중량",
-   "price": "9,948원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728116",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0820/20260820113546_6EPW4c7s07.jpg",
-   "product_url": "https://store.ohou.se/goods/3998474"
   }
  ]
 }
