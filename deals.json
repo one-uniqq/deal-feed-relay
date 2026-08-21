@@ -1,23 +1,32 @@
 {
- "updated_at": "2026-08-21T16:18:26.644232+00:00",
+ "updated_at": "2026-08-21T16:57:35.551281+00:00",
  "deals": [
   {
-   "no": 728428,
-   "shop": "G마켓",
-   "title": "엄마애바다 쫄깃한 몸통오징어 220g",
-   "price": "9,760원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728428",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821165256_nRaDFpbO7S.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4569893321"
+   "no": 728312,
+   "shop": "오늘의집",
+   "title": "무표 물티슈 82평량 *20팩",
+   "price": "카카오페이15,948원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728312",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821015958_WmFaSq1Kd2.jpg",
+   "product_url": "https://ozip.me/GmsUH8b"
   },
   {
-   "no": 728530,
-   "shop": "롯데온",
-   "title": "지이크 F/W 이태리 까노니코 수트 2종 택1 PJ2324",
-   "price": "128,480원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728530",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822005843_qw41pFHapn.jpg",
-   "product_url": "https://naver.me/xWItSlQa"
+   "no": 728532,
+   "shop": "네이버",
+   "title": "개옷",
+   "price": "1,000원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728532",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822015240_rzsqYIGSuD.jpg",
+   "product_url": "https://smartstore.naver.com/dognystore/products/8046939822"
+  },
+  {
+   "no": 728531,
+   "shop": "CJ더마켓",
+   "title": "끌올 햇반 210g 36개 + 사골곰탕 18개",
+   "price": "40,340원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728531",
+   "thumb_url": "",
+   "product_url": "https://m.cjthemarket.com/the/product/product-main?prdCd=40213293"
   },
   {
    "no": 728529,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728487",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821195628_PwZW8ZvL33.jpg",
    "product_url": "https://smartstore.naver.com/letogms/products/5336871971"
-  },
-  {
-   "no": 728486,
-   "shop": "롯데온",
-   "title": "마츠야마 자유여행 2박3일/3박4일",
-   "price": "220,580원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728486",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192508_j5L4fV4vg0.jpg",
-   "product_url": "https://www.lotteon.com/product/LO2751768649"
   }
  ]
 }
