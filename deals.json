@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-21T21:12:19.156160+00:00",
+ "updated_at": "2026-08-21T23:12:38.390066+00:00",
  "deals": [
   {
-   "no": 728423,
+   "no": 728500,
+   "shop": "롯데온",
+   "title": "한영석 도한 청명주 13.8도375ml x2",
+   "price": "34,570원,무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728500",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821210010_vuIGsGLKWK.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2752426642"
+  },
+  {
+   "no": 728535,
    "shop": "토스",
-   "title": "대용량 LCD 100단 휴대용 선풍기 3000",
-   "price": "6990/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728423",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821161652_fgdy457s.jpg",
-   "product_url": "https://toss.shopping/t/2582620441"
+   "title": "단하루특가 광천김 곱창김 도시락김5gX27",
+   "price": "10,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728535",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822073753_3ox4IV95.jpg",
+   "product_url": "https://toss.shopping/t/54630459"
   },
   {
    "no": 728534,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728489",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821200004_yEsC8n2a5y.jpg",
    "product_url": "https://dillik.com/products/133441224"
-  },
-  {
-   "no": 728488,
-   "shop": "롯데온",
-   "title": "불스원 발수 와이퍼 + 유막제거티슈",
-   "price": "13,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728488",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821195853_P2MNOnZO2w.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2613539353"
   }
  ]
 }
