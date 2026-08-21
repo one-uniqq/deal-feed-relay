@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-21T14:03:38.768146+00:00",
+ "updated_at": "2026-08-21T14:59:34.100862+00:00",
  "deals": [
   {
-   "no": 728433,
+   "no": 728428,
    "shop": "G마켓",
-   "title": "네파 브레보 쿠셔닝 워킹화",
-   "price": "48,360원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728433",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821165018_d5nFFxeTuz.jpg",
-   "product_url": "https://link.gmarket.co.kr/wQ58GEtxfi"
+   "title": "엄마애바다 쫄깃한 몸통오징어 220g",
+   "price": "9,760원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728428",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821165256_nRaDFpbO7S.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4569893321"
+  },
+  {
+   "no": 728511,
+   "shop": "오늘의집",
+   "title": "제주 고당도 하우스감귤 4.5kg 꼬마소과",
+   "price": "27,459원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728511",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821233507_uehVa6o1QD.jpg",
+   "product_url": "https://ozip.me/vZznJGD"
+  },
+  {
+   "no": 728510,
+   "shop": "쿠팡",
+   "title": "소백산 홍도라지청",
+   "price": "21,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728510",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821233044_RTvdrI8q8y.jpeg",
+   "product_url": "https://link.coupang.com/a/goOdm8mI1c?abTestInfo=100412_group_A"
   },
   {
    "no": 728509,
@@ -99,15 +117,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728500",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821210010_vuIGsGLKWK.jpeg",
    "product_url": "https://www.lotteon.com/p/product/LO2752426642"
-  },
-  {
-   "no": 728498,
-   "shop": "롯데온",
-   "title": "네파 프리미아 벨티드 구스다운자켓",
-   "price": "137,080원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728498",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821210315_NzANNDU3zv.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LE1222196576"
   },
   {
    "no": 728497,
@@ -351,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728470",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821175734_G1YbaT4uOG.jpeg",
    "product_url": "https://decetstore.com/product/project.html?cate_no=736"
-  },
-  {
-   "no": 728469,
-   "shop": "토스",
-   "title": "팬톤 25W 듀얼포트 고속충전 어댑터",
-   "price": "4,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728469",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821180110_dyez285h.jpg",
-   "product_url": "https://service.toss.im/shopping/c/2073223469"
   }
  ]
 }
