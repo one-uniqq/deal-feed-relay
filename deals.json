@@ -1,14 +1,41 @@
 {
- "updated_at": "2026-08-21T10:22:10.637775+00:00",
+ "updated_at": "2026-08-21T10:54:28.032490+00:00",
  "deals": [
   {
-   "no": 728363,
-   "shop": "GS샵",
-   "title": "화이트미용티슈 180매 6팩 (7,900/무료) 쿠폰적용시 3,900원",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728363",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821111415_9PjGng1G.jpg",
-   "product_url": "https://m.gsshop.com/prd/prd.gs?prdid=1097265351&mseq=402535-71753_3-284077&shop_planid=284077"
+   "no": 728423,
+   "shop": "토스",
+   "title": "대용량 LCD 100단 휴대용 선풍기 3000",
+   "price": "6990/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728423",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821161652_fgdy457s.jpg",
+   "product_url": "https://toss.shopping/t/2582620441"
+  },
+  {
+   "no": 728486,
+   "shop": "롯데온",
+   "title": "마츠야마 자유여행 2박3일/3박4일",
+   "price": "220,580원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728486",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192508_j5L4fV4vg0.jpg",
+   "product_url": "https://www.lotteon.com/product/LO2751768649"
+  },
+  {
+   "no": 728485,
+   "shop": "롯데온",
+   "title": "JMW 고성능 1700W 터보 항공모터 드라이기",
+   "price": "49,250원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728485",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192244_aIp8ecu7JS.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2688927784"
+  },
+  {
+   "no": 728484,
+   "shop": "지마켓",
+   "title": "푸마 공용 플라이어 라이트/리플랫 라이트 트래일/Club II 에라 스웨이드/카이져 6종택1",
+   "price": "31,460원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728484",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192251_kzWQi3ezm5.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4735069408"
   },
   {
    "no": 728483,
@@ -341,33 +368,6 @@
    "price": "11,900원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728447",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821172651_4pDD365Pk0.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728446,
-   "shop": "네이버",
-   "title": "프레시웰 생수 2L x 24개",
-   "price": "9,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728446",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821172429_248o3YWz4L.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728445,
-   "shop": "롯데온",
-   "title": "와룡 초벌막창 400g 3팩 + 소스",
-   "price": "27,920원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728445",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821172306_EFi3aro93a.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728444,
-   "shop": "쿠팡",
-   "title": "수압상승 고압 필터 샤워기 헤드",
-   "price": "5,800원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728444",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821164812_CWU1edrBme.jpg",
    "product_url": null
   }
  ]
