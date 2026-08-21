@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-21T20:12:17.162225+00:00",
+ "updated_at": "2026-08-21T20:45:17.536946+00:00",
  "deals": [
   {
-   "no": 728316,
-   "shop": "지마켓",
-   "title": "김가네 본사배송 감자탕5kg(9-10인분)",
-   "price": "삼카15,270원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728316",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821083045_Tt8yurmbDB.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/2214017847?spm=gmktm.home.best_bestitem1.dtab0_item3.5b87486aZhdNlx&utparam-url=%7B%22pvid_sys%22%3A%22gmarket%20server%22%2C%22x_object_type%22%3A%22item%22%2C%22ad"
+   "no": 728450,
+   "shop": "옥션",
+   "title": "방수바람막이 블랙야크키즈 ABC경량바람막이",
+   "price": "35,290원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728450",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821172601_Dv4mrxqDuP.jpg",
+   "product_url": "https://itempage3.auction.co.kr/detailview.aspx?itemno=F629988503&BCODE="
   },
   {
    "no": 728534,
@@ -18,15 +18,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728534",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822035154_mQyeCZYG4V.jpg",
    "product_url": "https://m.cjthemarket.com/the/product/product-main?prdCd=40213293"
-  },
-  {
-   "no": 728533,
-   "shop": "핀다이렉트",
-   "title": "100gb 5mbps 4개월 통문무(1100/0)",
-   "price": "",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728533",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822025520_7sodCuR3oK.jpg",
-   "product_url": "https://www.pindirectshop.com/deal-view/event/a7873308-5921-4a1a-91cb-19e2911bf6bc"
   },
   {
    "no": 728532,
@@ -360,6 +351,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728489",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821200004_yEsC8n2a5y.jpg",
    "product_url": "https://dillik.com/products/133441224"
+  },
+  {
+   "no": 728488,
+   "shop": "롯데온",
+   "title": "불스원 발수 와이퍼 + 유막제거티슈",
+   "price": "13,500원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728488",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821195853_P2MNOnZO2w.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2613539353"
   }
  ]
 }
