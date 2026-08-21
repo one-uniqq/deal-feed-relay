@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-21T19:03:39.308045+00:00",
+ "updated_at": "2026-08-21T19:44:00.162212+00:00",
  "deals": [
   {
-   "no": 728513,
-   "shop": "G마켓",
-   "title": "에어무드 냉감 반팔 여름셔츠",
-   "price": "13,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+   "no": 728455,
+   "shop": "롯데온",
+   "title": "(농할30%) 국내산 냉장 목살 1kg",
+   "price": "16,570원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728455",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821173450_1Ckf1ASG.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2751851168"
+  },
+  {
+   "no": 728534,
+   "shop": "CJ더마켓",
+   "title": "끌올 햇반 210g 36개 + 24개 총 60개 외",
+   "price": "46,357원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728534",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822035154_mQyeCZYG4V.jpg",
+   "product_url": "https://m.cjthemarket.com/the/product/product-main?prdCd=40213293"
   },
   {
    "no": 728533,
@@ -171,6 +180,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728514",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235257_t6eONRQgCL.jpg",
    "product_url": "https://www.lotteon.com/p/product/LO2570976601"
+  },
+  {
+   "no": 728513,
+   "shop": "G마켓",
+   "title": "에어무드 냉감 반팔 여름셔츠",
+   "price": "13,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
   },
   {
    "no": 728511,
@@ -342,15 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728489",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821200004_yEsC8n2a5y.jpg",
    "product_url": "https://dillik.com/products/133441224"
-  },
-  {
-   "no": 728488,
-   "shop": "롯데온",
-   "title": "불스원 발수 와이퍼 + 유막제거티슈",
-   "price": "13,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728488",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821195853_P2MNOnZO2w.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2613539353"
   }
  ]
 }
