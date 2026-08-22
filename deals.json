@@ -1,14 +1,50 @@
 {
- "updated_at": "2026-08-22T04:01:41.157277+00:00",
+ "updated_at": "2026-08-22T04:55:54.155264+00:00",
  "deals": [
   {
-   "no": 728539,
-   "shop": "쿠팡",
-   "title": "액막이 명태",
-   "price": "6,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728539",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822090310_tKnpRAb03L.jpg",
-   "product_url": "https://www.coupang.com/vp/products/9491984654?itemId=28270640495&vendorItemId=95915621018"
+   "no": 728428,
+   "shop": "G마켓",
+   "title": "엄마애바다 쫄깃한 몸통오징어 220g",
+   "price": "9,760원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728428",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821165256_nRaDFpbO7S.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4569893321"
+  },
+  {
+   "no": 728588,
+   "shop": "29cm",
+   "title": "샤인머스켓 특품 1.3kg (2수)",
+   "price": "13,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728588",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822135145_HRlsXZygyL.jpg",
+   "product_url": "https://www.29cm.co.kr/products/4075914"
+  },
+  {
+   "no": 728587,
+   "shop": "롯데온",
+   "title": "바이오가이아 스웨덴 아기 유산균+비타민d 10ml 이지드롭 개당 26,900원",
+   "price": "107,770원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728587",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822131836_KCECPjTPUB.jpg",
+   "product_url": "https://s.lotteon.com/sGh2q-ayHZ"
+  },
+  {
+   "no": 728586,
+   "shop": "카카오",
+   "title": "제주 달콤한 하우스 고당도 감귤 2kg 소과/로얄과",
+   "price": "12,770원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728586",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822131936_eqIMMAlh.jpg",
+   "product_url": "https://store.kakao.com/matgamine/products/584236170"
+  },
+  {
+   "no": 728585,
+   "shop": "지마켓",
+   "title": "더미식 밥알이 살아있는 백미밥 200g 24개",
+   "price": "19,780원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728585",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822131318_uB0pFcGoOp.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/2245630240"
   },
   {
    "no": 728584,
@@ -332,33 +368,6 @@
    "price": "11,610원/무배",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728548",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822104108_1bcfLBSn0q.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728547,
-   "shop": "29CM",
-   "title": "기린 오후의 홍차 밀크티 500ml x 8입",
-   "price": "12,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728547",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822103624_VJmb9l5OfW.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728546,
-   "shop": "네이버",
-   "title": "맥심 모카골드 커피믹스 400개입, 1개",
-   "price": "46,960원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728546",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822102956_Im2xNNSOM0.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728544,
-   "shop": "지마켓",
-   "title": "AHC 마스터즈 에어리치 선스틱 14g 2개",
-   "price": "15,750원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728544",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822101053_10gWUgZj8X.png",
    "product_url": null
   }
  ]
