@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-22T17:10:16.063300+00:00",
+ "updated_at": "2026-08-22T17:42:04.774134+00:00",
  "deals": [
   {
-   "no": 728513,
-   "shop": "G마켓",
-   "title": "에어무드 냉감 반팔 여름셔츠",
-   "price": "13,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+   "no": 728618,
+   "shop": "롯데백화점",
+   "title": "블랙야크키즈 스노우 롱다운자켓",
+   "price": "70,820원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728618",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822184755_EL2hi5jm1g.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LE1220780004?mall_no=2"
   },
   {
    "no": 728670,
@@ -308,15 +308,6 @@
    "product_url": "https://itempage3.auction.co.kr/detailview.aspx?ItemNo=E964993321"
   },
   {
-   "no": 728634,
-   "shop": "카카오",
-   "title": "안동 홍로사과 2kg 중과",
-   "price": "12,825원 / 무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728634",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822203227_EcINsXiOvd.jpg",
-   "product_url": "https://store.kakao.com/youngstore/products/775241527"
-  },
-  {
    "no": 728633,
    "shop": "카카오",
    "title": "파스텔 야돔 오리지널 1세트(6개입)",
@@ -360,6 +351,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728629",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202051_up9hk0hh2D.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4637959036"
+  },
+  {
+   "no": 728628,
+   "shop": "토스쇼핑",
+   "title": "바비온 슬림에어핏 알루미늄 코털 제거기",
+   "price": "3,810원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728628",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822200605_L6ISVUr1.jpg",
+   "product_url": "https://toss.shopping/t/81838743"
   }
  ]
 }
