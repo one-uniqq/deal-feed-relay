@@ -1,14 +1,23 @@
 {
- "updated_at": "2026-08-22T23:09:21.499378+00:00",
+ "updated_at": "2026-08-22T23:41:09.908137+00:00",
  "deals": [
   {
-   "no": 728537,
-   "shop": "오늘의집",
-   "title": "글라스 에어프라이어 4.5L 유리 바스켓",
-   "price": "64,710원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728537",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822085327_XjCDgUqqvv.png",
-   "product_url": "https://store.ohou.se/goods/934306"
+   "no": 728524,
+   "shop": "토스",
+   "title": "스카트 하루한장 THE버블 수세미 100매 2개입 2팩+뽑아쓰는 키친타월 40매 증정",
+   "price": "15,900원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728524",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822003457_j4DIVv4Twt.jpg",
+   "product_url": "https://service.toss.im/shopping-discovery/p/816773443"
+  },
+  {
+   "no": 728675,
+   "shop": "카카오톡딜",
+   "title": "국내산 정품 메론4kg(2수)",
+   "price": "13,230원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728675",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823081532_OpVrQ8h2X1.jpg",
+   "product_url": "https://store.kakao.com/8domall/products/767730100"
   },
   {
    "no": 728674,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728632",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202742_e3tUAQlxJM.jpg",
    "product_url": "https://naver.me/F5fCvdpU"
-  },
-  {
-   "no": 728631,
-   "shop": "토스쇼핑",
-   "title": "수입산 대패삼겹살 1kg 2팩",
-   "price": "15,040원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728631",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202310_IV9kOIeWx5.jpg",
-   "product_url": "https://toss.shopping/t/2540338317"
   }
  ]
 }
