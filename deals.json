@@ -1,14 +1,68 @@
 {
- "updated_at": "2026-08-22T06:18:41.273788+00:00",
+ "updated_at": "2026-08-22T07:51:36.214304+00:00",
  "deals": [
   {
-   "no": 728513,
+   "no": 728444,
+   "shop": "쿠팡",
+   "title": "수압상승 고압 필터 샤워기 헤드",
+   "price": "5,800원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728444",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821164812_CWU1edrBme.jpg",
+   "product_url": "https://link.coupang.com/a/gnVhqnsdVs?abTestInfo=100412_group_A"
+  },
+  {
+   "no": 728602,
    "shop": "G마켓",
-   "title": "에어무드 냉감 반팔 여름셔츠",
-   "price": "13,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+   "title": "LEOBOG GM5 Max 레오보그 8K 무선 게이밍마우스 57g",
+   "price": "24,700원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728602",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822165012_xcP8JIwBpV.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4800376839"
+  },
+  {
+   "no": 728601,
+   "shop": "g마켓",
+   "title": "메로나 20개+비비빅(팥) 20개 등 인기아이스크림 바 40개 골라담기",
+   "price": "19,700원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728601",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822164725_fOzI1ew8fw.png",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4575824834"
+  },
+  {
+   "no": 728600,
+   "shop": "네이버",
+   "title": "삼성 125.7cm(50인치) UHD 4K 1등급 비즈니스TV LH50BEFHLGFXKR 스탠드형",
+   "price": "507,770/네멤무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728600",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822155444_S5oN952x77.png",
+   "product_url": "https://smartstore.naver.com/samsung_monitor/products/12139453925"
+  },
+  {
+   "no": 728599,
+   "shop": "롯데온",
+   "title": "가정용 참송이버섯 500g",
+   "price": "7,980원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728599",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822154409_Zqxz8sS0t5.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2747588576"
+  },
+  {
+   "no": 728598,
+   "shop": "옥션",
+   "title": "서해안 자연산 활 꽃게 100% 생물 3kg 9-18미내외",
+   "price": "29,200원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728598",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822153632_kjwuLHnvXZ.jpeg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F314050683"
+  },
+  {
+   "no": 728597,
+   "shop": "지마켓",
+   "title": "하늘보리/옥수수수염차/카무트현미차/결명자차 외 9종 500ml 20+20 골라담기",
+   "price": "21,870원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728597",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822151801_n5oNrir9i1.jpg",
+   "product_url": "https://m.gmarket.co.kr/vi/product/2328211743"
   },
   {
    "no": 728596,
@@ -306,60 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728562",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110915_Zk1bCdStuF.png",
    "product_url": "https://www.giordano.co.kr/shop/detail.php?pno=15C3EB84AB523C242CD2814E1F76DC01&ctype=1&ctype=1001&filter_iname=06%20%ED%99%94%EC%9D%B4%ED%8A%B8"
-  },
-  {
-   "no": 728561,
-   "shop": "무신사",
-   "title": "JMW M5001A PLUS PRO 고성능 1700W 터보 BLDC 항공모터 헤어 드라이기",
-   "price": "49,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728561",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110710_nEJcLT4f3G.jpg",
-   "product_url": "https://www.musinsa.com/products/3702722"
-  },
-  {
-   "no": 728560,
-   "shop": "네이버",
-   "title": "국산 고등어 100-120g x 10팩",
-   "price": " 12,640원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728560",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110611_8THB2l1ZS6.jpg",
-   "product_url": "https://smartstore.naver.com/burst99/products/13035237911"
-  },
-  {
-   "no": 728559,
-   "shop": "네이버",
-   "title": "필립스 스탠드 스팀다리미 8500 시리즈+보풀제거기 압축파우치L",
-   "price": "농협 비씨 우리 롯데카드 391,530원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728559",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110522_zj02UsEDJy.jpg",
-   "product_url": "https://m.brand.naver.com/philipsdomesticappliances/products/8658218215"
-  },
-  {
-   "no": 728558,
-   "shop": "11번가",
-   "title": "고밀도 메모리폼 경추베개 2종 + 이중 베개커버",
-   "price": "12,980원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728558",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110532_LsleNB3Gs2.jpeg",
-   "product_url": "http://m.11st.co.kr/products/ma/7382262761"
-  },
-  {
-   "no": 728557,
-   "shop": "네이버",
-   "title": "남성 언더웨어 순면 모달 스포츠 3부 롱 드로즈",
-   "price": "5,700원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728557",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822110307_snGaTnogbB.jpg",
-   "product_url": "https://smartstore.naver.com/commonmellow2/products/5348820280"
-  },
-  {
-   "no": 728556,
-   "shop": "롯데온",
-   "title": "녹족 기능성 운동복 반팔,팬츠 등",
-   "price": "8,740원/무료배송",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728556",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822103829_yR2Ei8X939.png",
-   "product_url": "https://s.lotteon.com/iEYPp286Syc"
   }
  ]
 }
