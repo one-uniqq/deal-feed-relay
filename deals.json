@@ -1,14 +1,50 @@
 {
- "updated_at": "2026-08-21T23:12:38.390066+00:00",
+ "updated_at": "2026-08-22T00:31:14.528202+00:00",
  "deals": [
   {
-   "no": 728500,
+   "no": 728494,
+   "shop": "G마켓",
+   "title": "VGN 잠자리3세대 MASTER+ 8K 무선 게이밍마우스",
+   "price": "58,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728494",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821202550_xgrAI0xA3i.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820927843"
+  },
+  {
+   "no": 728539,
+   "shop": "쿠팡",
+   "title": "액막이 명태",
+   "price": "6,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728539",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822090310_tKnpRAb03L.jpg",
+   "product_url": "https://www.coupang.com/vp/products/9491984654?itemId=28270640495&vendorItemId=95915621018"
+  },
+  {
+   "no": 728538,
+   "shop": "GS샵",
+   "title": "이지앤프리 깍둑설기 네모수박 프루트 보관용기 3.7L 2P",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728538",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822090250_EwMh4IyNjr.jpg",
+   "product_url": "https://www.gsshop.com/deal/deal.gs?dealNo=1092192041&kwd=1092192041"
+  },
+  {
+   "no": 728537,
+   "shop": "오늘의집",
+   "title": "글라스 에어프라이어 4.5L 유리 바스켓",
+   "price": "64,710원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728537",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822085327_XjCDgUqqvv.png",
+   "product_url": "https://store.ohou.se/goods/934306"
+  },
+  {
+   "no": 728536,
    "shop": "롯데온",
-   "title": "한영석 도한 청명주 13.8도375ml x2",
-   "price": "34,570원,무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728500",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821210010_vuIGsGLKWK.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2752426642"
+   "title": "펩시콜라 제로슈거 라임 310ml 24캔",
+   "price": "11,910원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728536",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822084659_M3zDMxCYoU.jpeg",
+   "product_url": "https://www.lotteon.com/p/product/LO2681542450"
   },
   {
    "no": 728535,
@@ -324,42 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728493",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821201720_WxfuQ9jhw5.jpeg",
    "product_url": "https://www.lotteon.com/p/product/LO2668095130"
-  },
-  {
-   "no": 728492,
-   "shop": "바디프랜드",
-   "title": "KBO X 바디프랜드 미니 마사지건+마트백",
-   "price": "79,000원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728492",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821201104_FeL5LXgded.jpg",
-   "product_url": "https://bodyfriendmini.cafe24.com/product/detail.html?product_no=78"
-  },
-  {
-   "no": 728491,
-   "shop": "네이버",
-   "title": "맥스 부탄가스 220g x 12개",
-   "price": "11,990원 / N배송 무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728491",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821200638_ZAEME7Gc.jpg",
-   "product_url": "https://naver.me/GahOjEeG"
-  },
-  {
-   "no": 728490,
-   "shop": "더미식",
-   "title": "육즙만두/갈비교자/컵라면/장인라면 등 최대 60%",
-   "price": "다양/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728490",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821195408_sxhrDkTOI7.jpg",
-   "product_url": "https://m.the-mishik.com/product/project.html?cate_no=841"
-  },
-  {
-   "no": 728489,
-   "shop": "딜릭",
-   "title": "김소형 원장 마시는 고함량 알부민 (32,670mg 특허원료2종) 30병x1박스",
-   "price": "19,900원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728489",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821200004_yEsC8n2a5y.jpg",
-   "product_url": "https://dillik.com/products/133441224"
   }
  ]
 }
