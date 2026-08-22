@@ -1,14 +1,41 @@
 {
- "updated_at": "2026-08-22T10:10:44.530630+00:00",
+ "updated_at": "2026-08-22T10:45:37.735731+00:00",
  "deals": [
   {
-   "no": 728486,
-   "shop": "롯데온",
-   "title": "마츠야마 자유여행 2박3일/3박4일",
-   "price": "220,580원~/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728486",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192508_j5L4fV4vg0.jpg",
-   "product_url": "https://www.lotteon.com/product/LO2751768649"
+   "no": 728602,
+   "shop": "G마켓",
+   "title": "LEOBOG GM5 Max 레오보그 8K 무선 게이밍마우스 57g",
+   "price": "24,700원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728602",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822165012_xcP8JIwBpV.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4800376839"
+  },
+  {
+   "no": 728626,
+   "shop": "네이버",
+   "title": "삼육두유 베지밀 두유 모음전",
+   "price": "28,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728626",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822192133_a6oZ24gpeN.jpg",
+   "product_url": "https://naver.me/5QsxH1Ow"
+  },
+  {
+   "no": 728625,
+   "shop": "네이버",
+   "title": "휴대용 냉각 선풍기",
+   "price": "19,400원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728625",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822191538_iypa02OHA8.jpg",
+   "product_url": "https://smartstore.naver.com/molancano/products/13641792251"
+  },
+  {
+   "no": 728624,
+   "shop": "네이버",
+   "title": "타임딜 프로베스트 캣 14.5kg",
+   "price": "22,650원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728624",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822191459_QYCLT1pRio.jpg",
+   "product_url": "https://brand.naver.com/irion-mall/products/11677445169"
   },
   {
    "no": 728623,
@@ -342,33 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728586",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822131936_eqIMMAlh.jpg",
    "product_url": "https://store.kakao.com/matgamine/products/584236170"
-  },
-  {
-   "no": 728585,
-   "shop": "지마켓",
-   "title": "더미식 밥알이 살아있는 백미밥 200g 24개",
-   "price": "19,780원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728585",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822131318_uB0pFcGoOp.jpg",
-   "product_url": "https://m.gmarket.co.kr/vi/product/2245630240"
-  },
-  {
-   "no": 728584,
-   "shop": "카카오톡",
-   "title": "메디힐 마데카 세럼 2개 + 랩핑 세럼 마스크 2매",
-   "price": "22,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728584",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822130041_bq5e5Novih.jpg",
-   "product_url": "https://shoppinglive.kakao.com/live/58686"
-  },
-  {
-   "no": 728583,
-   "shop": "옥션",
-   "title": "국내산 돌산갓김치 1.5kg",
-   "price": "8,640원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728583",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125925_f7xnFKbE4J.jpeg",
-   "product_url": "https://mitem.auction.co.kr/vip?itemNo=B225951520"
   }
  ]
 }
