@@ -1,14 +1,59 @@
 {
- "updated_at": "2026-08-22T09:48:16.273569+00:00",
+ "updated_at": "2026-08-22T10:10:44.530630+00:00",
  "deals": [
   {
-   "no": 728494,
-   "shop": "G마켓",
-   "title": "VGN 잠자리3세대 MASTER+ 8K 무선 게이밍마우스",
-   "price": "58,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728494",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821202550_xgrAI0xA3i.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4820927843"
+   "no": 728486,
+   "shop": "롯데온",
+   "title": "마츠야마 자유여행 2박3일/3박4일",
+   "price": "220,580원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728486",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821192508_j5L4fV4vg0.jpg",
+   "product_url": "https://www.lotteon.com/product/LO2751768649"
+  },
+  {
+   "no": 728623,
+   "shop": "11번가",
+   "title": "멘소래담 스프래이 파스 3종",
+   "price": "8,900원~/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728623",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822190655_DTXwu0RzeT.jpg",
+   "product_url": "http://www.11st.co.kr/products/5447614119/share"
+  },
+  {
+   "no": 728622,
+   "shop": "네이버",
+   "title": "아이스 타올 10매입 쿨 타월 특대형 사이즈",
+   "price": "9,900원/2만이상무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728622",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822190623_XJWGM6i7nB.jpg",
+   "product_url": "https://smartstore.naver.com/jebimarket1/products/13532156399"
+  },
+  {
+   "no": 728621,
+   "shop": "네이버",
+   "title": "지오다노 남자 베이직 반팔 티셔츠 26ss 20컬러",
+   "price": "8,100/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728621",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822190104_ZngPLfj724.png",
+   "product_url": "https://brand.naver.com/giordano/products/13313699478"
+  },
+  {
+   "no": 728620,
+   "shop": "11번가",
+   "title": "디즈니 키즈 아쿠아슈즈",
+   "price": "7,470원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728620",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822190116_OfFhFJvb.jpg",
+   "product_url": "https://www.11st.co.kr/products/2786330382"
+  },
+  {
+   "no": 728619,
+   "shop": "롯데온",
+   "title": "엘칸토 인텐스 남성 3홀 스퀘어 더비 드레스 3cm",
+   "price": "33,980원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728619",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822184333_dvhHvAtVvX.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2269296472"
   },
   {
    "no": 728618,
@@ -324,42 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728583",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125925_f7xnFKbE4J.jpeg",
    "product_url": "https://mitem.auction.co.kr/vip?itemNo=B225951520"
-  },
-  {
-   "no": 728582,
-   "shop": "롯데온",
-   "title": "26년햅쌀 흥양농협 수호천사 건강미 쌀 10kg 상등급",
-   "price": "38,800원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728582",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125721_nMvoqd0lyq.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2746811297"
-  },
-  {
-   "no": 728581,
-   "shop": "11번가",
-   "title": "1++등급 한우 갈비살 400g 구이용 냉장",
-   "price": "32,130원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728581",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125607_IGA2YatPkc.jpg",
-   "product_url": "https://www.11st.co.kr/products/9541716010"
-  },
-  {
-   "no": 728580,
-   "shop": "토스",
-   "title": "곰팡이 제거제 500ml",
-   "price": "8,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728580",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125423_3n4L7cb9Ch.jpg",
-   "product_url": "https://toss.shopping/t/10001321"
-  },
-  {
-   "no": 728579,
-   "shop": "SK스토아",
-   "title": "두부 어묵바 150g 30개",
-   "price": "9,520원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728579",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822125447_DiZ4Hp9wTw.jpeg",
-   "product_url": "https://www.skstoa.com/display/goods/67385139"
   }
  ]
 }
