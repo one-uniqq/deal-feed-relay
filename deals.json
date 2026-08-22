@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-08-22T22:09:18.168613+00:00",
+ "updated_at": "2026-08-22T22:43:46.684106+00:00",
  "deals": [
   {
-   "no": 728513,
-   "shop": "G마켓",
-   "title": "에어무드 냉감 반팔 여름셔츠",
-   "price": "13,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+   "no": 728537,
+   "shop": "오늘의집",
+   "title": "글라스 에어프라이어 4.5L 유리 바스켓",
+   "price": "64,710원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728537",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822085327_XjCDgUqqvv.png",
+   "product_url": "https://store.ohou.se/goods/934306"
   },
   {
    "no": 728673,
@@ -54,15 +54,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728669",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823004721_oPtXXXad1Z.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4826568632"
-  },
-  {
-   "no": 728668,
-   "shop": "토스쇼핑",
-   "title": "크리넥스 데코&소프트, 3겹, 28m, 24롤, 2팩",
-   "price": "24,400원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728668",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823010120_GQep67vp.jpg",
-   "product_url": "https://toss.shopping/t/170131943?k=ba5b7d00-42cc-404e-9df5-f29aa6ff95a4"
   },
   {
    "no": 728667,
@@ -245,15 +236,6 @@
    "product_url": null
   },
   {
-   "no": 728647,
-   "shop": "토스",
-   "title": "수입 대패삼겹, 1kg, 2팩",
-   "price": "15,040/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728647",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822224211_jQ3rqul96A.webp",
-   "product_url": null
-  },
-  {
    "no": 728645,
    "shop": "토스",
    "title": "스파클 500미리 생수 80병",
@@ -360,6 +342,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728631",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202310_IV9kOIeWx5.jpg",
    "product_url": "https://toss.shopping/t/2540338317"
+  },
+  {
+   "no": 728630,
+   "shop": "듀이셀",
+   "title": "듀이셀 프라이빗케어 마스크팩 1+1",
+   "price": "25,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728630",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202256_9UcmJfOTcU.jpg",
+   "product_url": "https://dewycel.co.kr/shop/shopdetail.html?branduid=2010063"
   }
  ]
 }
