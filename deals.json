@@ -1,14 +1,32 @@
 {
- "updated_at": "2026-08-22T17:42:04.774134+00:00",
+ "updated_at": "2026-08-22T18:54:06.124628+00:00",
  "deals": [
   {
-   "no": 728618,
-   "shop": "롯데백화점",
-   "title": "블랙야크키즈 스노우 롱다운자켓",
-   "price": "70,820원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728618",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822184755_EL2hi5jm1g.jpg",
-   "product_url": "https://www.lotteon.com/p/product/LE1220780004?mall_no=2"
+   "no": 728513,
+   "shop": "G마켓",
+   "title": "에어무드 냉감 반팔 여름셔츠",
+   "price": "13,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728513",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0821/20260821235939_c4iLvMplYw.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4817089470"
+  },
+  {
+   "no": 728672,
+   "shop": "풀무원",
+   "title": "사계절 아삭 김치 10kg",
+   "price": "31,957/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728672",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823030216_TdRK0EGoIQ.jpg",
+   "product_url": "https://shop.pulmuone.co.kr/shop/goodsView/44584?ContentCd=1338&PageCd=P_MO_GNB5"
+  },
+  {
+   "no": 728671,
+   "shop": "지마켓",
+   "title": "스마트폰 맥세이프 투명 케이스 1+1",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728671",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823024410_XyNZXUCKn2.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4066696247"
   },
   {
    "no": 728670,
@@ -342,24 +360,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728630",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202256_9UcmJfOTcU.jpg",
    "product_url": "https://dewycel.co.kr/shop/shopdetail.html?branduid=2010063"
-  },
-  {
-   "no": 728629,
-   "shop": "지마켓",
-   "title": "푸마 남성 러닝화 트레이닝화 데일리 운동화 밀레니오",
-   "price": "29,970원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728629",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202051_up9hk0hh2D.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4637959036"
-  },
-  {
-   "no": 728628,
-   "shop": "토스쇼핑",
-   "title": "바비온 슬림에어핏 알루미늄 코털 제거기",
-   "price": "3,810원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728628",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822200605_L6ISVUr1.jpg",
-   "product_url": "https://toss.shopping/t/81838743"
   }
  ]
 }
