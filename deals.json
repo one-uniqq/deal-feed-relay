@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T22:43:46.684106+00:00",
+ "updated_at": "2026-08-22T23:09:21.499378+00:00",
  "deals": [
   {
    "no": 728537,
@@ -9,6 +9,15 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728537",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822085327_XjCDgUqqvv.png",
    "product_url": "https://store.ohou.se/goods/934306"
+  },
+  {
+   "no": 728674,
+   "shop": "토스",
+   "title": "단하루특가 광동 V라인 옥수수수염차500ml X 20병 1병당 695원",
+   "price": "13,900원/무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728674",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823074957_NN8hvvor.jpg",
+   "product_url": "https://toss.shopping/t/1741307375"
   },
   {
    "no": 728673,
@@ -342,15 +351,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728631",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202310_IV9kOIeWx5.jpg",
    "product_url": "https://toss.shopping/t/2540338317"
-  },
-  {
-   "no": 728630,
-   "shop": "듀이셀",
-   "title": "듀이셀 프라이빗케어 마스크팩 1+1",
-   "price": "25,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728630",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0822/20260822202256_9UcmJfOTcU.jpg",
-   "product_url": "https://dewycel.co.kr/shop/shopdetail.html?branduid=2010063"
   }
  ]
 }
