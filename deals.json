@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T08:16:02.969054+00:00",
+ "updated_at": "2026-08-23T08:54:05.552683+00:00",
  "deals": [
   {
    "no": 728665,
@@ -9,6 +9,33 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728665",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823003057_KJh9JIqsmN.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4783750090"
+  },
+  {
+   "no": 728741,
+   "shop": "롯데온",
+   "title": "국내산 순살 춘천닭갈비 500g 4팩",
+   "price": "16,570원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728741",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823174535_HJmwTBfYSJ.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2746181002"
+  },
+  {
+   "no": 728740,
+   "shop": "쇼핑몰",
+   "title": "상품명과 구성품 (가격/배송비) &lt;- 가격은 1,000단위 구분 쉼표(,를 넣어주세요. 배송비가 없으면 '무료'라고 적어주세요.",
+   "price": "",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728740",
+   "thumb_url": "",
+   "product_url": "https://krw-realprice.krwprice.workers.dev"
+  },
+  {
+   "no": 728739,
+   "shop": "지마켓",
+   "title": "앤드지 남성 프리미엄 모100프로 모폴리혼방 스판정장 4종 택1 BXE4S",
+   "price": "98,040원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728739",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823171749_5krg7sXHR9.jpg",
+   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4835821939"
   },
   {
    "no": 728738,
@@ -342,33 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728701",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823111852_KfXo5l9biB.jpg",
    "product_url": "https://www.11st.co.kr/products/5657572372"
-  },
-  {
-   "no": 728700,
-   "shop": "네이버",
-   "title": "푸마 발목양말 10족",
-   "price": "12,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728700",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823111810_60QLbysY49.jpg",
-   "product_url": "https://smartstore.naver.com/soft3777/products/8084273963"
-  },
-  {
-   "no": 728699,
-   "shop": "네이버",
-   "title": "용대리식 황태 해장국 600g 4팩",
-   "price": "11,900원/네멤무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728699",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823111150_6E4VfVDSZ5.jpg",
-   "product_url": "https://brand.naver.com/lohasmart/products/13026926112"
-  },
-  {
-   "no": 728698,
-   "shop": "롯데온",
-   "title": "마이밀 마시는 뉴프로틴 190mlx16팩",
-   "price": "18,530원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728698",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823110537_Agn6DMQubq.jpeg",
-   "product_url": "https://www.lotteon.com/p/product/LO2146593418"
   }
  ]
 }
