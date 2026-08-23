@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T06:20:25.635976+00:00",
+ "updated_at": "2026-08-23T07:08:12.850446+00:00",
  "deals": [
   {
    "no": 728665,
@@ -11,10 +11,55 @@
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4783750090"
   },
   {
+   "no": 728729,
+   "shop": "롯데온",
+   "title": "삼색꿀떡 2박스",
+   "price": "9,770원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728729",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823160158_49ucharg1f.jpg",
+   "product_url": "https://www.lotteon.com/p/product/LO2499510100"
+  },
+  {
+   "no": 728728,
+   "shop": "옥션",
+   "title": "온플러그 전상품 KC인증",
+   "price": "무료배송",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728728",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823160241_22m1eA9FbG.jpg",
+   "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=F256768139"
+  },
+  {
+   "no": 728727,
+   "shop": "카카오",
+   "title": "롯데 칠성 펩시 제로슈거 라임 제로카페인등 교차o 3,740원 추가적립",
+   "price": "29,920원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728727",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823155846_rSWXxnfDUw.png",
+   "product_url": "https://store.kakao.com/lottechilsung/products/778504901"
+  },
+  {
+   "no": 728726,
+   "shop": "CJ온스타일",
+   "title": "동국제약 마데카 크림 에이징포커스 대용량 20개+멜라에센스 특대용량 6개+체험분",
+   "price": "179100원 / 무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728726",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823154943_9PPW57Q5Xw.png",
+   "product_url": "https://display.cjonstyle.com/p/mocode/M1241906"
+  },
+  {
+   "no": 728725,
+   "shop": "11번가",
+   "title": "남양 경기미 10kg 상등급",
+   "price": "26,640원/무배",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728725",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823152842_uRwI3azB.jpg",
+   "product_url": "https://www.11st.co.kr/products/9255708792"
+  },
+  {
    "no": 728724,
    "shop": "옥션",
    "title": "수박 4kg 내외",
-   "price": "14,900원/무료",
+   "price": "11,920원/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728724",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823150747_vlVSevsfep.jpg",
    "product_url": "https://itempage3.auction.co.kr/DetailView.aspx?ItemNo=F624006608"
@@ -324,51 +369,6 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728687",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823095623_xK3XbbVdS3.jpeg",
    "product_url": null
-  },
-  {
-   "no": 728686,
-   "shop": "오늘의집",
-   "title": "거반도 납작복숭아 정품 500g",
-   "price": "13,500원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728686",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823095258_6eAxK5OF8Q.png",
-   "product_url": null
-  },
-  {
-   "no": 728685,
-   "shop": "지마켓",
-   "title": "쇠고기집 프리미엄 육포 + 쇼핑백선물세트(임박)",
-   "price": "17,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728685",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823100014_XnbgILNWCT.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728684,
-   "shop": "롯데온",
-   "title": "칠갑농산 냉천골 쌀로수제비 500g x 4개",
-   "price": "7,520원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728684",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823095758_og7yEez7nU.jpeg",
-   "product_url": null
-  },
-  {
-   "no": 728683,
-   "shop": "오늘의집",
-   "title": "IGT호환 접이식 캠핑 테이블",
-   "price": "15,438원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728683",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823095730_0MsBMTFy0i.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728681,
-   "shop": "지마켓",
-   "title": "슈뻘맨의 숨은 과학/ 국어 찾기 시리즈 전권선택",
-   "price": "13,610원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728681",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823092729_K2pMw3S2rO.jpg",
-   "product_url": "https://item.gmarket.co.kr/Item?goodscode=4819559970"
   }
  ]
 }
