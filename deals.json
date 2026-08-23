@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T07:08:12.850446+00:00",
+ "updated_at": "2026-08-23T07:53:15.817785+00:00",
  "deals": [
   {
    "no": 728665,
@@ -9,6 +9,24 @@
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728665",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823003057_KJh9JIqsmN.jpg",
    "product_url": "https://item.gmarket.co.kr/Item?goodscode=4783750090"
+  },
+  {
+   "no": 728731,
+   "shop": "롯데온",
+   "title": "폴햄 쿨코튼 크루넥 반팔티셔츠 PHG5TS3010",
+   "price": "9,010원/3,000원",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728731",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823163204_Ir6Afc8y.jpg",
+   "product_url": "https://www.lotteon.com/m/product/LE1222085458"
+  },
+  {
+   "no": 728730,
+   "shop": "네이버",
+   "title": "한돈 돼지 고추장주물럭 1kg",
+   "price": "9,900원/무료",
+   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728730",
+   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823160813_oSW9BGTy5a.jpg",
+   "product_url": "https://smartstore.naver.com/daebakstore_good/products/13720308650"
   },
   {
    "no": 728729,
@@ -350,24 +368,6 @@
    "price": "22,140/무료",
    "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728689",
    "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823100916_rPYqO0XGgt.png",
-   "product_url": null
-  },
-  {
-   "no": 728688,
-   "shop": "Cj온스타일",
-   "title": "500g 잡곡골라담기 귀리렌틸혼합17곡 외 6종",
-   "price": "1,900원/무료",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728688",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823100237_rbpJO1XqLt.jpg",
-   "product_url": null
-  },
-  {
-   "no": 728687,
-   "shop": "오늘의집",
-   "title": "비스포크 AI 냉장고 4도어 902L 1등급",
-   "price": "1,949,000원/무배",
-   "post_url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=728687",
-   "thumb_url": "https://cdn2.ppomppu.co.kr/zboard/data3/2026/0823/20260823095623_xK3XbbVdS3.jpeg",
    "product_url": null
   }
  ]
